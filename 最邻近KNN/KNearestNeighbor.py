@@ -1,13 +1,7 @@
-# -*- coding: UTF-8 -*-
 import math
 import csv
 import random
 import operator
-
-'''
-@author:hunter
-@time:2017.03.31
-'''
 
 class KNearestNeighbor(object):
     def __init__(self):
