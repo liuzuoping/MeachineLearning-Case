@@ -1,0 +1,1001 @@
+region,tenure,age,marital,address,income,ed,employ,retire,gender,reside,tollfree,equip,callcard,wireless,longmon,tollmon,equipmon,cardmon,wiremon,longten,tollten,equipten,cardten,wireten,multline,voice,pager,internet,callwait,forward,confer,ebill,lninc,custcat,churn
+Zone 2,13,44,Married,9,64.00,College degree,5,No,Male,2,No,No,Yes,No,3.70,0.00,0.00,7.50,0.00,37.45,0.00,0.00,110.00,0.00,No,No,No,No,No,Yes,No,No,4.16,Basic service,Yes
+Zone 3,11,33,Married,7,136.00,Post-undergraduate degree,5,No,Male,6,Yes,No,Yes,Yes,4.40,20.75,0.00,15.25,35.70,42.00,211.45,0.00,125.00,380.35,No,Yes,Yes,No,Yes,Yes,Yes,No,4.91,Total service,Yes
+Zone 3,68,52,Married,24,116.00,Did not complete high school,29,No,Female,2,Yes,No,Yes,No,18.15,18.00,0.00,30.25,0.00,"1,300.60","1,247.20",0.00,"2,150.00",0.00,No,No,No,No,Yes,No,Yes,No,4.75,Plus service,No
+Zone 2,33,33,Unmarried,12,33.00,High school degree,0,No,Female,1,No,No,No,No,9.45,0.00,0.00,0.00,0.00,288.80,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.50,Basic service,Yes
+Zone 2,23,30,Married,9,30.00,Did not complete high school,2,No,Male,4,No,No,No,No,6.30,0.00,0.00,0.00,0.00,157.05,0.00,0.00,0.00,0.00,No,No,No,No,No,Yes,Yes,No,3.40,Plus service,No
+Zone 2,41,39,Unmarried,17,78.00,High school degree,16,No,Female,1,Yes,No,Yes,No,11.80,19.25,0.00,13.50,0.00,487.40,798.40,0.00,570.00,0.00,No,No,No,No,Yes,No,No,No,4.36,Plus service,No
+Zone 3,45,22,Married,2,19.00,High school degree,4,No,Female,5,No,No,Yes,No,10.90,0.00,0.00,8.75,0.00,504.50,0.00,0.00,415.00,0.00,Yes,No,No,Yes,Yes,No,No,Yes,2.94,E-service,Yes
+Zone 2,38,35,Unmarried,5,76.00,High school degree,10,No,Male,3,Yes,Yes,Yes,Yes,6.05,45.00,50.10,23.25,64.90,239.55,"1,873.05","1,820.90",880.00,"2,256.70",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.33,Total service,No
+Zone 3,45,59,Married,7,166.00,College degree,31,No,Male,5,Yes,No,Yes,No,9.75,28.50,0.00,12.00,0.00,449.05,"1,240.15",0.00,505.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,5.11,Plus service,No
+Zone 1,68,41,Married,21,72.00,Did not complete high school,22,No,Male,3,No,No,Yes,No,24.15,0.00,0.00,16.50,0.00,"1,659.70",0.00,0.00,"1,155.00",0.00,Yes,No,No,No,No,No,No,No,4.28,E-service,No
+Zone 2,5,33,Unmarried,10,125.00,College degree,5,No,Female,1,No,Yes,No,No,4.85,0.00,26.15,0.00,0.00,17.25,0.00,110.10,0.00,0.00,No,No,Yes,Yes,No,No,No,Yes,4.83,Basic service,Yes
+Zone 3,7,35,Unmarried,14,80.00,High school degree,15,No,Female,1,Yes,No,Yes,No,7.10,22.00,0.00,23.75,0.00,47.45,166.10,0.00,145.00,0.00,No,Yes,No,No,Yes,Yes,Yes,No,4.38,Plus service,No
+Zone 1,41,38,Married,8,37.00,High school degree,9,No,Female,3,No,No,Yes,No,8.55,0.00,0.00,41.75,0.00,308.70,0.00,0.00,"1,650.00",0.00,No,No,No,No,No,No,No,No,3.61,Basic service,No
+Zone 2,57,54,Married,30,115.00,College degree,23,No,Female,3,Yes,Yes,No,Yes,15.60,46.25,46.70,0.00,61.05,825.35,"2,624.25","2,590.95",0.00,"3,348.85",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.74,Total service,Yes
+Zone 2,9,46,Unmarried,3,25.00,Did not complete high school,8,No,Female,2,No,No,No,No,4.40,0.00,0.00,0.00,0.00,36.80,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.22,Basic service,No
+Zone 1,29,38,Married,12,75.00,Post-undergraduate degree,1,No,Male,4,No,Yes,Yes,No,5.10,0.00,30.25,11.25,0.00,146.25,0.00,780.80,295.00,0.00,Yes,No,No,Yes,No,No,No,No,4.32,E-service,No
+Zone 3,60,57,Unmarried,38,162.00,High school degree,30,No,Male,1,Yes,Yes,Yes,No,16.15,29.75,31.30,30.00,0.00,946.90,"1,767.60","1,788.95","1,795.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,5.09,Plus service,No
+Zone 3,34,48,Unmarried,3,49.00,High school degree,6,No,Female,3,Yes,No,No,No,6.65,18.50,0.00,0.00,0.00,230.80,614.30,0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.89,Plus service,No
+Zone 2,1,24,Unmarried,3,20.00,Did not complete high school,3,No,Male,1,No,No,No,No,1.05,0.00,0.00,0.00,0.00,1.05,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.00,Basic service,No
+Zone 1,26,29,Married,3,77.00,College degree,2,No,Male,4,No,Yes,Yes,Yes,6.70,0.00,48.10,24.25,38.30,140.95,0.00,"1,132.80",610.00,910.10,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.34,Total service,Yes
+Zone 3,6,30,Unmarried,7,16.00,Some college,1,No,Female,1,No,Yes,No,Yes,3.75,0.00,33.80,0.00,18.70,25.65,0.00,175.30,0.00,78.20,Yes,No,Yes,Yes,Yes,No,No,No,2.77,E-service,Yes
+Zone 1,68,52,Married,17,120.00,Did not complete high school,24,No,Male,2,No,No,Yes,No,20.70,0.00,0.00,22.00,0.00,"1,391.05",0.00,0.00,"1,505.00",0.00,No,No,No,No,No,Yes,No,No,4.79,Basic service,No
+Zone 3,53,33,Unmarried,10,101.00,Post-undergraduate degree,4,No,Female,2,No,Yes,Yes,Yes,5.30,0.00,49.60,26.75,51.40,253.35,0.00,"2,499.80","1,340.00","2,645.15",Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.62,Total service,No
+Zone 3,55,48,Married,19,67.00,Did not complete high school,25,No,Male,3,No,No,Yes,No,15.05,0.00,0.00,27.25,0.00,810.45,0.00,0.00,"1,390.00",0.00,No,No,No,No,No,No,No,No,4.20,Basic service,No
+Zone 3,14,43,Married,18,36.00,Did not complete high school,5,No,Male,5,Yes,No,Yes,No,12.50,19.75,0.00,18.00,0.00,153.75,273.75,0.00,215.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.58,Plus service,No
+Zone 2,1,21,Unmarried,0,33.00,High school degree,0,No,Female,3,Yes,No,Yes,No,2.20,20.75,0.00,40.50,0.00,2.20,20.75,0.00,40.50,0.00,No,No,No,No,Yes,Yes,Yes,No,3.50,Plus service,No
+Zone 2,42,40,Unmarried,7,37.00,High school degree,8,No,Female,1,Yes,Yes,Yes,Yes,8.25,23.50,36.90,28.00,37.40,399.15,950.65,"1,532.90","1,190.00","1,562.00",Yes,Yes,No,Yes,Yes,No,Yes,Yes,3.61,Total service,No
+Zone 3,25,33,Married,11,31.00,Did not complete high school,5,No,Male,4,No,No,No,No,9.10,0.00,0.00,0.00,0.00,234.95,0.00,0.00,0.00,0.00,Yes,No,No,No,No,Yes,No,No,3.43,Plus service,No
+Zone 1,9,21,Married,1,17.00,High school degree,2,No,Female,3,No,No,No,No,2.90,0.00,0.00,0.00,0.00,25.25,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,2.83,Basic service,No
+Zone 2,13,33,Married,9,19.00,College degree,0,No,Female,2,No,Yes,No,No,5.55,0.00,27.35,0.00,0.00,75.25,0.00,330.65,0.00,0.00,Yes,No,No,Yes,No,No,Yes,Yes,2.94,E-service,No
+Zone 1,56,37,Married,6,36.00,Did not complete high school,13,No,Female,2,No,Yes,Yes,No,10.60,0.00,31.10,18.25,0.00,582.60,0.00,"1,756.35","1,005.00",0.00,Yes,No,No,Yes,No,No,No,Yes,3.58,E-service,No
+Zone 1,71,53,Married,27,155.00,Post-undergraduate degree,12,No,Male,2,Yes,No,Yes,Yes,21.00,56.00,0.00,34.00,49.95,"1,519.20","4,064.30",0.00,"2,345.00","3,646.90",Yes,Yes,No,Yes,No,Yes,Yes,Yes,5.04,Total service,No
+Zone 1,35,50,Married,26,140.00,High school degree,21,No,Female,4,Yes,No,Yes,No,6.50,27.50,0.00,35.00,0.00,247.55,"1,068.25",0.00,"1,215.00",0.00,No,No,No,No,Yes,Yes,Yes,No,4.94,Plus service,No
+Zone 1,11,27,Married,8,55.00,Post-undergraduate degree,0,No,Male,3,No,Yes,No,No,4.80,0.00,19.55,0.00,0.00,54.10,0.00,220.40,0.00,0.00,Yes,No,No,Yes,No,No,No,No,4.01,E-service,No
+Zone 2,60,46,Married,13,163.00,Some college,24,No,Male,2,Yes,Yes,Yes,Yes,33.90,38.25,44.65,13.75,55.25,"1,947.95","2,326.35","2,645.85",840.00,"3,125.95",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.09,Total service,No
+Zone 3,20,35,Married,11,52.00,College degree,0,No,Male,2,No,Yes,No,No,4.25,0.00,30.55,0.00,0.00,82.70,0.00,547.15,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.95,E-service,Yes
+Zone 2,54,60,Unmarried,38,211.00,College degree,25,No,Male,1,Yes,Yes,Yes,Yes,21.15,39.25,46.35,54.25,54.85,"1,228.70","2,102.25","2,421.30","2,785.00","2,895.85",Yes,Yes,Yes,Yes,No,No,Yes,Yes,5.35,Total service,No
+Zone 1,44,57,Married,1,186.00,High school degree,17,No,Male,2,Yes,No,Yes,Yes,9.80,33.50,0.00,36.00,41.65,428.25,"1,379.55",0.00,"1,535.00","1,826.70",Yes,Yes,No,No,Yes,Yes,Yes,No,5.23,Plus service,No
+Zone 1,11,41,Married,0,39.00,Did not complete high school,1,No,Female,2,Yes,No,Yes,No,6.55,29.25,0.00,19.75,0.00,67.80,303.65,0.00,200.00,0.00,No,Yes,No,No,Yes,Yes,Yes,No,3.66,Plus service,Yes
+Zone 2,72,57,Unmarried,34,22.00,High school degree,35,Yes,Female,1,Yes,No,Yes,No,41.75,49.00,0.00,18.75,0.00,"3,043.05","3,581.00",0.00,"1,360.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,3.09,Plus service,No
+Zone 3,10,41,Unmarried,7,30.00,Did not complete high school,7,No,Male,1,Yes,No,Yes,No,2.50,19.25,0.00,53.75,0.00,31.25,178.20,0.00,490.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.40,Plus service,No
+Zone 2,15,28,Unmarried,0,29.00,High school degree,4,No,Female,1,Yes,No,Yes,No,4.25,30.00,0.00,17.75,0.00,78.00,426.05,0.00,255.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.37,Plus service,No
+Zone 2,27,28,Married,4,23.00,High school degree,8,No,Male,5,No,No,No,No,6.20,0.00,0.00,0.00,0.00,180.15,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.14,Basic service,No
+Zone 1,9,36,Married,14,62.00,College degree,10,No,Male,6,No,Yes,No,Yes,5.65,0.00,46.75,0.00,48.50,43.30,0.00,386.60,0.00,364.85,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4.13,Total service,Yes
+Zone 1,64,43,Married,20,76.00,College degree,20,No,Female,4,Yes,No,Yes,No,14.70,18.75,0.00,11.00,0.00,897.05,"1,279.25",0.00,680.00,0.00,Yes,No,No,No,Yes,No,Yes,No,4.33,Plus service,No
+Zone 1,65,41,Married,3,74.00,College degree,16,No,Male,2,No,Yes,Yes,No,14.50,0.00,37.00,17.00,0.00,963.30,0.00,"2,263.05","1,065.00",0.00,Yes,Yes,No,Yes,No,No,No,Yes,4.30,E-service,No
+Zone 1,49,51,Married,27,63.00,College degree,19,No,Male,5,Yes,No,Yes,No,12.85,25.75,0.00,14.25,0.00,585.60,"1,278.45",0.00,635.00,0.00,Yes,No,No,Yes,Yes,No,No,Yes,4.14,E-service,No
+Zone 3,47,41,Married,0,36.00,College degree,8,No,Male,2,No,Yes,Yes,Yes,7.75,0.00,37.45,18.50,38.80,361.00,0.00,"1,717.75",845.00,"1,730.40",Yes,No,Yes,Yes,Yes,No,Yes,Yes,3.58,Total service,Yes
+Zone 3,9,34,Married,9,33.00,High school degree,8,No,Female,4,No,Yes,No,No,2.95,0.00,22.95,0.00,0.00,18.90,0.00,208.55,0.00,0.00,No,No,No,No,No,No,No,No,3.50,Basic service,Yes
+Zone 1,5,36,Unmarried,14,29.00,High school degree,9,No,Female,1,Yes,No,Yes,Yes,3.25,31.50,0.00,15.50,26.75,16.80,154.65,0.00,60.00,98.60,No,No,No,Yes,Yes,Yes,Yes,Yes,3.37,Plus service,Yes
+Zone 2,30,34,Married,4,27.00,High school degree,1,No,Male,5,No,Yes,No,No,6.30,0.00,22.50,0.00,0.00,150.90,0.00,690.75,0.00,0.00,No,No,No,Yes,No,No,No,No,3.30,Basic service,Yes
+Zone 1,56,52,Married,28,49.00,High school degree,12,No,Male,4,No,No,Yes,No,24.75,0.00,0.00,22.25,0.00,"1,349.05",0.00,0.00,"1,215.00",0.00,Yes,No,No,No,No,No,No,No,3.89,E-service,No
+Zone 3,10,22,Unmarried,0,24.00,College degree,0,No,Male,1,Yes,Yes,Yes,Yes,7.80,23.75,37.25,22.50,30.05,63.00,222.55,330.40,185.00,306.30,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.18,Total service,No
+Zone 1,7,26,Married,3,26.00,High school degree,2,No,Male,5,Yes,No,No,No,4.85,15.50,0.00,0.00,0.00,33.70,136.55,0.00,0.00,0.00,No,No,No,No,Yes,No,No,No,3.26,Basic service,No
+Zone 1,52,27,Unmarried,6,47.00,Some college,5,No,Male,2,Yes,No,Yes,No,6.25,18.50,0.00,14.25,0.00,330.40,942.65,0.00,725.00,0.00,No,No,No,No,No,No,No,Yes,3.85,Basic service,No
+Zone 2,36,45,Married,1,94.00,High school degree,18,No,Female,5,Yes,Yes,No,No,7.20,15.75,28.35,0.00,0.00,258.75,553.80,"1,043.80",0.00,0.00,No,No,Yes,Yes,No,No,Yes,No,4.54,Basic service,Yes
+Zone 3,27,34,Unmarried,8,21.00,Some college,4,No,Female,1,No,No,No,No,7.65,0.00,0.00,0.00,0.00,213.45,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,No,3.04,E-service,No
+Zone 1,58,62,Married,36,27.00,Did not complete high school,0,No,Male,2,No,No,Yes,No,15.50,0.00,0.00,34.50,0.00,967.10,0.00,0.00,"1,910.00",0.00,No,No,No,No,No,No,No,No,3.30,Basic service,No
+Zone 2,41,52,Unmarried,27,30.00,High school degree,2,No,Female,1,Yes,No,Yes,Yes,10.40,28.00,0.00,19.00,27.50,447.85,"1,152.00",0.00,800.00,"1,036.65",No,No,No,No,Yes,Yes,Yes,No,3.40,Plus service,No
+Zone 2,47,40,Married,16,127.00,College degree,12,No,Female,4,No,Yes,Yes,No,19.70,0.00,28.15,14.75,0.00,909.90,0.00,"1,319.70",680.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.84,E-service,No
+Zone 2,55,39,Married,15,137.00,High school degree,20,No,Female,2,Yes,No,Yes,No,12.70,27.50,0.00,11.50,0.00,676.90,"1,505.20",0.00,620.00,0.00,No,Yes,No,No,Yes,Yes,Yes,No,4.92,Plus service,Yes
+Zone 2,56,50,Married,1,80.00,High school degree,24,No,Female,4,Yes,No,Yes,Yes,28.80,55.50,0.00,21.25,61.10,"1,558.10","3,119.45",0.00,"1,065.00","3,268.05",Yes,Yes,Yes,No,Yes,Yes,Yes,No,4.38,Total service,No
+Zone 3,35,55,Unmarried,24,30.00,High school degree,2,No,Male,1,No,No,Yes,No,10.25,0.00,0.00,15.75,0.00,395.85,0.00,0.00,550.00,0.00,No,No,No,No,No,No,No,No,3.40,Basic service,No
+Zone 2,69,51,Married,11,438.00,College degree,23,No,Female,2,No,Yes,Yes,No,29.00,0.00,47.05,24.75,0.00,"1,815.40",0.00,"3,064.15","1,655.00",0.00,Yes,No,Yes,Yes,No,No,Yes,No,6.08,Total service,No
+Zone 2,44,39,Unmarried,16,79.00,High school degree,16,No,Male,1,Yes,Yes,Yes,Yes,15.25,24.50,37.45,27.25,30.05,653.70,"1,037.45","1,610.10","1,110.00","1,280.00",Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,4.37,Total service,Yes
+Zone 3,36,47,Married,16,63.00,Did not complete high school,23,No,Male,2,No,No,Yes,No,9.05,0.00,0.00,6.75,0.00,373.65,0.00,0.00,220.00,0.00,No,No,No,No,No,No,No,No,4.14,Basic service,No
+Zone 3,28,51,Married,22,40.00,Some college,10,No,Female,6,Yes,No,No,No,8.95,21.25,0.00,0.00,0.00,253.55,586.95,0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.69,Plus service,No
+Zone 1,72,67,Married,44,51.00,Did not complete high school,34,Yes,Male,2,Yes,No,Yes,No,57.05,51.50,0.00,19.25,0.00,"4,168.25","3,657.90",0.00,"1,345.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,3.93,Plus service,No
+Zone 1,16,27,Unmarried,5,37.00,Some college,5,No,Male,4,No,No,No,No,6.00,0.00,0.00,0.00,0.00,80.70,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.61,Basic service,No
+Zone 3,3,43,Unmarried,19,61.00,College degree,11,No,Female,1,No,Yes,Yes,Yes,3.15,0.00,27.25,16.25,17.95,7.90,0.00,53.25,20.00,38.20,No,No,No,Yes,No,No,Yes,Yes,4.11,Basic service,Yes
+Zone 1,40,57,Married,15,22.00,High school degree,9,No,Male,2,No,No,Yes,No,8.55,0.00,0.00,19.75,0.00,381.50,0.00,0.00,710.00,0.00,No,No,No,No,No,No,No,No,3.09,Basic service,No
+Zone 3,16,39,Unmarried,6,44.00,College degree,3,No,Female,1,No,Yes,No,No,6.60,0.00,23.30,0.00,0.00,96.30,0.00,350.15,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.78,E-service,No
+Zone 1,20,42,Unmarried,4,17.00,Some college,5,No,Male,1,No,No,No,No,7.80,0.00,0.00,0.00,0.00,175.85,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,2.83,Basic service,No
+Zone 2,48,43,Unmarried,13,110.00,Post-undergraduate degree,15,No,Female,3,No,Yes,No,Yes,7.25,0.00,33.50,0.00,20.65,359.35,0.00,"1,572.70",0.00,"1,010.40",Yes,Yes,No,Yes,No,No,No,Yes,4.70,E-service,No
+Zone 2,64,48,Married,13,91.00,High school degree,24,No,Male,2,Yes,No,Yes,Yes,24.50,24.75,0.00,12.50,29.65,"1,531.90","1,569.25",0.00,780.00,"1,875.95",Yes,No,No,No,Yes,Yes,Yes,No,4.51,Plus service,No
+Zone 1,8,46,Unmarried,3,46.00,High school degree,8,No,Male,1,No,Yes,No,No,3.15,0.00,25.05,0.00,0.00,16.65,0.00,172.05,0.00,0.00,No,No,Yes,Yes,No,No,No,Yes,3.83,Basic service,No
+Zone 1,40,38,Married,10,85.00,Some college,12,No,Male,2,No,No,No,No,10.60,0.00,0.00,0.00,0.00,384.80,0.00,0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.44,Plus service,Yes
+Zone 2,38,71,Unmarried,27,10.00,High school degree,12,Yes,Male,1,No,No,No,No,11.20,0.00,0.00,0.00,0.00,429.85,0.00,0.00,0.00,0.00,No,No,No,No,No,No,Yes,No,2.30,Basic service,No
+Zone 1,67,68,Unmarried,28,244.00,Did not complete high school,47,No,Female,1,Yes,No,Yes,No,30.25,30.25,0.00,30.75,0.00,"2,186.20","2,036.15",0.00,"2,105.00",0.00,No,Yes,No,No,Yes,Yes,Yes,No,5.50,Plus service,No
+Zone 1,26,42,Unmarried,0,80.00,College degree,15,No,Female,1,Yes,Yes,Yes,Yes,7.85,44.00,49.60,10.50,43.75,196.65,"1,123.25","1,159.35",250.00,"1,176.55",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.38,Total service,No
+Zone 3,41,34,Married,15,83.00,Post-undergraduate degree,1,No,Female,2,Yes,No,Yes,No,8.90,33.75,0.00,5.75,0.00,379.55,"1,404.45",0.00,220.00,0.00,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.42,Total service,No
+Zone 2,2,31,Unmarried,2,21.00,Did not complete high school,6,No,Male,1,No,Yes,No,No,1.65,0.00,21.60,0.00,0.00,3.20,0.00,17.25,0.00,0.00,No,No,No,No,No,No,Yes,No,3.04,Basic service,Yes
+Zone 3,20,48,Married,29,24.00,High school degree,3,No,Male,2,Yes,No,Yes,No,11.85,22.50,0.00,35.00,0.00,230.70,452.75,0.00,675.00,0.00,Yes,Yes,Yes,No,Yes,Yes,Yes,No,3.18,Total service,Yes
+Zone 2,31,53,Unmarried,2,351.00,Some college,31,No,Female,1,Yes,No,Yes,No,5.50,31.50,0.00,19.25,0.00,185.30,"1,009.90",0.00,585.00,0.00,No,No,Yes,No,Yes,Yes,Yes,No,5.86,Plus service,No
+Zone 2,45,52,Married,4,169.00,College degree,29,No,Female,4,No,Yes,Yes,No,14.65,0.00,40.45,14.25,0.00,618.15,0.00,"1,820.40",690.00,0.00,Yes,No,No,Yes,No,No,No,No,5.13,E-service,No
+Zone 2,33,27,Married,7,46.00,High school degree,7,No,Male,4,No,Yes,No,No,7.25,0.00,29.15,0.00,0.00,243.35,0.00,923.85,0.00,0.00,No,No,No,No,No,No,No,Yes,3.83,Basic service,No
+Zone 1,10,26,Unmarried,6,34.00,Some college,3,No,Male,1,No,Yes,No,No,4.85,0.00,27.70,0.00,0.00,41.85,0.00,223.05,0.00,0.00,Yes,No,No,No,No,No,No,No,3.53,E-service,No
+Zone 2,62,54,Married,2,50.00,College degree,3,No,Male,2,No,Yes,Yes,Yes,17.25,0.00,48.00,87.50,33.25,"1,067.80",0.00,"2,864.15","5,455.00","2,022.55",Yes,Yes,Yes,Yes,No,Yes,No,Yes,3.91,Total service,Yes
+Zone 2,4,35,Unmarried,16,161.00,Post-undergraduate degree,6,No,Female,1,Yes,Yes,No,Yes,3.40,23.75,49.80,0.00,35.75,10.35,103.10,126.95,0.00,135.25,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.08,Total service,Yes
+Zone 1,42,47,Married,17,212.00,College degree,17,No,Male,2,Yes,No,Yes,No,7.45,26.75,0.00,24.75,0.00,320.90,"1,163.55",0.00,"1,035.00",0.00,No,No,No,No,Yes,Yes,No,No,5.36,Plus service,No
+Zone 3,27,51,Married,3,80.00,Post-undergraduate degree,11,No,Male,3,No,Yes,No,No,7.10,0.00,39.40,0.00,0.00,176.20,0.00,"1,086.65",0.00,0.00,Yes,No,Yes,Yes,No,No,No,Yes,4.38,E-service,No
+Zone 2,38,42,Unmarried,1,30.00,College degree,7,No,Female,1,Yes,No,No,No,13.20,27.50,0.00,0.00,0.00,495.85,"1,087.90",0.00,0.00,0.00,No,No,No,No,Yes,No,No,No,3.40,Basic service,No
+Zone 3,52,61,Married,3,53.00,Post-undergraduate degree,1,No,Female,2,No,Yes,Yes,Yes,12.25,0.00,38.40,8.75,35.95,631.70,0.00,"1,884.10",465.00,"1,971.35",Yes,Yes,No,Yes,No,No,Yes,Yes,3.97,E-service,No
+Zone 3,35,33,Unmarried,9,73.00,Post-undergraduate degree,4,No,Female,1,Yes,No,Yes,Yes,5.85,38.25,0.00,22.25,40.35,216.60,"1,337.60",0.00,700.00,"1,423.80",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.29,Total service,No
+Zone 3,3,20,Married,1,17.00,High school degree,0,No,Female,4,No,No,No,No,3.75,0.00,0.00,0.00,0.00,12.30,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,2.83,Basic service,Yes
+Zone 2,17,33,Unmarried,9,23.00,Post-undergraduate degree,3,No,Male,1,No,Yes,Yes,Yes,10.20,0.00,36.40,14.50,30.90,196.30,0.00,570.90,220.00,529.25,Yes,Yes,No,Yes,Yes,No,No,Yes,3.14,Total service,Yes
+Zone 1,55,53,Married,21,34.00,Did not complete high school,8,No,Male,2,No,No,No,No,5.70,0.00,0.00,0.00,0.00,304.40,0.00,0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.53,Plus service,No
+Zone 3,43,36,Married,5,107.00,Did not complete high school,19,No,Female,3,Yes,No,Yes,No,11.55,12.75,0.00,21.50,0.00,491.55,583.75,0.00,910.00,0.00,Yes,No,No,No,No,No,No,No,4.67,E-service,Yes
+Zone 2,47,25,Married,5,21.00,Did not complete high school,1,No,Female,2,Yes,No,Yes,No,8.65,30.50,0.00,9.00,0.00,426.60,"1,465.45",0.00,405.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.04,Plus service,Yes
+Zone 3,65,58,Unmarried,30,83.00,High school degree,16,No,Female,1,No,No,Yes,No,19.30,0.00,0.00,22.75,0.00,"1,323.20",0.00,0.00,"1,370.00",0.00,Yes,No,No,No,Yes,No,No,No,4.42,E-service,No
+Zone 1,13,20,Unmarried,1,17.00,Some college,0,No,Male,5,No,Yes,Yes,No,3.05,0.00,31.30,14.00,0.00,40.30,0.00,390.60,155.00,0.00,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2.83,Total service,No
+Zone 3,64,25,Married,4,76.00,Some college,2,No,Female,6,No,Yes,Yes,No,24.05,0.00,35.40,21.25,0.00,"1,536.55",0.00,"2,288.45","1,400.00",0.00,Yes,No,No,No,No,Yes,Yes,Yes,4.33,Plus service,No
+Zone 2,12,24,Unmarried,2,19.00,Did not complete high school,0,No,Male,1,Yes,No,Yes,No,4.00,24.75,0.00,27.25,0.00,46.00,299.00,0.00,295.00,0.00,No,No,No,No,Yes,Yes,Yes,No,2.94,Plus service,Yes
+Zone 1,29,32,Married,0,49.00,College degree,3,No,Female,3,No,Yes,No,No,6.70,0.00,33.00,0.00,0.00,187.00,0.00,918.25,0.00,0.00,Yes,No,Yes,Yes,No,No,No,Yes,3.89,E-service,Yes
+Zone 2,23,47,Unmarried,21,173.00,Some college,22,No,Female,1,No,No,No,No,7.60,0.00,0.00,0.00,0.00,145.90,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,Yes,Yes,5.15,E-service,No
+Zone 2,14,35,Unmarried,4,47.00,Some college,10,No,Female,1,Yes,No,No,Yes,5.00,21.75,0.00,0.00,24.15,76.20,318.20,0.00,0.00,274.00,Yes,No,No,No,No,Yes,Yes,Yes,3.85,E-service,Yes
+Zone 1,35,61,Unmarried,23,41.00,High school degree,11,No,Male,1,No,No,Yes,No,9.60,0.00,0.00,9.50,0.00,353.55,0.00,0.00,295.00,0.00,No,No,No,No,No,No,No,No,3.71,Basic service,No
+Zone 3,26,39,Unmarried,8,105.00,Some college,13,No,Female,1,Yes,No,Yes,Yes,6.60,39.75,0.00,37.25,38.25,159.70,"1,022.45",0.00,"1,005.00",885.10,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.65,Total service,No
+Zone 1,13,54,Unmarried,2,31.00,College degree,2,No,Male,1,No,No,No,No,5.85,0.00,0.00,0.00,0.00,97.00,0.00,0.00,0.00,0.00,No,Yes,No,Yes,No,No,No,Yes,3.43,Basic service,No
+Zone 2,69,40,Married,13,41.00,High school degree,17,No,Male,3,No,No,Yes,No,25.25,0.00,0.00,33.00,0.00,"1,725.10",0.00,0.00,"2,320.00",0.00,Yes,No,No,No,No,No,No,No,3.71,E-service,No
+Zone 3,61,50,Married,30,102.00,College degree,9,No,Female,3,No,No,Yes,No,12.60,0.00,0.00,12.50,0.00,760.30,0.00,0.00,745.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.62,E-service,No
+Zone 2,45,22,Married,2,36.00,College degree,0,No,Female,5,Yes,Yes,No,No,9.95,14.75,26.15,0.00,0.00,412.10,663.10,"1,180.50",0.00,0.00,Yes,No,No,No,No,No,No,No,3.58,E-service,Yes
+Zone 2,3,37,Unmarried,13,24.00,Did not complete high school,3,No,Female,1,No,No,No,No,2.00,0.00,0.00,0.00,0.00,3.05,0.00,0.00,0.00,0.00,No,Yes,No,No,No,No,Yes,Yes,3.18,Basic service,No
+Zone 2,53,22,Unmarried,1,25.00,College degree,0,No,Male,2,No,Yes,Yes,No,12.05,0.00,27.15,6.50,0.00,666.00,0.00,"1,469.25",335.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.22,E-service,No
+Zone 1,59,42,Unmarried,1,68.00,High school degree,21,No,Female,1,Yes,No,Yes,No,17.30,21.25,0.00,19.25,0.00,997.85,"1,183.55",0.00,"1,160.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,4.22,Plus service,No
+Zone 1,13,34,Unmarried,11,20.00,Some college,0,No,Female,1,No,No,No,No,4.80,0.00,0.00,0.00,0.00,71.05,0.00,0.00,0.00,0.00,No,No,No,Yes,No,No,No,No,3.00,Basic service,No
+Zone 3,31,31,Unmarried,4,48.00,Did not complete high school,15,No,Male,1,No,No,No,No,3.80,0.00,0.00,0.00,0.00,127.70,0.00,0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.87,Plus service,No
+Zone 1,40,29,Married,6,40.00,High school degree,8,No,Female,5,No,No,No,No,13.00,0.00,0.00,0.00,0.00,502.95,0.00,0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.69,Plus service,No
+Zone 1,48,55,Unmarried,15,79.00,Did not complete high school,25,No,Male,1,No,No,Yes,No,13.80,0.00,0.00,25.50,0.00,668.65,0.00,0.00,"1,140.00",0.00,No,No,No,No,Yes,Yes,Yes,No,4.37,Plus service,No
+Zone 3,3,31,Unmarried,1,28.00,Did not complete high school,0,No,Male,1,Yes,Yes,Yes,No,3.45,15.50,23.30,23.50,0.00,13.30,48.75,62.95,45.00,0.00,No,No,No,Yes,No,Yes,No,No,3.33,Basic service,Yes
+Zone 2,51,48,Unmarried,12,64.00,High school degree,22,No,Female,1,No,No,Yes,No,14.80,0.00,0.00,17.00,0.00,708.45,0.00,0.00,820.00,0.00,No,No,No,No,No,No,No,No,4.16,Basic service,No
+Zone 3,33,41,Unmarried,15,37.00,High school degree,11,No,Male,1,No,No,No,No,12.20,0.00,0.00,0.00,0.00,415.05,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.61,Basic service,No
+Zone 3,14,47,Married,7,48.00,Did not complete high school,13,No,Male,2,Yes,No,No,No,4.25,11.00,0.00,0.00,0.00,55.50,126.45,0.00,0.00,0.00,No,No,No,No,No,No,Yes,No,3.87,Basic service,No
+Zone 1,17,42,Married,6,131.00,Post-undergraduate degree,6,No,Male,3,No,Yes,No,Yes,5.80,0.00,35.35,0.00,21.65,103.10,0.00,527.80,0.00,331.40,Yes,No,No,Yes,No,No,No,Yes,4.88,E-service,Yes
+Zone 3,19,29,Married,9,18.00,High school degree,2,No,Male,3,No,No,No,No,5.40,0.00,0.00,0.00,0.00,108.50,0.00,0.00,0.00,0.00,No,No,No,Yes,No,Yes,No,Yes,2.89,Basic service,Yes
+Zone 2,58,36,Unmarried,10,38.00,High school degree,14,No,Female,1,No,No,Yes,No,10.15,0.00,0.00,17.75,0.00,538.65,0.00,0.00,"1,030.00",0.00,Yes,No,No,No,No,No,No,No,3.64,E-service,No
+Zone 3,22,23,Unmarried,3,37.00,High school degree,4,No,Female,3,No,Yes,Yes,Yes,5.35,0.00,28.10,9.00,24.70,144.05,0.00,602.20,200.00,503.50,No,Yes,No,Yes,No,No,Yes,Yes,3.61,Total service,No
+Zone 2,29,31,Married,1,60.00,College degree,6,No,Male,5,No,Yes,No,No,9.60,0.00,26.75,0.00,0.00,243.90,0.00,730.80,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.09,E-service,Yes
+Zone 3,14,22,Married,2,13.00,Some college,0,No,Female,4,No,Yes,No,No,9.45,0.00,26.85,0.00,0.00,117.55,0.00,364.10,0.00,0.00,Yes,No,No,Yes,No,No,No,No,2.56,E-service,Yes
+Zone 2,70,64,Married,18,98.00,Did not complete high school,31,No,Female,2,Yes,No,Yes,Yes,26.15,84.00,0.00,11.25,45.45,"1,805.10","5,850.25",0.00,720.00,"3,243.25",Yes,Yes,Yes,No,Yes,Yes,Yes,No,4.58,Total service,No
+Zone 1,62,52,Married,2,195.00,Did not complete high school,23,No,Male,2,Yes,No,Yes,Yes,23.15,36.75,0.00,36.00,34.30,"1,420.95","2,308.25",0.00,"2,205.00","2,082.80",Yes,No,No,No,No,Yes,Yes,No,5.27,Plus service,Yes
+Zone 2,7,35,Married,0,47.00,Did not complete high school,14,No,Male,5,No,No,No,No,5.20,0.00,0.00,0.00,0.00,46.90,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.85,Basic service,Yes
+Zone 1,56,47,Married,19,65.00,High school degree,22,No,Male,3,Yes,No,Yes,Yes,12.40,48.75,0.00,36.50,58.40,744.45,"2,695.95",0.00,"2,070.00","3,084.20",No,Yes,Yes,No,Yes,Yes,Yes,No,4.17,Total service,No
+Zone 1,50,50,Married,22,150.00,Post-undergraduate degree,5,No,Female,4,No,Yes,Yes,No,19.30,0.00,33.40,50.75,0.00,930.80,0.00,"1,719.40","2,585.00",0.00,Yes,Yes,No,Yes,No,Yes,No,Yes,5.01,E-service,Yes
+Zone 2,57,39,Unmarried,6,106.00,Post-undergraduate degree,8,No,Male,1,Yes,Yes,Yes,Yes,9.05,24.25,41.85,12.25,39.60,568.15,"1,486.35","2,291.35",740.00,"2,183.95",Yes,No,Yes,No,Yes,Yes,Yes,No,4.66,Plus service,No
+Zone 3,2,40,Unmarried,19,51.00,College degree,14,No,Female,1,No,No,No,No,4.25,0.00,0.00,0.00,0.00,6.80,0.00,0.00,0.00,0.00,No,Yes,No,Yes,No,No,No,Yes,3.93,Basic service,No
+Zone 2,40,38,Unmarried,17,96.00,College degree,0,No,Female,1,No,No,No,No,9.30,0.00,0.00,0.00,0.00,316.05,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.56,Basic service,No
+Zone 2,6,43,Unmarried,4,33.00,Post-undergraduate degree,7,No,Male,2,No,No,Yes,Yes,4.25,0.00,0.00,16.25,26.75,30.00,0.00,0.00,85.00,146.55,Yes,No,Yes,No,Yes,Yes,Yes,No,3.50,Plus service,No
+Zone 3,23,25,Married,6,38.00,High school degree,1,No,Female,3,Yes,Yes,Yes,No,13.90,23.25,28.50,3.75,0.00,255.00,574.85,621.25,65.00,0.00,Yes,No,Yes,No,Yes,Yes,No,No,3.64,Plus service,No
+Zone 3,11,32,Unmarried,6,125.00,College degree,5,No,Male,1,Yes,Yes,Yes,Yes,3.80,19.25,61.45,19.00,58.25,31.75,233.40,578.60,200.00,577.70,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.83,Total service,Yes
+Zone 1,29,37,Married,13,145.00,Post-undergraduate degree,0,No,Female,4,Yes,Yes,Yes,Yes,8.60,24.00,41.15,17.75,28.00,241.45,713.45,"1,201.40",495.00,722.80,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.98,Total service,No
+Zone 1,42,44,Married,2,99.00,High school degree,21,No,Male,3,Yes,No,Yes,No,22.05,34.75,0.00,9.75,0.00,841.55,"1,501.55",0.00,395.00,0.00,Yes,No,No,No,Yes,No,Yes,No,4.60,Plus service,No
+Zone 1,20,34,Married,2,22.00,College degree,0,No,Female,3,Yes,Yes,Yes,Yes,4.85,18.25,35.05,34.75,31.65,75.45,338.55,731.05,635.00,570.65,No,No,Yes,Yes,Yes,Yes,Yes,Yes,3.09,Total service,No
+Zone 2,72,60,Married,21,31.00,Did not complete high school,38,Yes,Male,2,No,No,Yes,No,32.25,0.00,0.00,33.50,0.00,"2,349.25",0.00,0.00,"2,385.00",0.00,Yes,No,No,No,No,No,No,No,3.43,E-service,No
+Zone 1,2,36,Unmarried,3,25.00,Did not complete high school,6,No,Female,1,Yes,Yes,Yes,Yes,1.90,15.75,28.70,5.00,24.15,3.60,23.05,29.05,5.00,20.95,No,No,Yes,No,Yes,Yes,Yes,No,3.22,Plus service,No
+Zone 3,46,25,Unmarried,5,57.00,Post-undergraduate degree,0,No,Female,2,Yes,Yes,Yes,Yes,20.25,21.25,39.40,9.75,28.35,923.95,968.95,"1,748.55",445.00,"1,246.45",No,No,No,Yes,No,Yes,Yes,Yes,4.04,Basic service,No
+Zone 2,39,51,Married,21,41.00,Post-undergraduate degree,20,No,Male,6,Yes,Yes,Yes,Yes,12.10,20.50,54.30,9.75,35.35,492.80,910.25,"2,059.70",330.00,"1,301.10",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.71,Total service,No
+Zone 3,24,25,Married,1,20.00,Some college,1,No,Female,2,No,Yes,No,No,8.15,0.00,27.95,0.00,0.00,209.35,0.00,615.80,0.00,0.00,Yes,No,No,Yes,No,Yes,No,No,3.00,E-service,Yes
+Zone 3,59,43,Married,4,101.00,High school degree,22,No,Female,5,No,No,Yes,No,13.65,0.00,0.00,20.75,0.00,817.65,0.00,0.00,"1,195.00",0.00,Yes,No,No,No,No,No,Yes,No,4.62,E-service,No
+Zone 1,65,37,Unmarried,8,56.00,High school degree,15,No,Male,1,No,No,Yes,No,10.25,0.00,0.00,10.75,0.00,681.95,0.00,0.00,655.00,0.00,Yes,No,No,No,No,No,No,No,4.03,E-service,No
+Zone 2,50,27,Married,5,22.00,High school degree,5,No,Female,3,No,No,Yes,No,17.20,0.00,0.00,13.25,0.00,893.30,0.00,0.00,750.00,0.00,No,No,No,No,No,No,No,No,3.09,Basic service,No
+Zone 1,57,37,Unmarried,11,108.00,College degree,9,No,Female,1,Yes,Yes,Yes,No,21.80,27.25,42.00,8.00,0.00,"1,292.00","1,492.10","2,394.75",425.00,0.00,Yes,No,No,Yes,Yes,No,Yes,No,4.68,Plus service,No
+Zone 3,61,48,Unmarried,14,115.00,College degree,20,No,Female,1,Yes,Yes,Yes,Yes,12.80,16.00,39.20,17.25,31.00,785.70,953.95,"2,410.10","1,015.00","1,799.15",Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4.74,Total service,No
+Zone 3,34,54,Unmarried,31,53.00,College degree,22,No,Male,1,Yes,Yes,Yes,Yes,8.10,18.00,45.60,56.50,66.90,225.40,588.40,"1,463.80","1,880.00","2,304.80",Yes,Yes,Yes,Yes,No,Yes,No,Yes,3.97,Total service,No
+Zone 3,38,53,Unmarried,13,242.00,College degree,12,No,Male,1,Yes,Yes,Yes,Yes,8.95,37.75,54.10,28.50,50.75,396.35,"1,556.40","1,979.10","1,020.00","1,934.90",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,5.49,Total service,No
+Zone 1,3,24,Married,2,20.00,High school degree,3,No,Female,5,Yes,No,Yes,No,3.35,22.50,0.00,9.25,0.00,7.55,49.55,0.00,15.00,0.00,No,Yes,No,Yes,Yes,No,Yes,No,3.00,Plus service,No
+Zone 2,4,47,Unmarried,5,123.00,College degree,11,No,Male,1,No,Yes,Yes,No,2.50,0.00,25.30,13.75,0.00,9.25,0.00,99.50,40.00,0.00,No,No,No,Yes,No,Yes,No,Yes,4.81,Basic service,No
+Zone 2,15,35,Unmarried,0,34.00,Did not complete high school,12,No,Male,1,No,No,No,No,3.95,0.00,0.00,0.00,0.00,47.95,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.53,Basic service,No
+Zone 1,25,29,Married,8,31.00,College degree,3,No,Female,5,No,Yes,No,No,12.95,0.00,33.05,0.00,0.00,348.90,0.00,832.85,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.43,E-service,Yes
+Zone 3,21,44,Unmarried,25,47.00,Did not complete high school,12,No,Female,2,No,No,Yes,No,7.05,0.00,0.00,14.50,0.00,182.30,0.00,0.00,285.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.85,Plus service,No
+Zone 3,50,37,Married,11,48.00,Some college,8,No,Female,2,Yes,No,Yes,No,12.90,27.75,0.00,8.75,0.00,669.75,"1,445.15",0.00,445.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.87,Plus service,No
+Zone 2,65,64,Married,22,13.00,High school degree,5,Yes,Female,3,Yes,No,Yes,No,14.60,33.00,0.00,15.75,0.00,921.70,"1,990.20",0.00,930.00,0.00,No,No,No,No,Yes,Yes,Yes,No,2.56,Plus service,No
+Zone 2,59,52,Married,18,78.00,Did not complete high school,25,No,Male,2,No,No,No,No,18.60,0.00,0.00,0.00,0.00,"1,179.05",0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.36,Basic service,No
+Zone 3,29,26,Unmarried,7,34.00,Did not complete high school,7,No,Female,2,No,No,Yes,No,6.50,0.00,0.00,16.00,0.00,198.70,0.00,0.00,490.00,0.00,No,No,No,No,Yes,No,No,No,3.53,Plus service,No
+Zone 1,60,46,Unmarried,17,81.00,Post-undergraduate degree,9,No,Female,1,No,Yes,Yes,No,17.45,0.00,39.25,10.25,0.00,"1,067.00",0.00,"2,331.65",610.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.39,E-service,No
+Zone 1,71,45,Married,14,86.00,High school degree,25,No,Male,2,No,Yes,Yes,No,45.05,0.00,33.00,35.00,0.00,"3,235.90",0.00,"2,386.45","2,495.00",0.00,Yes,No,No,Yes,No,No,No,No,4.45,E-service,No
+Zone 3,38,27,Married,0,26.00,College degree,2,No,Male,4,No,Yes,Yes,Yes,12.20,0.00,38.75,9.25,28.05,477.50,0.00,"1,429.95",365.00,"1,111.00",No,Yes,Yes,Yes,Yes,Yes,No,Yes,3.26,Total service,Yes
+Zone 3,16,34,Married,5,51.00,High school degree,8,No,Female,5,No,No,Yes,No,4.70,0.00,0.00,16.50,0.00,61.50,0.00,0.00,260.00,0.00,No,No,No,No,No,No,No,No,3.93,Basic service,No
+Zone 3,7,31,Unmarried,10,59.00,Some college,10,No,Male,1,No,Yes,No,No,2.45,0.00,29.80,0.00,0.00,16.35,0.00,170.20,0.00,0.00,No,Yes,No,No,Yes,No,No,Yes,4.08,Basic service,No
+Zone 1,59,53,Unmarried,21,112.00,College degree,16,No,Male,1,No,Yes,No,Yes,21.10,0.00,38.55,0.00,25.30,"1,236.30",0.00,"2,190.10",0.00,"1,465.35",Yes,No,No,Yes,No,No,No,Yes,4.72,E-service,Yes
+Zone 2,22,56,Married,14,57.00,College degree,28,No,Male,2,Yes,Yes,Yes,Yes,6.20,18.25,36.65,10.50,28.80,135.20,417.55,748.30,250.00,649.60,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.04,Total service,No
+Zone 1,18,48,Married,20,41.00,Did not complete high school,2,No,Female,2,Yes,No,Yes,No,4.35,13.00,0.00,8.00,0.00,59.15,220.95,0.00,135.00,0.00,No,No,No,No,Yes,No,No,No,3.71,Basic service,No
+Zone 2,64,46,Married,19,168.00,High school degree,26,No,Female,2,Yes,Yes,Yes,Yes,14.20,71.00,73.80,38.75,62.45,928.80,"4,667.75","4,758.05","2,460.00","3,704.05",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.12,Total service,No
+Zone 2,7,33,Unmarried,4,29.00,College degree,4,No,Female,3,No,Yes,No,No,4.65,0.00,28.35,0.00,0.00,35.45,0.00,166.50,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.37,Basic service,Yes
+Zone 3,65,58,Unmarried,13,167.00,High school degree,14,No,Female,2,No,No,Yes,No,24.30,0.00,0.00,17.25,0.00,"1,642.35",0.00,0.00,"1,110.00",0.00,Yes,No,No,No,No,No,No,No,5.12,E-service,No
+Zone 3,7,24,Unmarried,5,29.00,High school degree,3,No,Male,3,Yes,No,No,No,4.45,13.50,0.00,0.00,0.00,43.70,109.50,0.00,0.00,0.00,No,No,Yes,Yes,No,No,Yes,No,3.37,Basic service,Yes
+Zone 1,64,55,Unmarried,28,104.00,Did not complete high school,26,No,Female,1,No,No,Yes,No,15.00,0.00,0.00,39.25,0.00,960.95,0.00,0.00,"2,360.00",0.00,No,No,No,No,No,No,Yes,No,4.64,Plus service,No
+Zone 3,42,22,Married,0,46.00,College degree,0,No,Male,2,Yes,Yes,Yes,Yes,9.35,20.25,51.35,6.00,36.00,311.85,850.65,"2,099.55",270.00,"1,503.65",Yes,Yes,Yes,Yes,Yes,Yes,No,No,3.83,Total service,Yes
+Zone 3,33,26,Unmarried,5,46.00,College degree,1,No,Female,3,Yes,Yes,Yes,Yes,11.00,17.50,40.90,6.00,32.05,350.05,593.10,"1,347.70",185.00,"1,009.50",No,No,Yes,Yes,Yes,Yes,Yes,Yes,3.83,Total service,No
+Zone 1,3,33,Unmarried,8,51.00,College degree,0,No,Female,1,No,Yes,No,No,2.90,0.00,19.90,0.00,0.00,12.05,0.00,40.15,0.00,0.00,No,No,No,No,No,No,No,No,3.93,Basic service,Yes
+Zone 2,69,42,Married,11,65.00,High school degree,18,No,Male,2,Yes,Yes,Yes,Yes,14.20,30.50,64.20,31.50,66.55,"1,007.50","2,082.75","4,167.70","2,125.00","4,399.60",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.17,Total service,No
+Zone 2,9,33,Unmarried,1,48.00,High school degree,13,No,Male,2,Yes,No,Yes,No,3.15,13.25,0.00,30.50,0.00,39.75,110.05,0.00,275.00,0.00,No,No,No,No,Yes,No,No,No,3.87,Basic service,No
+Zone 3,22,34,Married,1,46.00,Some college,1,No,Male,4,No,Yes,No,No,7.10,0.00,23.40,0.00,0.00,125.05,0.00,484.10,0.00,0.00,Yes,No,No,Yes,No,No,No,No,3.83,E-service,No
+Zone 2,53,63,Married,15,43.00,High school degree,18,No,Male,2,No,Yes,Yes,No,14.85,0.00,37.00,11.00,0.00,808.95,0.00,"2,012.60",535.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.76,E-service,No
+Zone 3,71,53,Unmarried,30,110.00,Did not complete high school,34,No,Male,1,No,No,Yes,No,17.45,0.00,0.00,14.75,0.00,"1,249.80",0.00,0.00,"1,100.00",0.00,Yes,No,No,No,No,No,No,No,4.70,E-service,No
+Zone 3,24,26,Unmarried,2,32.00,Some college,2,No,Male,3,No,No,No,No,4.25,0.00,0.00,0.00,0.00,97.35,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,3.47,Basic service,No
+Zone 3,12,22,Married,1,18.00,Some college,0,No,Female,2,No,No,No,No,4.65,0.00,0.00,0.00,0.00,57.70,0.00,0.00,0.00,0.00,No,No,No,Yes,No,No,No,Yes,2.89,Basic service,No
+Zone 1,25,39,Married,1,26.00,College degree,0,No,Male,4,No,Yes,Yes,Yes,14.45,0.00,35.95,23.00,24.75,349.90,0.00,895.05,515.00,640.80,Yes,Yes,Yes,Yes,No,No,No,Yes,3.26,E-service,Yes
+Zone 3,63,28,Married,9,34.00,High school degree,10,No,Female,6,Yes,No,Yes,Yes,15.00,40.00,0.00,17.50,45.10,934.05,"2,465.40",0.00,"1,120.00","2,770.35",Yes,Yes,No,No,Yes,Yes,Yes,No,3.53,Plus service,No
+Zone 1,33,54,Married,18,57.00,College degree,4,No,Female,3,Yes,Yes,No,No,7.50,30.25,33.90,0.00,0.00,226.25,"1,105.75","1,108.50",0.00,0.00,Yes,No,No,Yes,Yes,Yes,No,No,4.04,Plus service,Yes
+Zone 2,57,54,Married,20,21.00,High school degree,0,No,Female,3,No,No,Yes,No,10.60,0.00,0.00,17.00,0.00,565.55,0.00,0.00,930.00,0.00,No,No,No,No,No,No,No,No,3.04,Basic service,No
+Zone 3,13,33,Unmarried,7,38.00,Some college,10,No,Female,1,Yes,Yes,Yes,Yes,5.05,18.50,40.80,12.50,28.85,48.60,199.50,480.85,155.00,318.90,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.64,Total service,No
+Zone 1,13,21,Unmarried,2,19.00,Some college,0,No,Female,1,No,Yes,Yes,No,7.90,0.00,25.20,5.00,0.00,98.35,0.00,311.65,40.00,0.00,Yes,No,No,Yes,No,No,No,No,2.94,E-service,Yes
+Zone 1,71,39,Unmarried,2,40.00,Some college,17,No,Male,1,Yes,No,Yes,No,36.25,27.75,0.00,38.50,0.00,"2,553.70","1,916.25",0.00,"2,620.00",0.00,Yes,Yes,No,No,Yes,No,Yes,No,3.69,Plus service,No
+Zone 3,18,69,Married,11,58.00,Some college,8,No,Male,2,Yes,Yes,Yes,Yes,6.35,27.25,53.95,11.75,63.00,118.05,454.05,896.80,175.00,"1,049.95",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.06,Total service,No
+Zone 1,17,51,Married,10,95.00,High school degree,15,No,Female,2,No,No,No,No,7.45,0.00,0.00,0.00,0.00,132.90,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.55,Basic service,Yes
+Zone 2,22,43,Unmarried,4,114.00,High school degree,19,No,Male,1,No,Yes,No,No,9.25,0.00,22.70,0.00,0.00,202.80,0.00,428.70,0.00,0.00,No,No,No,No,No,No,No,No,4.74,Basic service,No
+Zone 2,65,65,Married,27,128.00,Some college,24,No,Male,2,Yes,No,Yes,No,21.20,24.00,0.00,14.50,0.00,"1,325.05","1,483.55",0.00,940.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,4.85,Plus service,No
+Zone 3,7,40,Unmarried,9,33.00,College degree,2,No,Female,1,No,No,No,No,2.80,0.00,0.00,0.00,0.00,16.85,0.00,0.00,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.50,Basic service,No
+Zone 3,72,66,Unmarried,30,460.00,College degree,41,No,Female,1,No,Yes,Yes,No,89.40,0.00,46.55,18.75,0.00,"6,353.90",0.00,"3,411.20","1,245.00",0.00,Yes,Yes,Yes,Yes,No,Yes,Yes,No,6.13,Total service,No
+Zone 1,35,43,Unmarried,12,224.00,Some college,17,No,Male,1,No,No,Yes,No,7.70,0.00,0.00,9.50,0.00,271.55,0.00,0.00,330.00,0.00,No,No,No,No,No,No,No,No,5.41,Basic service,No
+Zone 1,24,39,Unmarried,2,122.00,College degree,12,No,Male,3,Yes,No,Yes,Yes,4.45,26.25,0.00,9.75,35.90,98.35,625.95,0.00,210.00,844.95,No,No,Yes,Yes,Yes,Yes,Yes,No,4.80,Total service,No
+Zone 1,64,24,Married,0,23.00,Some college,1,No,Female,5,No,Yes,No,No,7.00,0.00,35.55,0.00,0.00,394.60,0.00,"2,182.40",0.00,0.00,Yes,No,No,Yes,Yes,No,Yes,No,3.14,E-service,No
+Zone 2,63,63,Married,19,191.00,Some college,27,No,Male,2,No,No,Yes,No,12.70,0.00,0.00,7.00,0.00,782.45,0.00,0.00,435.00,0.00,Yes,No,No,No,No,No,No,No,5.25,E-service,No
+Zone 1,38,31,Married,7,187.00,College degree,6,No,Male,3,Yes,No,Yes,Yes,12.65,21.25,0.00,34.00,47.85,448.75,834.00,0.00,"1,165.00","1,801.75",No,Yes,Yes,No,Yes,Yes,Yes,No,5.23,Total service,Yes
+Zone 2,29,37,Married,9,119.00,Some college,12,No,Male,3,No,No,No,No,4.60,0.00,0.00,0.00,0.00,138.70,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.78,Basic service,No
+Zone 1,72,69,Married,49,44.00,High school degree,44,Yes,Female,2,No,No,Yes,No,99.95,0.00,0.00,12.50,0.00,"7,257.60",0.00,0.00,875.00,0.00,Yes,No,No,No,Yes,No,Yes,No,3.78,Plus service,No
+Zone 1,10,27,Married,2,15.00,Some college,2,No,Female,2,Yes,Yes,Yes,Yes,7.50,12.75,48.65,7.50,39.50,66.45,154.90,442.15,60.00,377.35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2.71,Total service,Yes
+Zone 3,72,64,Unmarried,41,674.00,College degree,37,No,Female,1,Yes,No,Yes,Yes,49.60,32.75,0.00,48.75,60.15,"3,535.80","2,378.15",0.00,"3,465.00","4,366.20",Yes,Yes,No,No,Yes,Yes,Yes,No,6.51,Plus service,No
+Zone 3,52,23,Married,4,33.00,College degree,0,No,Female,2,Yes,No,Yes,No,13.10,18.25,0.00,18.75,0.00,757.80,945.15,0.00,920.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,3.50,Plus service,No
+Zone 3,13,55,Unmarried,3,250.00,High school degree,35,No,Female,2,No,No,No,No,4.10,0.00,0.00,0.00,0.00,50.10,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,5.52,Basic service,No
+Zone 1,3,33,Unmarried,6,64.00,College degree,0,No,Male,2,No,Yes,No,No,2.15,0.00,20.75,0.00,0.00,6.00,0.00,53.10,0.00,0.00,No,No,No,No,No,No,No,Yes,4.16,Basic service,Yes
+Zone 3,39,24,Married,2,26.00,High school degree,4,No,Male,4,No,No,Yes,No,10.40,0.00,0.00,12.50,0.00,403.50,0.00,0.00,480.00,0.00,No,No,No,No,No,No,No,Yes,3.26,Basic service,Yes
+Zone 2,28,29,Unmarried,4,23.00,Some college,5,No,Male,2,No,No,No,No,3.70,0.00,0.00,0.00,0.00,91.95,0.00,0.00,0.00,0.00,Yes,No,No,Yes,No,Yes,Yes,Yes,3.14,E-service,No
+Zone 2,46,42,Unmarried,9,52.00,College degree,7,No,Male,3,No,No,Yes,No,14.25,0.00,0.00,21.00,0.00,611.65,0.00,0.00,985.00,0.00,Yes,No,No,No,No,No,No,No,3.95,E-service,No
+Zone 2,62,46,Unmarried,27,200.00,Some college,9,No,Female,1,No,No,Yes,No,26.25,0.00,0.00,74.00,0.00,"1,625.35",0.00,0.00,"4,590.00",0.00,No,No,No,No,No,No,No,No,5.30,Basic service,No
+Zone 2,23,33,Married,7,28.00,Did not complete high school,4,No,Male,2,No,No,Yes,No,6.90,0.00,0.00,14.00,0.00,177.40,0.00,0.00,340.00,0.00,No,No,No,No,Yes,Yes,No,No,3.33,Plus service,No
+Zone 3,23,25,Married,5,19.00,Post-undergraduate degree,0,No,Male,3,Yes,Yes,No,No,6.95,25.00,36.70,0.00,0.00,157.10,562.20,829.10,0.00,0.00,Yes,Yes,No,Yes,Yes,Yes,No,Yes,2.94,Total service,Yes
+Zone 2,72,61,Married,39,76.00,Some college,21,No,Male,2,Yes,Yes,Yes,Yes,54.80,67.25,51.35,69.50,55.50,"3,983.60","4,905.85","3,761.80","4,975.00","4,097.70",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.33,Total service,No
+Zone 3,56,60,Unmarried,26,70.00,High school degree,20,No,Male,1,No,Yes,No,Yes,7.75,0.00,29.30,0.00,26.15,397.15,0.00,"1,638.20",0.00,"1,340.75",No,No,No,No,No,No,No,Yes,4.25,Basic service,No
+Zone 1,8,30,Unmarried,1,34.00,High school degree,9,No,Female,1,No,No,Yes,No,4.25,0.00,0.00,13.25,0.00,28.65,0.00,0.00,75.00,0.00,No,No,No,No,No,Yes,Yes,No,3.53,Plus service,No
+Zone 3,3,36,Unmarried,7,34.00,Post-undergraduate degree,3,No,Female,3,Yes,Yes,No,No,2.70,13.00,24.00,0.00,0.00,7.00,35.65,55.90,0.00,0.00,Yes,Yes,Yes,No,No,Yes,No,Yes,3.53,Total service,No
+Zone 3,37,37,Unmarried,7,172.00,Some college,13,No,Male,1,No,No,No,No,6.85,0.00,0.00,0.00,0.00,258.50,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,5.15,Basic service,No
+Zone 3,37,53,Married,13,48.00,Did not complete high school,10,No,Male,3,Yes,No,Yes,No,12.55,23.50,0.00,10.25,0.00,439.55,876.05,0.00,350.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.87,Plus service,No
+Zone 2,6,30,Unmarried,9,45.00,High school degree,2,No,Female,1,No,No,No,No,1.35,0.00,0.00,0.00,0.00,9.95,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.81,Basic service,Yes
+Zone 1,48,47,Unmarried,9,72.00,Some college,13,No,Male,5,Yes,No,Yes,Yes,15.30,28.50,0.00,16.00,32.55,732.35,"1,352.10",0.00,790.00,"1,559.10",Yes,Yes,Yes,No,Yes,Yes,Yes,No,4.28,Total service,Yes
+Zone 2,43,43,Married,3,55.00,College degree,18,No,Female,4,Yes,Yes,Yes,Yes,9.10,40.75,48.40,16.00,50.60,422.70,"1,802.50","1,976.65",675.00,"2,244.80",No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.01,Total service,No
+Zone 2,21,29,Unmarried,7,40.00,College degree,2,No,Female,4,Yes,Yes,Yes,Yes,4.50,17.00,36.20,19.25,33.40,89.10,386.80,772.30,395.00,653.90,No,No,No,Yes,Yes,Yes,No,No,3.69,Basic service,No
+Zone 3,6,33,Unmarried,12,26.00,Some college,0,No,Male,1,Yes,No,Yes,Yes,6.10,18.75,0.00,24.25,22.80,35.10,131.10,0.00,125.00,121.75,No,Yes,No,Yes,Yes,Yes,Yes,No,3.26,Plus service,Yes
+Zone 2,69,51,Unmarried,18,96.00,Did not complete high school,33,No,Male,4,Yes,No,Yes,No,33.95,87.00,0.00,33.50,0.00,"2,338.80","5,916.00",0.00,"2,180.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,4.56,Plus service,No
+Zone 1,22,33,Unmarried,9,54.00,Did not complete high school,10,No,Male,1,Yes,No,Yes,No,11.05,22.25,0.00,18.75,0.00,246.70,504.40,0.00,370.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.99,Plus service,No
+Zone 1,28,40,Married,1,47.00,High school degree,9,No,Female,3,Yes,No,Yes,No,8.10,29.50,0.00,28.50,0.00,224.25,774.75,0.00,730.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.85,Plus service,No
+Zone 1,71,47,Married,23,142.00,Did not complete high school,30,No,Male,2,No,No,Yes,No,32.20,0.00,0.00,82.25,0.00,"2,237.35",0.00,0.00,"5,520.00",0.00,Yes,No,No,No,No,No,No,No,4.96,E-service,No
+Zone 2,7,37,Unmarried,5,57.00,College degree,1,No,Male,1,No,No,No,No,3.80,0.00,0.00,0.00,0.00,23.90,0.00,0.00,0.00,0.00,No,No,No,No,No,No,Yes,No,4.04,Basic service,No
+Zone 1,63,29,Unmarried,10,20.00,Some college,7,No,Male,2,Yes,Yes,Yes,Yes,13.30,31.00,62.35,10.00,96.25,867.90,"1,944.45","3,778.75",640.00,"6,132.20",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.00,Total service,No
+Zone 2,53,57,Unmarried,25,37.00,Did not complete high school,7,No,Male,1,No,No,Yes,No,7.70,0.00,0.00,9.25,0.00,363.95,0.00,0.00,465.00,0.00,Yes,No,No,No,No,Yes,No,No,3.61,E-service,No
+Zone 2,50,52,Married,17,36.00,College degree,16,No,Male,4,Yes,No,Yes,Yes,11.95,55.00,0.00,48.00,85.85,616.25,"2,662.10",0.00,"2,330.00","4,118.60",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3.58,Total service,No
+Zone 2,39,31,Married,6,24.00,College degree,2,No,Male,2,No,Yes,Yes,No,13.90,0.00,33.30,16.50,0.00,505.55,0.00,"1,213.50",600.00,0.00,No,No,Yes,No,Yes,Yes,Yes,Yes,3.18,Total service,No
+Zone 3,16,19,Unmarried,0,21.00,High school degree,0,No,Female,1,No,No,No,No,5.25,0.00,0.00,0.00,0.00,70.25,0.00,0.00,0.00,0.00,No,No,No,No,Yes,No,No,No,3.04,Basic service,No
+Zone 3,43,51,Married,15,186.00,Some college,25,No,Male,2,Yes,No,Yes,Yes,18.90,59.75,0.00,20.25,59.15,856.30,"2,522.95",0.00,885.00,"2,525.10",Yes,Yes,Yes,No,Yes,Yes,Yes,No,5.23,Total service,No
+Zone 3,44,31,Unmarried,12,30.00,Did not complete high school,7,No,Female,3,No,No,Yes,No,8.00,0.00,0.00,13.00,0.00,317.90,0.00,0.00,530.00,0.00,No,No,No,No,No,No,No,No,3.40,Basic service,No
+Zone 2,72,66,Married,43,96.00,High school degree,16,No,Female,2,Yes,No,Yes,Yes,35.15,34.75,0.00,21.50,50.70,"2,537.65","2,557.75",0.00,"1,440.00","3,571.45",Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.56,Total service,No
+Zone 3,61,76,Unmarried,39,15.00,Did not complete high school,29,Yes,Male,1,Yes,No,Yes,No,18.60,52.75,0.00,24.00,0.00,"1,168.45","3,257.70",0.00,"1,415.00",0.00,Yes,No,Yes,No,Yes,Yes,Yes,No,2.71,Plus service,No
+Zone 3,43,21,Married,1,25.00,Did not complete high school,4,No,Male,4,No,No,No,No,7.60,0.00,0.00,0.00,0.00,334.45,0.00,0.00,0.00,0.00,Yes,No,No,Yes,No,Yes,Yes,No,3.22,E-service,Yes
+Zone 3,24,39,Unmarried,11,49.00,Some college,7,No,Female,1,No,Yes,No,No,7.45,0.00,30.90,0.00,0.00,177.20,0.00,657.25,0.00,0.00,No,No,No,Yes,No,No,No,No,3.89,Basic service,No
+Zone 3,64,45,Unmarried,4,38.00,High school degree,7,No,Female,1,Yes,No,Yes,No,13.75,22.75,0.00,10.25,0.00,918.00,"1,447.40",0.00,610.00,0.00,Yes,Yes,No,No,No,Yes,Yes,No,3.64,Plus service,Yes
+Zone 2,64,38,Unmarried,0,29.00,High school degree,2,No,Male,2,Yes,No,Yes,No,17.50,15.50,0.00,16.75,0.00,"1,114.45","1,141.55",0.00,"1,010.00",0.00,Yes,No,No,No,No,No,No,No,3.37,E-service,No
+Zone 1,24,26,Unmarried,7,55.00,High school degree,7,No,Female,1,No,No,No,No,7.60,0.00,0.00,0.00,0.00,175.80,0.00,0.00,0.00,0.00,No,No,No,No,Yes,No,No,No,4.01,Basic service,No
+Zone 3,33,55,Married,21,64.00,Some college,10,No,Female,3,Yes,No,Yes,No,5.15,14.50,0.00,24.75,0.00,163.05,494.55,0.00,775.00,0.00,No,No,No,No,No,Yes,Yes,No,4.16,Basic service,No
+Zone 2,33,33,Married,12,42.00,College degree,7,No,Female,5,No,Yes,Yes,Yes,8.80,0.00,30.95,23.00,23.35,305.75,0.00,"1,019.15",730.00,665.35,Yes,Yes,No,No,No,No,No,No,3.74,E-service,No
+Zone 1,2,40,Unmarried,9,134.00,College degree,2,No,Male,1,No,Yes,No,No,3.90,0.00,23.80,0.00,0.00,4.60,0.00,26.45,0.00,0.00,No,No,No,Yes,No,No,No,Yes,4.90,Basic service,No
+Zone 2,42,48,Married,22,82.00,Did not complete high school,21,No,Female,5,Yes,No,Yes,No,9.30,25.00,0.00,17.00,0.00,459.00,"1,006.90",0.00,750.00,0.00,Yes,No,No,Yes,Yes,Yes,No,Yes,4.41,Total service,No
+Zone 1,52,54,Married,5,153.00,Post-undergraduate degree,10,No,Male,2,No,Yes,No,Yes,11.05,0.00,36.30,0.00,30.15,555.85,0.00,"1,816.65",0.00,"1,525.15",Yes,Yes,No,Yes,No,No,No,Yes,5.03,E-service,Yes
+Zone 1,45,66,Unmarried,43,144.00,High school degree,13,No,Female,1,No,No,Yes,No,7.75,0.00,0.00,13.00,0.00,338.80,0.00,0.00,565.00,0.00,Yes,No,No,Yes,No,No,No,No,4.97,E-service,No
+Zone 3,3,25,Unmarried,4,22.00,College degree,0,No,Male,2,No,Yes,Yes,No,2.85,0.00,28.25,19.50,0.00,7.50,0.00,48.00,30.00,0.00,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3.09,Total service,Yes
+Zone 2,37,53,Married,16,35.00,Did not complete high school,16,No,Female,4,No,No,No,No,21.30,0.00,0.00,0.00,0.00,788.25,0.00,0.00,0.00,0.00,No,No,No,No,Yes,Yes,No,No,3.56,Plus service,No
+Zone 2,28,57,Unmarried,33,82.00,College degree,22,No,Female,1,No,Yes,No,No,4.05,0.00,31.45,0.00,0.00,71.50,0.00,858.15,0.00,0.00,Yes,Yes,No,Yes,No,Yes,No,Yes,4.41,E-service,Yes
+Zone 3,40,63,Married,9,61.00,Did not complete high school,22,No,Male,2,No,No,Yes,No,10.90,0.00,0.00,41.00,0.00,470.90,0.00,0.00,"1,635.00",0.00,No,No,No,No,No,No,No,No,4.11,Basic service,No
+Zone 2,37,33,Unmarried,1,102.00,High school degree,12,No,Male,1,No,Yes,Yes,Yes,16.30,0.00,33.35,10.25,37.90,646.70,0.00,"1,108.05",360.00,"1,330.60",Yes,No,Yes,Yes,Yes,No,No,Yes,4.62,Total service,No
+Zone 3,7,27,Unmarried,5,31.00,Some college,4,No,Male,5,Yes,Yes,No,Yes,4.15,15.00,46.05,0.00,41.85,30.80,96.60,271.75,0.00,235.55,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3.43,Total service,Yes
+Zone 1,71,56,Unmarried,23,170.00,Did not complete high school,30,No,Female,1,Yes,No,Yes,No,14.20,27.00,0.00,30.00,0.00,"1,001.20","1,840.65",0.00,"2,140.00",0.00,Yes,Yes,Yes,No,Yes,Yes,Yes,No,5.14,Total service,No
+Zone 2,19,46,Unmarried,11,26.00,High school degree,0,No,Female,1,No,No,Yes,No,6.05,0.00,0.00,5.00,0.00,121.70,0.00,0.00,90.00,0.00,No,No,No,Yes,Yes,No,Yes,Yes,3.26,Basic service,No
+Zone 2,61,40,Unmarried,15,85.00,Some college,15,No,Female,1,Yes,No,Yes,No,13.65,29.25,0.00,22.75,0.00,831.15,"1,823.60",0.00,"1,310.00",0.00,Yes,No,No,No,Yes,Yes,Yes,Yes,4.44,Plus service,No
+Zone 3,70,53,Married,16,183.00,High school degree,35,No,Female,2,No,No,Yes,No,32.90,0.00,0.00,15.00,0.00,"2,234.90",0.00,0.00,"1,085.00",0.00,Yes,No,No,No,No,No,No,No,5.21,E-service,No
+Zone 2,60,55,Married,13,67.00,Did not complete high school,18,No,Female,2,No,No,Yes,No,10.75,0.00,0.00,14.75,0.00,697.70,0.00,0.00,925.00,0.00,No,No,No,No,No,No,No,No,4.20,Basic service,No
+Zone 3,48,45,Married,5,42.00,Did not complete high school,11,No,Female,2,No,No,No,No,9.25,0.00,0.00,0.00,0.00,435.60,0.00,0.00,0.00,0.00,No,No,No,No,Yes,No,No,No,3.74,Basic service,No
+Zone 1,8,63,Married,1,31.00,Did not complete high school,9,No,Male,2,Yes,No,Yes,No,2.25,13.75,0.00,11.25,0.00,16.80,102.55,0.00,80.00,0.00,No,No,No,No,No,Yes,Yes,No,3.43,Plus service,No
+Zone 2,58,58,Married,10,96.00,High school degree,17,No,Male,4,Yes,No,No,No,12.50,23.00,0.00,0.00,0.00,710.80,"1,345.95",0.00,0.00,0.00,Yes,No,No,No,Yes,No,Yes,No,4.56,Plus service,No
+Zone 1,16,24,Married,5,24.00,Some college,2,No,Male,5,No,No,Yes,No,9.40,0.00,0.00,14.75,0.00,124.20,0.00,0.00,215.00,0.00,No,No,No,No,Yes,Yes,No,No,3.18,Plus service,No
+Zone 2,33,33,Unmarried,4,53.00,High school degree,14,No,Female,1,No,No,No,No,5.05,0.00,0.00,0.00,0.00,145.85,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.97,Basic service,No
+Zone 2,39,25,Unmarried,4,18.00,Did not complete high school,0,No,Female,1,No,No,No,No,6.75,0.00,0.00,0.00,0.00,242.70,0.00,0.00,0.00,0.00,Yes,No,No,No,Yes,No,Yes,No,2.89,Plus service,No
+Zone 1,62,51,Unmarried,10,43.00,College degree,19,No,Male,2,No,Yes,Yes,Yes,27.15,0.00,42.70,17.00,41.15,"1,632.40",0.00,"2,583.85","1,015.00","2,521.05",Yes,No,Yes,Yes,No,No,No,Yes,3.76,E-service,No
+Zone 1,50,34,Unmarried,10,104.00,Some college,9,No,Male,1,Yes,Yes,Yes,Yes,27.50,21.75,52.10,20.25,47.90,"1,444.45","1,219.55","2,568.40",960.00,"2,368.40",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.64,Total service,No
+Zone 2,48,55,Unmarried,31,26.00,Did not complete high school,1,No,Male,1,No,No,No,No,12.15,0.00,0.00,0.00,0.00,606.10,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.26,Basic service,No
+Zone 3,31,62,Unmarried,5,56.00,High school degree,26,No,Female,1,Yes,No,Yes,No,4.30,22.25,0.00,13.75,0.00,123.50,744.45,0.00,435.00,0.00,No,Yes,No,No,Yes,Yes,Yes,No,4.03,Plus service,No
+Zone 2,65,33,Married,9,49.00,High school degree,6,No,Male,5,Yes,No,Yes,No,42.90,17.25,0.00,17.50,0.00,"2,706.80","1,094.10",0.00,"1,190.00",0.00,Yes,No,No,No,No,Yes,No,No,3.89,E-service,No
+Zone 1,36,58,Unmarried,34,80.00,Did not complete high school,21,No,Female,1,No,No,Yes,No,8.50,0.00,0.00,8.50,0.00,298.25,0.00,0.00,260.00,0.00,Yes,No,No,No,Yes,No,No,No,4.38,E-service,No
+Zone 1,61,46,Unmarried,5,318.00,Some college,18,No,Female,1,Yes,No,Yes,No,28.90,39.25,0.00,84.75,0.00,"1,796.70","2,442.75",0.00,"5,115.00",0.00,Yes,Yes,No,No,Yes,Yes,Yes,No,5.76,Plus service,No
+Zone 2,48,42,Unmarried,21,35.00,College degree,5,No,Male,1,No,No,No,No,12.90,0.00,0.00,0.00,0.00,589.35,0.00,0.00,0.00,0.00,Yes,No,No,No,Yes,Yes,No,No,3.56,Plus service,No
+Zone 3,35,45,Unmarried,17,29.00,Did not complete high school,6,No,Male,1,No,No,No,No,8.40,0.00,0.00,0.00,0.00,300.35,0.00,0.00,0.00,0.00,No,No,No,No,No,Yes,No,No,3.37,Basic service,No
+Zone 1,51,28,Unmarried,8,43.00,Post-undergraduate degree,1,No,Male,5,Yes,Yes,Yes,Yes,11.15,35.00,77.70,20.00,80.35,623.00,"1,920.50","3,925.50",955.00,"4,059.90",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.76,Total service,No
+Zone 2,49,51,Married,5,80.00,Post-undergraduate degree,3,No,Male,2,No,Yes,Yes,Yes,5.75,0.00,51.75,36.00,36.70,285.40,0.00,"2,435.35","1,810.00","1,679.45",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.38,Total service,Yes
+Zone 1,35,39,Married,11,30.00,Some college,2,No,Female,3,Yes,No,No,No,6.85,27.75,0.00,0.00,0.00,224.85,929.95,0.00,0.00,0.00,No,No,Yes,No,No,Yes,Yes,No,3.40,Plus service,Yes
+Zone 1,58,70,Unmarried,2,9.00,Some college,24,Yes,Female,1,No,Yes,Yes,Yes,23.30,0.00,48.35,29.75,35.15,"1,384.45",0.00,"2,632.40","1,730.00","1,975.70",Yes,No,No,Yes,No,No,Yes,No,2.20,E-service,No
+Zone 1,23,35,Married,0,23.00,High school degree,1,No,Male,5,No,No,No,No,6.70,0.00,0.00,0.00,0.00,153.90,0.00,0.00,0.00,0.00,No,No,No,No,No,Yes,Yes,No,3.14,Plus service,No
+Zone 2,26,39,Married,15,58.00,College degree,9,No,Female,2,Yes,No,Yes,Yes,8.65,21.25,0.00,6.50,19.65,210.60,567.55,0.00,145.00,493.85,No,No,No,Yes,No,Yes,Yes,No,4.06,Plus service,No
+Zone 1,38,37,Married,1,52.00,Did not complete high school,20,No,Female,4,Yes,No,Yes,Yes,12.20,41.50,0.00,18.75,54.40,532.55,"1,686.30",0.00,705.00,"2,051.10",Yes,Yes,Yes,No,Yes,Yes,Yes,No,3.95,Total service,No
+Zone 1,35,66,Married,44,14.00,Some college,12,Yes,Female,2,Yes,No,No,No,4.70,31.00,0.00,0.00,0.00,202.50,"1,135.00",0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,2.64,Plus service,No
+Zone 2,37,50,Unmarried,9,110.00,High school degree,21,No,Female,1,Yes,No,Yes,No,9.65,28.50,0.00,11.25,0.00,364.05,992.40,0.00,375.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.70,Plus service,No
+Zone 2,48,43,Married,1,60.00,High school degree,12,No,Male,2,Yes,Yes,Yes,No,15.50,19.25,29.60,31.50,0.00,719.70,905.15,"1,500.75","1,495.00",0.00,Yes,No,No,No,Yes,No,No,No,4.09,E-service,No
+Zone 3,13,43,Married,1,123.00,Some college,21,No,Male,5,Yes,Yes,Yes,No,3.85,23.00,33.05,6.75,0.00,55.05,317.50,439.30,75.00,0.00,No,No,Yes,Yes,Yes,Yes,No,Yes,4.81,Total service,No
+Zone 1,72,63,Married,29,15.00,Post-undergraduate degree,31,Yes,Male,2,No,No,Yes,No,20.60,0.00,0.00,31.25,0.00,"1,547.45",0.00,0.00,"2,180.00",0.00,Yes,No,No,No,No,Yes,Yes,No,2.71,Plus service,No
+Zone 1,30,27,Unmarried,4,47.00,College degree,2,No,Female,2,No,No,Yes,No,10.75,0.00,0.00,21.25,0.00,296.90,0.00,0.00,600.00,0.00,Yes,No,No,Yes,No,No,No,No,3.85,E-service,Yes
+Zone 1,24,43,Unmarried,14,138.00,College degree,11,No,Female,1,Yes,No,Yes,Yes,6.65,20.25,0.00,8.00,24.65,130.60,445.60,0.00,180.00,551.15,Yes,No,No,Yes,Yes,No,Yes,No,4.93,Plus service,No
+Zone 2,25,51,Married,20,359.00,Some college,29,No,Male,2,Yes,Yes,Yes,Yes,5.75,27.50,39.20,40.50,21.40,163.75,676.15,881.45,975.00,475.55,No,Yes,Yes,No,Yes,Yes,Yes,No,5.88,Total service,No
+Zone 2,50,52,Unmarried,30,214.00,Some college,22,No,Male,1,Yes,Yes,Yes,Yes,11.50,26.25,40.70,12.00,48.30,610.35,"1,287.70","1,943.00",530.00,"2,412.75",Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,5.37,Total service,No
+Zone 2,28,40,Unmarried,7,64.00,Did not complete high school,19,No,Male,1,Yes,No,No,No,6.00,27.50,0.00,0.00,0.00,167.65,722.50,0.00,0.00,0.00,No,No,No,No,No,No,Yes,No,4.16,Plus service,No
+Zone 3,34,51,Unmarried,8,50.00,College degree,14,No,Male,1,No,No,Yes,No,16.15,0.00,0.00,15.75,0.00,531.35,0.00,0.00,480.00,0.00,No,Yes,No,No,No,No,No,Yes,3.91,Basic service,No
+Zone 1,48,32,Unmarried,2,88.00,Some college,9,No,Male,1,Yes,No,Yes,Yes,6.15,33.75,0.00,29.75,44.75,307.65,"1,603.80",0.00,"1,390.00","2,119.35",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.48,Total service,No
+Zone 2,42,36,Married,8,86.00,High school degree,15,No,Female,2,No,Yes,No,No,9.80,0.00,30.60,0.00,0.00,436.45,0.00,"1,222.30",0.00,0.00,Yes,No,No,No,No,No,No,No,4.45,E-service,No
+Zone 3,67,65,Married,30,17.00,Did not complete high school,29,Yes,Female,2,Yes,No,Yes,No,21.70,26.25,0.00,12.00,0.00,"1,384.05","1,721.25",0.00,785.00,0.00,Yes,No,No,No,No,Yes,No,No,2.83,Plus service,No
+Zone 1,17,41,Married,7,25.00,High school degree,17,No,Male,3,No,Yes,No,No,6.45,0.00,29.00,0.00,0.00,114.30,0.00,449.95,0.00,0.00,No,No,No,Yes,Yes,Yes,No,Yes,3.22,Plus service,No
+Zone 1,29,38,Married,19,46.00,High school degree,6,No,Male,2,No,Yes,No,No,8.35,0.00,22.95,0.00,0.00,248.60,0.00,584.90,0.00,0.00,Yes,No,No,No,No,No,No,Yes,3.83,E-service,No
+Zone 3,66,61,Unmarried,26,361.00,Did not complete high school,40,No,Female,1,No,No,Yes,No,12.75,0.00,0.00,38.50,0.00,782.00,0.00,0.00,"2,615.00",0.00,Yes,No,No,No,No,No,Yes,No,5.89,E-service,No
+Zone 2,1,21,Unmarried,1,18.00,Some college,0,No,Female,1,No,Yes,No,No,2.70,0.00,32.70,0.00,0.00,2.70,0.00,32.70,0.00,0.00,No,No,No,Yes,No,No,Yes,Yes,2.89,Basic service,Yes
+Zone 1,28,33,Married,3,14.00,College degree,1,No,Male,3,Yes,Yes,No,Yes,4.55,15.75,33.00,0.00,23.95,145.95,504.90,869.85,0.00,618.65,Yes,No,Yes,Yes,Yes,Yes,No,Yes,2.64,Total service,Yes
+Zone 1,15,35,Married,5,34.00,Some college,8,No,Male,2,No,Yes,No,No,5.15,0.00,25.55,0.00,0.00,110.55,0.00,350.25,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.53,E-service,Yes
+Zone 2,12,64,Unmarried,13,9.00,High school degree,6,Yes,Female,1,Yes,Yes,Yes,No,3.80,30.00,32.80,8.50,0.00,52.85,317.75,376.60,95.00,0.00,No,No,No,Yes,Yes,Yes,Yes,Yes,2.20,Plus service,No
+Zone 3,48,49,Unmarried,18,39.00,High school degree,5,No,Female,1,Yes,Yes,Yes,Yes,7.00,24.50,42.80,23.50,30.75,399.75,"1,229.60","2,099.35","1,140.00","1,394.50",Yes,Yes,Yes,No,Yes,Yes,Yes,No,3.66,Total service,Yes
+Zone 2,59,25,Married,4,18.00,Some college,2,No,Male,4,No,Yes,Yes,No,20.10,0.00,32.55,22.75,0.00,"1,251.40",0.00,"1,882.65","1,415.00",0.00,No,No,No,No,No,No,No,No,2.89,Basic service,No
+Zone 3,8,26,Married,1,25.00,College degree,1,No,Male,2,No,Yes,No,No,3.15,0.00,20.05,0.00,0.00,29.90,0.00,138.40,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.22,Basic service,Yes
+Zone 1,45,52,Unmarried,15,46.00,Post-undergraduate degree,8,No,Female,1,No,No,Yes,No,9.40,0.00,0.00,8.75,0.00,402.10,0.00,0.00,395.00,0.00,Yes,No,No,No,No,No,No,Yes,3.83,E-service,Yes
+Zone 1,25,39,Married,8,94.00,College degree,11,No,Female,4,No,Yes,No,No,3.95,0.00,30.75,0.00,0.00,95.20,0.00,681.20,0.00,0.00,Yes,No,No,No,No,No,No,No,4.54,E-service,Yes
+Zone 1,21,44,Married,4,26.00,Some college,2,No,Male,2,Yes,Yes,Yes,Yes,7.55,41.00,42.35,23.50,35.75,160.65,863.30,890.75,485.00,702.95,No,Yes,Yes,Yes,Yes,Yes,Yes,No,3.26,Total service,No
+Zone 2,17,68,Married,1,335.00,Did not complete high school,35,No,Female,3,Yes,No,Yes,Yes,3.55,18.75,0.00,29.25,27.90,70.25,285.90,0.00,525.00,422.85,No,Yes,Yes,No,Yes,Yes,Yes,No,5.81,Total service,No
+Zone 2,41,45,Unmarried,14,25.00,Some college,6,No,Male,1,No,Yes,Yes,Yes,7.80,0.00,42.40,14.00,23.20,370.80,0.00,"1,675.70",535.00,945.30,No,No,No,Yes,No,Yes,Yes,Yes,3.22,Basic service,Yes
+Zone 1,13,45,Married,3,99.00,Some college,8,No,Female,2,No,No,Yes,No,8.70,0.00,0.00,23.75,0.00,103.40,0.00,0.00,240.00,0.00,No,Yes,No,Yes,No,Yes,No,No,4.60,Plus service,Yes
+Zone 2,1,26,Married,3,30.00,High school degree,7,No,Female,5,No,Yes,No,No,1.05,0.00,15.40,0.00,0.00,1.05,0.00,15.40,0.00,0.00,No,No,No,No,No,No,No,Yes,3.40,Basic service,Yes
+Zone 3,3,31,Married,4,35.00,High school degree,2,No,Female,3,Yes,Yes,No,Yes,4.35,12.75,34.05,0.00,21.50,11.00,30.20,75.30,0.00,28.50,No,Yes,Yes,Yes,No,Yes,No,Yes,3.56,Total service,Yes
+Zone 1,23,27,Married,2,51.00,Post-undergraduate degree,1,No,Female,2,No,Yes,No,No,3.90,0.00,24.15,0.00,0.00,94.95,0.00,574.35,0.00,0.00,No,Yes,No,No,No,No,No,No,3.93,Basic service,Yes
+Zone 3,26,42,Unmarried,20,49.00,Some college,13,No,Male,1,Yes,Yes,Yes,Yes,3.50,25.00,43.65,24.50,27.70,82.30,638.10,"1,054.40",625.00,633.40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.89,Total service,Yes
+Zone 1,37,51,Married,15,54.00,Did not complete high school,15,No,Male,3,Yes,No,Yes,No,9.55,16.50,0.00,8.25,0.00,323.65,614.15,0.00,225.00,0.00,Yes,No,No,No,Yes,No,Yes,No,3.99,Plus service,No
+Zone 3,5,30,Unmarried,3,46.00,College degree,7,No,Male,1,No,Yes,No,No,4.30,0.00,32.10,0.00,0.00,17.55,0.00,121.55,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.83,E-service,Yes
+Zone 1,32,27,Married,3,91.00,College degree,1,No,Female,3,Yes,Yes,Yes,Yes,5.50,16.00,42.65,3.75,41.30,189.05,543.15,"1,247.30",100.00,"1,269.10",No,Yes,Yes,Yes,No,No,Yes,Yes,4.51,Total service,Yes
+Zone 3,12,22,Unmarried,1,23.00,College degree,0,No,Male,2,No,No,No,No,4.05,0.00,0.00,0.00,0.00,33.75,0.00,0.00,0.00,0.00,No,No,No,No,No,Yes,No,No,3.14,Basic service,No
+Zone 1,72,54,Married,6,345.00,Did not complete high school,32,No,Male,2,No,No,Yes,No,75.45,0.00,0.00,18.25,0.00,"5,464.60",0.00,0.00,"1,305.00",0.00,Yes,No,No,No,Yes,No,Yes,No,5.84,Plus service,No
+Zone 3,3,25,Married,2,45.00,College degree,0,No,Female,2,Yes,Yes,No,No,3.00,15.75,31.15,0.00,0.00,9.15,53.05,87.60,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.81,Basic service,Yes
+Zone 1,54,43,Unmarried,12,53.00,High school degree,12,No,Male,1,Yes,No,Yes,No,14.35,32.25,0.00,16.75,0.00,775.90,"1,749.40",0.00,845.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,3.97,Plus service,No
+Zone 2,26,26,Unmarried,2,14.00,High school degree,6,No,Female,1,Yes,Yes,No,Yes,7.80,36.50,38.70,0.00,27.90,204.25,884.20,914.50,0.00,764.55,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2.64,Total service,Yes
+Zone 3,14,36,Unmarried,13,67.00,Post-undergraduate degree,4,No,Female,1,No,Yes,No,No,14.05,0.00,25.10,0.00,0.00,187.40,0.00,303.60,0.00,0.00,No,No,No,Yes,Yes,No,No,No,4.20,Basic service,No
+Zone 3,22,51,Unmarried,27,49.00,Some college,1,No,Male,1,No,Yes,Yes,No,9.00,0.00,30.45,17.50,0.00,150.70,0.00,649.10,370.00,0.00,No,No,Yes,No,No,Yes,No,Yes,3.89,Basic service,No
+Zone 3,65,47,Married,18,37.00,Did not complete high school,15,No,Female,4,No,No,Yes,No,19.05,0.00,0.00,14.00,0.00,"1,174.60",0.00,0.00,900.00,0.00,No,No,No,No,No,No,No,No,3.61,Basic service,No
+Zone 3,26,45,Unmarried,18,33.00,Did not complete high school,9,No,Male,1,Yes,No,Yes,No,9.60,24.25,0.00,11.25,0.00,285.35,563.50,0.00,295.00,0.00,No,No,No,No,No,No,Yes,No,3.50,Basic service,No
+Zone 1,20,37,Unmarried,5,46.00,Some college,10,No,Female,4,No,Yes,Yes,Yes,4.90,0.00,44.60,6.25,41.35,91.55,0.00,878.00,90.00,815.80,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3.83,Total service,No
+Zone 2,67,60,Married,32,93.00,Did not complete high school,21,No,Male,4,No,Yes,Yes,No,18.85,0.00,32.00,42.75,0.00,"1,200.70",0.00,"2,189.80","2,665.00",0.00,Yes,No,No,No,No,No,No,Yes,4.53,E-service,No
+Zone 1,34,55,Unmarried,2,48.00,High school degree,11,No,Male,1,No,No,No,No,4.25,0.00,0.00,0.00,0.00,143.35,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.87,Basic service,No
+Zone 1,37,54,Married,35,183.00,High school degree,22,No,Male,3,Yes,No,Yes,No,7.30,20.50,0.00,7.50,0.00,257.60,769.40,0.00,260.00,0.00,No,No,No,No,Yes,No,Yes,No,5.21,Plus service,No
+Zone 2,22,23,Married,3,16.00,Did not complete high school,5,No,Male,4,No,No,Yes,No,5.40,0.00,0.00,8.50,0.00,120.40,0.00,0.00,205.00,0.00,No,No,No,No,No,No,No,No,2.77,Basic service,No
+Zone 2,5,69,Unmarried,0,11.00,High school degree,14,Yes,Male,1,Yes,No,Yes,No,6.65,9.75,0.00,8.00,0.00,35.20,44.80,0.00,30.00,0.00,No,No,No,No,No,No,No,No,2.40,Basic service,No
+Zone 1,28,31,Married,0,42.00,College degree,5,No,Female,3,Yes,No,No,No,12.25,23.75,0.00,0.00,0.00,373.80,674.50,0.00,0.00,0.00,Yes,No,No,No,No,No,Yes,No,3.74,Plus service,No
+Zone 1,20,41,Married,7,67.00,College degree,14,No,Female,4,No,No,No,No,7.25,0.00,0.00,0.00,0.00,149.10,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.20,Basic service,No
+Zone 3,72,41,Unmarried,20,181.00,College degree,12,No,Male,1,Yes,Yes,Yes,Yes,27.30,23.25,69.40,7.75,52.40,"1,963.95","1,645.80","4,980.80",520.00,"3,790.55",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5.20,Total service,No
+Zone 2,30,43,Unmarried,18,53.00,College degree,6,No,Male,1,No,Yes,No,No,7.00,0.00,26.80,0.00,0.00,232.90,0.00,738.90,0.00,0.00,No,No,No,Yes,No,No,Yes,Yes,3.97,Basic service,No
+Zone 3,71,52,Unmarried,17,172.00,High school degree,32,No,Male,1,Yes,Yes,Yes,Yes,49.25,41.50,50.90,27.25,68.10,"3,599.30","3,015.60","3,469.15","1,850.00","4,828.20",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,5.15,Total service,No
+Zone 2,56,44,Unmarried,24,87.00,High school degree,19,No,Male,1,Yes,No,Yes,No,14.75,42.25,0.00,16.25,0.00,822.25,"2,396.65",0.00,830.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.47,Plus service,No
+Zone 1,8,29,Married,2,21.00,Post-undergraduate degree,0,No,Male,2,No,Yes,No,No,4.15,0.00,24.30,0.00,0.00,39.70,0.00,167.05,0.00,0.00,No,No,No,No,No,No,No,No,3.04,Basic service,Yes
+Zone 2,32,65,Unmarried,6,9.00,High school degree,30,Yes,Female,1,No,No,No,No,6.25,0.00,0.00,0.00,0.00,201.35,0.00,0.00,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,2.20,E-service,No
+Zone 2,46,47,Unmarried,22,144.00,Some college,22,No,Female,2,Yes,No,No,No,3.50,28.25,0.00,0.00,0.00,179.95,"1,284.55",0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.97,Plus service,Yes
+Zone 3,60,45,Married,23,117.00,College degree,11,No,Male,3,Yes,Yes,Yes,Yes,12.40,28.00,51.70,19.50,52.90,755.70,"1,721.25","3,035.75","1,135.00","3,094.65",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.76,Total service,No
+Zone 2,42,32,Married,0,59.00,College degree,4,No,Female,6,Yes,Yes,Yes,Yes,16.70,38.25,53.45,22.75,72.60,681.50,"1,676.20","2,253.95",880.00,"2,805.75",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.08,Total service,No
+Zone 3,71,60,Married,39,508.00,College degree,35,No,Male,4,Yes,No,Yes,No,23.55,48.25,0.00,21.00,0.00,"1,665.60","3,474.05",0.00,"1,465.00",0.00,Yes,Yes,Yes,No,Yes,Yes,Yes,No,6.23,Total service,No
+Zone 2,72,63,Married,40,222.00,High school degree,43,Yes,Female,2,Yes,No,Yes,No,81.55,62.25,0.00,15.50,0.00,"5,988.50","4,439.25",0.00,"1,150.00",0.00,Yes,No,Yes,No,Yes,Yes,Yes,No,5.40,Plus service,No
+Zone 3,45,66,Unmarried,11,87.00,Some college,25,Yes,Female,1,No,No,Yes,No,6.05,0.00,0.00,21.25,0.00,306.90,0.00,0.00,880.00,0.00,No,No,No,No,No,No,No,No,4.47,Basic service,No
+Zone 3,5,31,Unmarried,4,34.00,Did not complete high school,9,No,Male,1,Yes,Yes,Yes,Yes,1.60,17.25,31.10,12.75,19.85,6.15,78.85,128.95,60.00,69.90,No,Yes,No,No,Yes,Yes,Yes,No,3.53,Plus service,Yes
+Zone 2,17,38,Married,19,18.00,College degree,0,No,Female,4,No,No,No,No,8.55,0.00,0.00,0.00,0.00,162.25,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,No,2.89,E-service,No
+Zone 2,70,55,Unmarried,12,65.00,Some college,24,No,Male,1,Yes,No,Yes,No,26.70,42.75,0.00,20.50,0.00,"1,874.25","2,921.35",0.00,"1,465.00",0.00,Yes,Yes,No,No,Yes,Yes,Yes,No,4.17,Plus service,No
+Zone 3,57,57,Married,19,130.00,Some college,27,No,Female,2,No,Yes,Yes,No,13.55,0.00,30.65,12.75,0.00,849.00,0.00,"1,761.40",685.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.87,E-service,No
+Zone 1,20,33,Unmarried,13,44.00,Some college,8,No,Female,1,No,Yes,No,No,6.40,0.00,29.05,0.00,0.00,124.45,0.00,550.75,0.00,0.00,Yes,No,No,No,No,Yes,Yes,Yes,3.78,E-service,No
+Zone 1,72,52,Married,21,63.00,Did not complete high school,24,No,Male,3,Yes,No,Yes,No,41.95,25.75,0.00,33.25,0.00,"3,114.75","1,871.95",0.00,"2,305.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,4.14,Plus service,No
+Zone 3,32,50,Unmarried,28,57.00,College degree,20,No,Male,1,Yes,No,Yes,Yes,4.60,38.50,0.00,37.75,23.50,123.00,"1,267.10",0.00,"1,205.00",707.40,No,No,No,No,Yes,Yes,Yes,No,4.04,Plus service,No
+Zone 3,22,57,Married,7,264.00,Did not complete high school,35,No,Female,2,No,No,Yes,No,3.00,0.00,0.00,6.00,0.00,68.35,0.00,0.00,105.00,0.00,No,No,No,No,No,Yes,Yes,No,5.58,Plus service,No
+Zone 2,6,24,Unmarried,2,28.00,Did not complete high school,5,No,Male,2,Yes,No,Yes,No,4.40,9.00,0.00,28.25,0.00,35.10,57.80,0.00,155.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.33,Plus service,Yes
+Zone 3,32,23,Married,2,26.00,Some college,1,No,Female,6,Yes,Yes,Yes,No,11.00,24.00,31.10,28.25,0.00,325.00,796.95,856.20,880.00,0.00,Yes,Yes,No,Yes,Yes,Yes,Yes,No,3.26,Total service,No
+Zone 1,38,33,Unmarried,3,38.00,College degree,0,No,Male,1,No,Yes,Yes,No,10.95,0.00,27.20,12.25,0.00,412.80,0.00,958.85,465.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.64,E-service,No
+Zone 1,53,35,Unmarried,15,59.00,Some college,5,No,Female,1,Yes,No,Yes,No,16.85,23.25,0.00,18.50,0.00,888.45,"1,250.70",0.00,995.00,0.00,No,No,Yes,No,Yes,Yes,No,No,4.08,Plus service,No
+Zone 3,37,76,Unmarried,38,117.00,College degree,21,No,Female,1,No,No,Yes,No,7.50,0.00,0.00,6.25,0.00,273.70,0.00,0.00,230.00,0.00,No,No,No,No,No,No,No,No,4.76,Basic service,No
+Zone 1,47,35,Married,13,70.00,College degree,9,No,Female,2,Yes,Yes,No,Yes,10.75,33.00,47.40,0.00,45.85,551.00,"1,556.20","2,138.25",0.00,"2,168.40",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4.25,Total service,Yes
+Zone 3,69,59,Unmarried,37,104.00,High school degree,13,No,Male,1,Yes,No,Yes,No,16.00,30.50,0.00,13.75,0.00,"1,120.75","2,104.65",0.00,925.00,0.00,Yes,Yes,No,No,Yes,Yes,Yes,No,4.64,Plus service,No
+Zone 3,63,56,Unmarried,17,71.00,Some college,18,No,Female,1,No,No,Yes,No,18.40,0.00,0.00,24.75,0.00,"1,162.90",0.00,0.00,"1,510.00",0.00,No,No,No,No,No,No,Yes,No,4.26,Basic service,No
+Zone 1,61,34,Married,0,70.00,Some college,7,No,Female,3,Yes,Yes,Yes,Yes,18.85,30.00,51.95,18.75,47.30,"1,230.70","1,820.30","3,045.80","1,095.00","2,840.20",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.25,Total service,Yes
+Zone 1,56,38,Married,8,56.00,College degree,10,No,Male,2,Yes,Yes,Yes,Yes,25.10,26.75,44.95,11.50,27.40,"1,418.35","1,435.25","2,451.85",645.00,"1,553.50",No,No,Yes,Yes,Yes,No,No,Yes,4.03,Total service,No
+Zone 3,40,57,Married,18,68.00,Did not complete high school,23,No,Male,2,Yes,No,No,No,13.35,25.75,0.00,0.00,0.00,572.40,987.70,0.00,0.00,0.00,No,No,No,No,Yes,No,Yes,No,4.22,Plus service,No
+Zone 2,61,45,Unmarried,21,80.00,High school degree,13,No,Female,1,No,No,Yes,No,18.10,0.00,0.00,35.25,0.00,"1,114.75",0.00,0.00,"2,200.00",0.00,Yes,No,No,No,No,No,No,No,4.38,E-service,No
+Zone 2,16,26,Unmarried,7,21.00,College degree,1,No,Male,6,Yes,Yes,No,Yes,3.55,11.00,44.75,0.00,30.80,56.85,182.25,638.55,0.00,438.40,Yes,Yes,Yes,Yes,No,Yes,No,Yes,3.04,Total service,No
+Zone 2,7,43,Unmarried,4,69.00,Some college,5,No,Female,1,No,No,No,No,4.45,0.00,0.00,0.00,0.00,36.85,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.23,Basic service,No
+Zone 3,20,31,Married,10,39.00,High school degree,3,No,Female,2,No,No,No,No,7.75,0.00,0.00,0.00,0.00,148.75,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.66,Basic service,No
+Zone 2,35,38,Unmarried,7,90.00,High school degree,18,No,Male,4,Yes,No,Yes,No,6.80,17.75,0.00,14.00,0.00,245.95,558.35,0.00,425.00,0.00,Yes,No,Yes,Yes,Yes,No,No,Yes,4.50,E-service,No
+Zone 1,60,37,Married,12,64.00,Post-undergraduate degree,1,No,Female,2,No,No,Yes,No,14.85,0.00,0.00,17.50,0.00,978.35,0.00,0.00,970.00,0.00,Yes,No,No,No,No,No,No,No,4.16,E-service,No
+Zone 2,47,25,Unmarried,2,28.00,High school degree,6,No,Male,1,Yes,Yes,Yes,Yes,7.75,19.75,35.15,17.00,31.15,315.90,859.60,"1,535.05",770.00,"1,448.40",No,Yes,Yes,No,Yes,Yes,Yes,Yes,3.33,Total service,No
+Zone 2,33,28,Married,3,24.00,High school degree,0,No,Female,6,No,No,Yes,No,7.50,0.00,0.00,15.75,0.00,224.25,0.00,0.00,485.00,0.00,No,No,No,No,No,No,No,Yes,3.18,Basic service,No
+Zone 3,12,34,Unmarried,2,44.00,High school degree,7,No,Male,1,No,No,No,No,4.05,0.00,0.00,0.00,0.00,48.85,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.78,Basic service,No
+Zone 1,10,31,Unmarried,0,32.00,College degree,7,No,Female,2,No,Yes,No,No,5.40,0.00,28.35,0.00,0.00,60.15,0.00,253.35,0.00,0.00,Yes,No,Yes,Yes,No,No,No,Yes,3.47,E-service,Yes
+Zone 2,69,33,Married,9,52.00,College degree,9,No,Female,3,No,No,Yes,No,29.95,0.00,0.00,29.00,0.00,"2,142.80",0.00,0.00,"1,915.00",0.00,Yes,No,No,No,No,Yes,Yes,No,3.95,Plus service,No
+Zone 1,23,20,Unmarried,1,15.00,Some college,0,No,Female,1,No,No,No,No,7.50,0.00,0.00,0.00,0.00,199.65,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,No,2.71,E-service,No
+Zone 1,53,31,Unmarried,10,46.00,Some college,6,No,Male,2,Yes,Yes,Yes,No,27.10,18.50,42.50,37.50,0.00,"1,408.35",935.00,"2,297.85","2,015.00",0.00,Yes,No,Yes,Yes,No,No,No,No,3.83,E-service,No
+Zone 2,60,57,Married,14,107.00,High school degree,33,No,Female,2,Yes,No,Yes,Yes,17.55,30.75,0.00,21.25,46.70,"1,035.20","1,863.15",0.00,"1,245.00","2,640.00",Yes,No,Yes,No,Yes,Yes,Yes,No,4.67,Plus service,No
+Zone 2,33,33,Unmarried,7,56.00,High school degree,11,No,Male,1,No,No,Yes,No,13.45,0.00,0.00,16.00,0.00,470.90,0.00,0.00,470.00,0.00,No,No,No,No,Yes,No,No,No,4.03,Basic service,No
+Zone 3,67,40,Married,21,40.00,College degree,7,No,Female,4,No,Yes,Yes,Yes,24.35,0.00,46.60,15.25,37.45,"1,585.85",0.00,"3,013.25","1,015.00","2,396.15",Yes,Yes,Yes,Yes,No,Yes,No,Yes,3.69,Total service,No
+Zone 3,15,38,Married,5,56.00,Some college,13,No,Male,3,Yes,No,Yes,No,5.40,18.00,0.00,15.00,0.00,76.75,274.95,0.00,225.00,0.00,No,No,No,No,Yes,Yes,No,No,4.03,Plus service,No
+Zone 3,64,31,Married,5,46.00,High school degree,7,No,Female,4,No,Yes,Yes,Yes,24.15,0.00,34.80,17.75,33.20,"1,546.55",0.00,"2,214.10","1,115.00","2,148.15",Yes,Yes,No,Yes,No,Yes,No,Yes,3.83,E-service,No
+Zone 2,46,49,Married,13,51.00,High school degree,21,No,Male,2,No,No,Yes,No,7.25,0.00,0.00,21.75,0.00,329.95,0.00,0.00,945.00,0.00,No,No,No,No,No,No,No,No,3.93,Basic service,Yes
+Zone 2,72,60,Married,33,12.00,Did not complete high school,20,Yes,Male,3,Yes,No,Yes,Yes,53.75,68.50,0.00,10.25,43.95,"3,776.10","4,938.60",0.00,780.00,"3,102.20",Yes,Yes,Yes,No,Yes,Yes,Yes,No,2.48,Total service,No
+Zone 1,61,43,Married,6,34.00,Post-undergraduate degree,6,No,Male,3,Yes,Yes,Yes,Yes,25.05,39.00,56.80,32.75,51.00,"1,541.90","2,536.10","3,279.90","1,980.00","3,182.65",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.53,Total service,Yes
+Zone 3,54,27,Unmarried,3,27.00,High school degree,6,No,Female,5,Yes,Yes,Yes,Yes,12.40,35.00,48.30,5.75,43.50,660.85,"1,919.75","2,484.30",315.00,"2,259.80",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,3.30,Total service,No
+Zone 3,28,36,Unmarried,3,42.00,Some college,7,No,Female,1,Yes,No,Yes,No,12.90,28.25,0.00,14.00,0.00,363.65,820.15,0.00,370.00,0.00,No,No,No,Yes,Yes,Yes,Yes,No,3.74,Plus service,No
+Zone 2,28,38,Unmarried,8,119.00,Post-undergraduate degree,2,No,Male,3,No,Yes,No,Yes,5.05,0.00,46.90,0.00,42.65,141.95,0.00,"1,262.70",0.00,"1,189.90",Yes,Yes,Yes,Yes,No,No,Yes,Yes,4.78,Total service,Yes
+Zone 2,32,43,Unmarried,13,146.00,Did not complete high school,27,No,Female,1,Yes,No,Yes,Yes,18.30,33.50,0.00,15.50,17.45,546.35,"1,090.65",0.00,510.00,559.45,No,No,No,No,Yes,Yes,Yes,No,4.98,Plus service,No
+Zone 2,52,46,Unmarried,17,51.00,High school degree,13,No,Female,3,No,No,Yes,No,12.50,0.00,0.00,15.00,0.00,638.70,0.00,0.00,755.00,0.00,Yes,No,No,No,No,No,No,No,3.93,E-service,No
+Zone 1,48,62,Unmarried,33,86.00,Did not complete high school,22,Yes,Female,1,Yes,Yes,Yes,Yes,16.35,33.50,38.95,18.75,30.60,729.30,"1,613.60","1,763.10",920.00,"1,408.50",No,Yes,No,No,Yes,Yes,Yes,Yes,4.45,Plus service,No
+Zone 3,52,42,Married,17,27.00,Some college,8,No,Female,2,Yes,No,Yes,No,19.65,31.00,0.00,19.75,0.00,"1,008.80","1,661.30",0.00,"1,050.00",0.00,No,No,No,Yes,Yes,Yes,Yes,No,3.30,Plus service,No
+Zone 1,37,43,Unmarried,8,38.00,Some college,9,No,Male,1,No,No,No,No,8.10,0.00,0.00,0.00,0.00,289.75,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,No,3.64,E-service,No
+Zone 1,41,52,Unmarried,26,928.00,Some college,29,No,Male,3,Yes,No,Yes,No,7.65,25.00,0.00,13.50,0.00,344.00,"1,060.65",0.00,465.00,0.00,No,Yes,No,No,Yes,Yes,Yes,No,6.83,Plus service,No
+Zone 2,43,27,Married,3,21.00,High school degree,1,No,Female,3,No,No,Yes,No,12.65,0.00,0.00,16.50,0.00,558.85,0.00,0.00,760.00,0.00,Yes,No,No,No,No,No,No,No,3.04,E-service,No
+Zone 3,67,60,Unmarried,24,24.00,Did not complete high school,6,No,Female,1,No,No,Yes,No,25.10,0.00,0.00,21.50,0.00,"1,659.10",0.00,0.00,"1,530.00",0.00,Yes,Yes,No,No,No,Yes,Yes,No,3.18,Plus service,No
+Zone 3,61,52,Married,30,91.00,Did not complete high school,25,No,Female,2,No,No,Yes,No,13.80,0.00,0.00,47.00,0.00,840.15,0.00,0.00,"2,790.00",0.00,No,No,No,No,No,No,No,No,4.51,Basic service,No
+Zone 3,70,39,Married,20,38.00,High school degree,8,No,Female,4,Yes,No,Yes,No,30.30,26.50,0.00,51.25,0.00,"2,201.00","1,981.65",0.00,"3,450.00",0.00,Yes,No,No,No,No,No,Yes,No,3.64,Plus service,No
+Zone 3,44,32,Married,1,96.00,College degree,5,No,Female,4,Yes,Yes,Yes,Yes,5.25,22.00,61.95,8.75,57.80,213.45,951.95,"2,803.50",360.00,"2,451.60",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.56,Total service,No
+Zone 3,46,45,Unmarried,12,96.00,Some college,17,No,Male,1,No,Yes,Yes,No,10.95,0.00,24.50,9.75,0.00,504.30,0.00,"1,032.75",410.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.56,E-service,No
+Zone 3,39,34,Unmarried,2,54.00,Some college,5,No,Male,1,No,No,Yes,No,6.50,0.00,0.00,13.25,0.00,265.45,0.00,0.00,460.00,0.00,No,No,No,No,No,No,No,No,3.99,Basic service,No
+Zone 2,39,59,Unmarried,20,"1,668.00",College degree,27,No,Female,1,Yes,No,No,No,8.20,15.00,0.00,0.00,0.00,303.95,595.60,0.00,0.00,0.00,Yes,Yes,No,Yes,Yes,No,No,No,7.42,E-service,No
+Zone 2,50,29,Married,10,53.00,College degree,0,No,Female,4,Yes,Yes,Yes,Yes,13.20,46.00,53.15,11.50,46.40,593.35,"2,412.65","2,499.00",540.00,"2,280.00",Yes,Yes,Yes,No,Yes,Yes,Yes,No,3.97,Total service,No
+Zone 3,5,31,Unmarried,1,21.00,Some college,1,No,Female,2,No,No,No,No,2.60,0.00,0.00,0.00,0.00,16.10,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,3.04,Basic service,Yes
+Zone 2,10,34,Unmarried,1,52.00,Post-undergraduate degree,3,No,Female,1,No,Yes,No,Yes,4.30,0.00,32.55,0.00,25.40,47.45,0.00,332.00,0.00,255.70,Yes,No,No,Yes,No,No,No,Yes,3.95,E-service,Yes
+Zone 1,72,69,Unmarried,45,17.00,Some college,36,Yes,Female,1,No,No,Yes,No,38.20,0.00,0.00,28.25,0.00,"2,751.65",0.00,0.00,"2,005.00",0.00,Yes,No,No,No,No,No,No,No,2.83,E-service,No
+Zone 2,68,60,Unmarried,40,262.00,High school degree,39,No,Female,1,No,No,Yes,No,31.60,0.00,0.00,26.00,0.00,"2,112.25",0.00,0.00,"1,690.00",0.00,Yes,No,No,No,Yes,Yes,No,No,5.57,Plus service,No
+Zone 3,58,28,Unmarried,5,34.00,Post-undergraduate degree,1,No,Female,1,No,Yes,Yes,No,19.90,0.00,41.70,23.75,0.00,"1,144.60",0.00,"2,275.70","1,335.00",0.00,Yes,Yes,Yes,Yes,No,No,No,Yes,3.53,E-service,No
+Zone 3,18,44,Married,10,107.00,Did not complete high school,19,No,Female,7,No,No,No,No,2.25,0.00,0.00,0.00,0.00,41.80,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.67,Basic service,No
+Zone 1,65,45,Married,25,67.00,Post-undergraduate degree,13,No,Female,2,Yes,Yes,Yes,No,9.85,20.75,27.65,36.00,0.00,671.20,"1,391.85","1,729.20","2,305.00",0.00,Yes,No,No,No,Yes,No,Yes,No,4.20,Plus service,No
+Zone 3,8,45,Unmarried,1,37.00,College degree,0,No,Male,1,No,Yes,No,No,4.65,0.00,32.05,0.00,0.00,64.45,0.00,207.85,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.61,E-service,Yes
+Zone 2,1,20,Unmarried,1,21.00,High school degree,0,No,Female,2,No,Yes,No,No,0.90,0.00,23.85,0.00,0.00,0.90,0.00,23.85,0.00,0.00,No,Yes,Yes,No,No,No,No,Yes,3.04,Basic service,Yes
+Zone 3,42,58,Unmarried,7,22.00,Did not complete high school,4,No,Female,1,No,No,No,No,3.60,0.00,0.00,0.00,0.00,166.75,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,No,3.09,E-service,No
+Zone 1,4,25,Married,3,71.00,Some college,3,No,Female,5,No,Yes,No,No,3.60,0.00,28.70,0.00,0.00,14.95,0.00,110.15,0.00,0.00,No,Yes,No,Yes,No,No,No,Yes,4.26,Basic service,No
+Zone 3,17,35,Unmarried,4,77.00,Some college,8,No,Female,1,Yes,No,No,No,8.10,15.00,0.00,0.00,0.00,144.40,251.10,0.00,0.00,0.00,No,No,No,No,Yes,Yes,No,No,4.34,Plus service,No
+Zone 2,8,24,Married,1,18.00,College degree,0,No,Female,5,Yes,Yes,Yes,Yes,2.95,17.00,39.30,20.00,34.30,16.80,134.25,296.70,165.00,260.80,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2.89,Total service,Yes
+Zone 1,49,37,Married,17,50.00,High school degree,12,No,Female,2,No,No,Yes,No,4.20,0.00,0.00,16.50,0.00,243.10,0.00,0.00,800.00,0.00,Yes,No,No,No,No,No,No,No,3.91,E-service,No
+Zone 1,56,46,Married,21,33.00,College degree,7,No,Male,2,No,Yes,Yes,No,22.70,0.00,32.90,8.50,0.00,"1,257.40",0.00,"1,846.85",525.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.50,E-service,No
+Zone 1,62,57,Married,21,94.00,Did not complete high school,22,No,Male,2,Yes,No,Yes,No,11.95,32.00,0.00,53.00,0.00,757.60,"1,999.95",0.00,"3,250.00",0.00,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4.54,Total service,No
+Zone 2,42,57,Married,25,209.00,Did not complete high school,40,No,Female,4,No,No,Yes,No,9.45,0.00,0.00,11.00,0.00,383.45,0.00,0.00,475.00,0.00,No,No,No,No,No,No,No,No,5.34,Basic service,No
+Zone 1,13,32,Unmarried,7,31.00,College degree,5,No,Male,2,Yes,No,Yes,Yes,5.05,35.50,0.00,10.50,23.30,64.85,452.30,0.00,115.00,244.30,No,Yes,No,No,Yes,Yes,Yes,No,3.43,Plus service,No
+Zone 1,69,46,Married,18,66.00,High school degree,19,No,Male,4,No,No,Yes,No,21.85,0.00,0.00,46.50,0.00,"1,589.10",0.00,0.00,"3,265.00",0.00,Yes,No,No,No,No,No,No,No,4.19,E-service,No
+Zone 2,45,59,Unmarried,14,51.00,Did not complete high school,15,No,Male,2,No,No,Yes,No,5.95,0.00,0.00,5.25,0.00,236.30,0.00,0.00,175.00,0.00,No,No,No,No,No,No,No,No,3.93,Basic service,No
+Zone 2,66,42,Married,18,118.00,High school degree,20,No,Male,2,No,No,Yes,No,26.80,0.00,0.00,21.75,0.00,"1,774.75",0.00,0.00,"1,480.00",0.00,Yes,No,No,No,No,No,No,No,4.77,E-service,No
+Zone 2,15,35,Unmarried,10,25.00,High school degree,3,No,Male,1,No,Yes,No,No,4.75,0.00,21.40,0.00,0.00,41.40,0.00,291.40,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.22,Basic service,Yes
+Zone 1,41,44,Married,1,59.00,Some college,21,No,Female,3,No,Yes,Yes,No,12.10,0.00,44.90,24.50,0.00,479.95,0.00,"1,853.30","1,005.00",0.00,Yes,Yes,No,Yes,Yes,No,No,Yes,4.08,E-service,No
+Zone 2,11,20,Unmarried,1,20.00,High school degree,0,No,Female,1,Yes,Yes,Yes,Yes,4.75,23.00,38.55,13.50,42.70,48.00,221.35,427.65,155.00,387.95,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.00,Total service,Yes
+Zone 3,45,30,Married,0,63.00,Post-undergraduate degree,4,No,Male,4,Yes,Yes,Yes,Yes,7.10,40.75,39.75,16.50,50.85,314.80,"1,849.50","1,717.20",775.00,"2,239.65",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.14,Total service,Yes
+Zone 1,52,62,Unmarried,23,36.00,College degree,17,No,Male,1,Yes,No,Yes,No,13.35,18.50,0.00,18.50,0.00,709.25,978.85,0.00,915.00,0.00,No,No,No,No,No,No,Yes,No,3.58,Basic service,No
+Zone 1,42,56,Unmarried,24,72.00,College degree,18,No,Female,1,No,Yes,Yes,Yes,8.00,0.00,38.50,20.50,40.05,336.90,0.00,"1,573.85",770.00,"1,713.30",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.28,Total service,No
+Zone 2,48,35,Unmarried,11,50.00,Did not complete high school,16,No,Male,3,Yes,No,Yes,No,12.85,21.75,0.00,17.00,0.00,622.75,"1,018.55",0.00,790.00,0.00,No,Yes,No,No,Yes,No,No,No,3.91,Plus service,No
+Zone 3,4,31,Unmarried,5,39.00,High school degree,5,No,Male,2,Yes,Yes,Yes,Yes,4.90,26.00,41.55,10.00,36.40,19.65,95.95,111.70,25.00,142.90,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.66,Total service,Yes
+Zone 3,53,64,Married,10,54.00,High school degree,20,No,Female,2,Yes,Yes,Yes,Yes,9.65,39.25,51.15,53.50,74.80,483.55,"2,053.20","2,658.05","2,675.00","3,817.55",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.99,Total service,No
+Zone 3,1,59,Unmarried,4,9.00,Did not complete high school,4,Yes,Male,1,Yes,No,Yes,No,3.80,26.50,0.00,20.50,0.00,3.80,26.50,0.00,20.50,0.00,No,No,No,No,Yes,Yes,No,No,2.20,Plus service,No
+Zone 3,19,30,Married,10,33.00,College degree,1,No,Male,3,Yes,Yes,No,No,4.05,22.25,31.80,0.00,0.00,79.45,396.35,543.85,0.00,0.00,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.50,Total service,No
+Zone 2,33,30,Unmarried,11,28.00,Did not complete high school,9,No,Male,1,No,No,No,No,7.40,0.00,0.00,0.00,0.00,246.55,0.00,0.00,0.00,0.00,No,No,No,No,No,Yes,No,No,3.33,Basic service,No
+Zone 3,42,36,Married,14,44.00,High school degree,11,No,Male,3,Yes,No,No,Yes,7.00,26.50,0.00,0.00,26.10,321.95,"1,161.30",0.00,0.00,"1,173.45",No,No,Yes,No,Yes,Yes,Yes,No,3.78,Plus service,No
+Zone 1,60,32,Unmarried,12,34.00,College degree,4,No,Female,2,No,No,Yes,No,23.95,0.00,0.00,10.00,0.00,"1,513.00",0.00,0.00,615.00,0.00,Yes,No,No,No,No,No,No,No,3.53,E-service,No
+Zone 2,57,51,Married,7,68.00,College degree,18,No,Female,3,Yes,No,Yes,No,16.05,18.75,0.00,8.25,0.00,930.40,"1,096.00",0.00,365.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,4.22,Plus service,No
+Zone 1,64,39,Unmarried,5,37.00,Did not complete high school,9,No,Male,1,No,No,Yes,No,10.20,0.00,0.00,17.50,0.00,640.75,0.00,0.00,"1,020.00",0.00,No,No,No,No,No,No,No,No,3.61,Basic service,No
+Zone 2,28,20,Married,1,18.00,Some college,0,No,Male,3,No,Yes,No,Yes,7.70,0.00,38.90,0.00,32.00,190.05,0.00,"1,041.10",0.00,873.30,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2.89,Total service,No
+Zone 1,29,35,Married,10,55.00,High school degree,7,No,Male,4,Yes,No,Yes,No,15.65,21.75,0.00,30.75,0.00,477.95,612.55,0.00,855.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.01,Plus service,Yes
+Zone 1,46,31,Married,12,21.00,Did not complete high school,5,No,Male,5,No,No,Yes,No,8.95,0.00,0.00,9.25,0.00,369.95,0.00,0.00,415.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.04,Plus service,No
+Zone 1,22,41,Married,9,29.00,Some college,11,No,Male,4,No,No,No,No,12.75,0.00,0.00,0.00,0.00,274.85,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.37,Basic service,Yes
+Zone 2,10,56,Unmarried,26,9.00,High school degree,6,Yes,Male,2,No,No,No,No,3.20,0.00,0.00,0.00,0.00,36.90,0.00,0.00,0.00,0.00,No,No,No,No,No,No,Yes,No,2.20,Basic service,No
+Zone 3,50,41,Unmarried,16,138.00,High school degree,18,No,Female,1,Yes,Yes,Yes,No,12.35,19.75,27.85,14.50,0.00,585.05,937.85,"1,359.05",690.00,0.00,Yes,No,No,No,No,No,No,Yes,4.93,E-service,Yes
+Zone 1,55,65,Unmarried,34,28.00,College degree,12,Yes,Female,1,Yes,No,Yes,Yes,18.60,46.25,0.00,14.75,41.20,"1,007.30","2,610.55",0.00,835.00,"2,163.50",No,Yes,Yes,No,Yes,Yes,Yes,No,3.33,Total service,No
+Zone 2,15,54,Unmarried,7,62.00,Did not complete high school,11,No,Male,1,No,No,No,No,3.15,0.00,0.00,0.00,0.00,54.25,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.13,Basic service,No
+Zone 1,31,32,Married,13,37.00,Some college,8,No,Female,3,Yes,No,Yes,Yes,4.60,19.75,0.00,8.75,56.45,140.55,593.75,0.00,290.00,"1,771.10",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3.61,Total service,No
+Zone 3,5,44,Unmarried,5,83.00,Did not complete high school,16,No,Female,1,No,Yes,No,No,4.65,0.00,25.25,0.00,0.00,12.30,0.00,90.50,0.00,0.00,Yes,No,No,No,Yes,No,No,No,4.42,E-service,Yes
+Zone 2,69,63,Unmarried,28,168.00,Did not complete high school,43,No,Female,2,Yes,No,Yes,No,14.50,44.25,0.00,18.25,0.00,"1,020.30","3,097.25",0.00,"1,230.00",0.00,No,No,No,No,Yes,Yes,Yes,No,5.12,Plus service,No
+Zone 2,26,27,Married,4,33.00,College degree,1,No,Male,6,Yes,Yes,Yes,Yes,5.85,25.50,42.45,13.25,34.15,114.55,656.85,"1,089.70",310.00,810.20,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.50,Total service,Yes
+Zone 3,10,33,Married,2,66.00,Some college,9,No,Female,4,Yes,No,Yes,No,7.10,21.25,0.00,25.25,0.00,59.30,241.80,0.00,220.00,0.00,No,No,No,Yes,No,Yes,No,No,4.19,Basic service,Yes
+Zone 1,26,30,Unmarried,9,18.00,College degree,1,No,Male,3,Yes,No,Yes,No,7.25,25.50,0.00,32.50,0.00,171.85,688.35,0.00,840.00,0.00,No,Yes,Yes,No,Yes,Yes,Yes,No,2.89,Total service,Yes
+Zone 3,25,30,Unmarried,0,20.00,Did not complete high school,4,No,Female,1,Yes,No,Yes,No,8.55,21.75,0.00,15.50,0.00,215.95,522.15,0.00,370.00,0.00,No,No,No,No,Yes,No,Yes,No,3.00,Plus service,No
+Zone 3,30,23,Married,4,19.00,Some college,1,No,Male,4,No,Yes,Yes,No,7.90,0.00,35.20,27.50,0.00,253.05,0.00,"1,087.55",840.00,0.00,Yes,No,No,Yes,No,No,No,Yes,2.94,E-service,No
+Zone 1,21,39,Married,7,25.00,High school degree,1,No,Male,4,Yes,No,Yes,Yes,8.50,27.00,0.00,20.00,31.25,175.30,582.00,0.00,440.00,646.90,No,No,No,No,Yes,Yes,Yes,No,3.22,Plus service,No
+Zone 1,71,46,Unmarried,27,119.00,Post-undergraduate degree,7,No,Female,1,No,Yes,Yes,Yes,42.85,0.00,70.05,15.00,111.95,"3,080.85",0.00,"5,028.65","1,020.00","7,856.85",Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4.78,Total service,No
+Zone 3,11,48,Married,5,323.00,College degree,25,No,Male,4,Yes,No,Yes,Yes,5.25,30.00,0.00,21.75,25.75,48.50,293.85,0.00,205.00,223.25,No,No,No,Yes,Yes,Yes,Yes,No,5.78,Plus service,Yes
+Zone 1,24,30,Married,7,45.00,Did not complete high school,11,No,Female,2,No,No,No,No,6.00,0.00,0.00,0.00,0.00,134.70,0.00,0.00,0.00,0.00,No,No,No,No,No,Yes,No,No,3.81,Basic service,No
+Zone 1,65,59,Married,27,197.00,College degree,26,No,Male,2,No,Yes,Yes,No,45.40,0.00,25.75,46.75,0.00,"2,973.55",0.00,"1,699.85","3,065.00",0.00,Yes,No,Yes,No,No,No,No,Yes,5.28,E-service,No
+Zone 1,16,34,Married,13,56.00,Some college,10,No,Female,3,No,No,No,No,9.35,0.00,0.00,0.00,0.00,157.00,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.03,Basic service,Yes
+Zone 3,37,51,Married,26,24.00,College degree,4,No,Male,2,No,No,Yes,No,8.20,0.00,0.00,13.75,0.00,288.40,0.00,0.00,480.00,0.00,Yes,No,No,No,No,No,No,Yes,3.18,E-service,No
+Zone 1,5,30,Unmarried,4,25.00,Some college,6,No,Male,1,Yes,Yes,No,No,2.40,14.75,27.50,0.00,0.00,25.45,72.45,147.40,0.00,0.00,No,No,No,No,Yes,Yes,No,No,3.22,Plus service,Yes
+Zone 1,3,55,Married,9,26.00,Post-undergraduate degree,0,No,Female,2,No,Yes,No,No,6.40,0.00,31.20,0.00,0.00,22.40,0.00,49.55,0.00,0.00,Yes,Yes,No,Yes,No,No,No,Yes,3.26,E-service,Yes
+Zone 1,5,32,Unmarried,6,33.00,College degree,3,No,Male,2,No,Yes,No,No,3.20,0.00,21.60,0.00,0.00,24.55,0.00,98.40,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.50,Basic service,Yes
+Zone 1,60,44,Married,4,150.00,High school degree,24,No,Male,2,Yes,No,Yes,Yes,20.00,63.50,0.00,15.00,36.80,"1,207.30","3,907.80",0.00,870.00,"2,163.75",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,5.01,Total service,No
+Zone 2,19,37,Married,4,99.00,High school degree,15,No,Female,3,No,No,No,No,8.00,0.00,0.00,0.00,0.00,142.05,0.00,0.00,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.60,E-service,Yes
+Zone 3,54,40,Unmarried,19,50.00,College degree,12,No,Female,2,No,No,Yes,Yes,22.80,0.00,0.00,5.00,33.05,"1,266.10",0.00,0.00,310.00,"1,746.90",Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3.91,Total service,No
+Zone 2,25,41,Unmarried,3,81.00,Some college,20,No,Female,4,No,No,Yes,No,7.40,0.00,0.00,11.00,0.00,193.65,0.00,0.00,290.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.39,Plus service,No
+Zone 2,1,36,Unmarried,6,21.00,Did not complete high school,1,No,Male,2,No,Yes,No,No,1.35,0.00,22.60,0.00,0.00,1.35,0.00,22.60,0.00,0.00,Yes,No,No,No,No,No,No,Yes,3.04,E-service,Yes
+Zone 3,54,68,Unmarried,7,273.00,Some college,27,No,Female,1,No,No,Yes,No,18.35,0.00,0.00,6.00,0.00,"1,003.20",0.00,0.00,325.00,0.00,No,No,No,Yes,No,No,No,Yes,5.61,Basic service,No
+Zone 1,14,31,Married,9,39.00,Some college,4,No,Female,7,No,No,No,No,4.40,0.00,0.00,0.00,0.00,60.65,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.66,Basic service,No
+Zone 3,14,28,Married,7,17.00,High school degree,3,No,Male,4,No,Yes,No,No,5.80,0.00,20.85,0.00,0.00,86.75,0.00,288.05,0.00,0.00,No,No,No,No,No,No,No,Yes,2.83,Basic service,Yes
+Zone 2,10,45,Married,8,115.00,Some college,17,No,Female,4,No,Yes,No,No,5.70,0.00,28.05,0.00,0.00,52.95,0.00,238.90,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.74,E-service,Yes
+Zone 1,7,23,Unmarried,3,27.00,High school degree,1,No,Female,3,Yes,No,Yes,No,3.65,9.50,0.00,7.00,0.00,21.00,76.05,0.00,55.00,0.00,No,No,No,No,Yes,Yes,No,No,3.30,Basic service,No
+Zone 2,33,45,Unmarried,24,35.00,Did not complete high school,6,No,Male,1,Yes,No,Yes,No,5.65,24.00,0.00,25.50,0.00,205.75,860.95,0.00,780.00,0.00,No,No,Yes,No,Yes,Yes,Yes,No,3.56,Plus service,Yes
+Zone 1,3,23,Unmarried,2,20.00,High school degree,4,No,Male,1,No,Yes,No,No,4.65,0.00,30.00,0.00,0.00,11.20,0.00,68.80,0.00,0.00,No,Yes,No,Yes,No,No,Yes,Yes,3.00,Basic service,No
+Zone 2,56,58,Married,3,92.00,Did not complete high school,25,No,Male,3,No,No,Yes,No,8.25,0.00,0.00,19.75,0.00,476.70,0.00,0.00,"1,075.00",0.00,No,No,No,No,No,No,Yes,No,4.52,Basic service,No
+Zone 2,54,56,Unmarried,8,207.00,High school degree,35,No,Female,1,Yes,No,Yes,No,9.00,25.25,0.00,9.00,0.00,464.65,"1,352.25",0.00,455.00,0.00,No,No,No,No,Yes,Yes,Yes,No,5.33,Plus service,No
+Zone 1,72,55,Married,28,40.00,Did not complete high school,11,No,Male,5,No,No,Yes,No,34.25,0.00,0.00,35.75,0.00,"2,472.65",0.00,0.00,"2,770.00",0.00,Yes,No,No,No,No,No,No,No,3.69,E-service,No
+Zone 1,18,29,Unmarried,4,40.00,High school degree,1,No,Male,1,No,Yes,No,No,9.50,0.00,27.35,0.00,0.00,196.20,0.00,401.65,0.00,0.00,No,No,No,Yes,Yes,Yes,No,No,3.69,Plus service,No
+Zone 3,25,29,Unmarried,9,55.00,College degree,1,No,Male,1,Yes,No,No,No,5.25,24.75,0.00,0.00,0.00,147.95,612.45,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,4.01,Basic service,Yes
+Zone 1,42,62,Unmarried,26,26.00,Did not complete high school,35,Yes,Female,1,No,No,Yes,No,8.75,0.00,0.00,27.00,0.00,337.75,0.00,0.00,"1,070.00",0.00,No,No,No,No,No,No,No,Yes,3.26,Basic service,No
+Zone 3,4,37,Unmarried,2,41.00,High school degree,8,No,Male,1,Yes,Yes,Yes,No,2.80,13.50,29.90,16.50,0.00,5.30,45.75,83.55,60.00,0.00,No,No,Yes,Yes,Yes,No,No,No,3.71,Basic service,No
+Zone 2,12,50,Married,16,203.00,College degree,25,No,Male,2,Yes,No,Yes,Yes,4.95,22.00,0.00,11.25,28.30,71.50,284.70,0.00,120.00,315.70,No,No,Yes,No,Yes,No,No,Yes,5.31,Basic service,Yes
+Zone 2,53,64,Married,17,380.00,High school degree,36,No,Female,2,Yes,No,Yes,No,12.85,40.25,0.00,15.00,0.00,687.90,"2,104.30",0.00,825.00,0.00,No,No,No,No,Yes,Yes,Yes,No,5.94,Plus service,No
+Zone 2,13,38,Married,8,104.00,College degree,6,No,Male,7,Yes,No,Yes,Yes,10.25,21.50,0.00,25.75,58.85,160.40,274.00,0.00,325.00,723.35,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.64,Total service,Yes
+Zone 3,18,31,Married,12,24.00,Some college,4,No,Male,4,No,No,No,No,12.15,0.00,0.00,0.00,0.00,202.20,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,Yes,3.18,E-service,No
+Zone 3,67,42,Married,20,81.00,Some college,20,No,Female,5,Yes,No,Yes,Yes,24.40,41.25,0.00,9.50,36.70,"1,701.00","2,799.45",0.00,615.00,"2,481.65",Yes,Yes,Yes,No,Yes,Yes,Yes,No,4.39,Total service,No
+Zone 2,6,24,Unmarried,2,17.00,Did not complete high school,1,No,Male,1,Yes,No,Yes,No,3.25,21.00,0.00,15.25,0.00,29.25,132.20,0.00,45.00,0.00,No,No,No,No,Yes,No,Yes,No,2.83,Plus service,No
+Zone 1,25,46,Unmarried,13,45.00,Did not complete high school,12,No,Female,1,Yes,No,No,No,5.40,16.00,0.00,0.00,0.00,155.00,408.05,0.00,0.00,0.00,No,Yes,No,No,Yes,Yes,No,No,3.81,Plus service,No
+Zone 2,15,39,Unmarried,19,32.00,High school degree,2,No,Male,1,No,Yes,No,No,3.45,0.00,31.85,0.00,0.00,44.45,0.00,462.75,0.00,0.00,Yes,Yes,No,No,No,No,No,Yes,3.47,E-service,Yes
+Zone 3,32,35,Unmarried,12,57.00,College degree,5,No,Male,1,Yes,Yes,No,No,8.60,11.00,30.05,0.00,0.00,259.30,335.15,975.80,0.00,0.00,Yes,No,No,No,No,No,No,No,4.04,E-service,No
+Zone 2,22,39,Unmarried,0,63.00,College degree,9,No,Male,1,No,Yes,No,No,6.20,0.00,21.35,0.00,0.00,121.70,0.00,425.25,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.14,E-service,Yes
+Zone 2,8,22,Unmarried,3,25.00,College degree,0,No,Male,1,Yes,No,Yes,Yes,8.00,32.25,0.00,18.25,19.45,61.55,264.00,0.00,155.00,153.70,No,Yes,No,No,Yes,Yes,Yes,No,3.22,Plus service,No
+Zone 1,3,31,Married,4,22.00,Did not complete high school,1,No,Male,2,No,Yes,No,No,3.40,0.00,22.70,0.00,0.00,7.60,0.00,35.45,0.00,0.00,No,No,No,Yes,Yes,No,No,Yes,3.09,Basic service,Yes
+Zone 2,32,54,Unmarried,6,155.00,High school degree,20,No,Male,1,No,No,No,No,16.35,0.00,0.00,0.00,0.00,528.50,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,5.04,Basic service,No
+Zone 1,49,54,Unmarried,24,30.00,High school degree,5,No,Male,1,No,No,Yes,No,15.50,0.00,0.00,14.25,0.00,754.80,0.00,0.00,625.00,0.00,Yes,No,No,No,No,Yes,No,No,3.40,E-service,No
+Zone 2,2,28,Unmarried,7,46.00,Some college,0,No,Female,1,No,No,No,Yes,3.45,0.00,0.00,0.00,15.10,6.55,0.00,0.00,0.00,10.45,Yes,No,Yes,No,Yes,No,Yes,Yes,3.83,Total service,No
+Zone 1,39,47,Unmarried,1,68.00,College degree,10,No,Female,2,No,No,No,No,8.30,0.00,0.00,0.00,0.00,308.55,0.00,0.00,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.22,E-service,Yes
+Zone 1,42,33,Unmarried,2,67.00,High school degree,5,No,Male,2,No,No,Yes,No,6.70,0.00,0.00,25.25,0.00,270.20,0.00,0.00,"1,075.00",0.00,Yes,No,No,No,No,No,Yes,No,4.20,E-service,No
+Zone 1,28,36,Unmarried,3,69.00,Some college,2,No,Male,1,Yes,Yes,Yes,Yes,6.05,25.25,41.55,31.75,36.60,153.05,697.05,"1,117.15",835.00,"1,020.95",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.23,Total service,No
+Zone 2,41,46,Married,14,47.00,High school degree,11,No,Male,5,Yes,Yes,Yes,Yes,6.30,41.25,55.80,20.00,50.95,279.70,"1,665.00","2,197.60",830.00,"1,956.70",Yes,Yes,Yes,No,Yes,Yes,Yes,No,3.85,Total service,No
+Zone 3,67,50,Married,31,83.00,High school degree,12,No,Male,2,No,Yes,Yes,No,29.45,0.00,22.65,19.00,0.00,"1,921.55",0.00,"1,515.40","1,240.00",0.00,Yes,No,No,No,No,No,No,Yes,4.42,E-service,No
+Zone 1,38,40,Unmarried,15,34.00,High school degree,11,No,Female,1,No,Yes,Yes,No,4.25,0.00,19.80,7.00,0.00,157.60,0.00,779.65,275.00,0.00,Yes,No,No,Yes,No,No,No,No,3.53,E-service,No
+Zone 2,18,38,Unmarried,8,45.00,High school degree,2,No,Female,4,Yes,Yes,Yes,Yes,2.70,31.50,36.25,15.00,23.40,45.60,609.20,654.75,270.00,422.50,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3.81,Total service,Yes
+Zone 2,6,42,Married,17,29.00,High school degree,2,No,Female,2,Yes,No,Yes,Yes,4.30,25.75,0.00,29.00,31.90,13.40,159.15,0.00,165.00,162.00,No,Yes,Yes,No,Yes,Yes,Yes,No,3.37,Total service,No
+Zone 2,4,36,Unmarried,0,21.00,High school degree,1,No,Female,3,No,No,No,No,3.30,0.00,0.00,0.00,0.00,22.10,0.00,0.00,0.00,0.00,No,No,No,No,No,No,Yes,No,3.04,Basic service,No
+Zone 1,13,23,Married,3,30.00,Some college,0,No,Female,4,Yes,Yes,No,No,5.15,24.25,28.85,0.00,0.00,53.50,294.55,294.35,0.00,0.00,Yes,Yes,Yes,Yes,No,Yes,Yes,No,3.40,Total service,No
+Zone 1,20,35,Unmarried,0,78.00,College degree,7,No,Male,1,No,Yes,No,Yes,5.50,0.00,46.10,0.00,35.25,97.15,0.00,825.45,0.00,701.05,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,4.36,Total service,Yes
+Zone 1,34,49,Married,27,61.00,Some college,15,No,Female,2,Yes,No,No,No,12.65,34.25,0.00,0.00,0.00,414.90,"1,119.35",0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.11,Plus service,No
+Zone 1,46,29,Married,4,90.00,Post-undergraduate degree,3,No,Male,4,Yes,No,Yes,Yes,16.85,40.50,0.00,34.50,39.80,736.45,"1,817.75",0.00,"1,480.00","1,783.15",No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.50,Total service,No
+Zone 1,48,41,Unmarried,21,43.00,High school degree,7,No,Male,1,No,No,Yes,No,19.50,0.00,0.00,11.75,0.00,887.70,0.00,0.00,530.00,0.00,Yes,No,No,No,No,No,No,No,3.76,E-service,No
+Zone 3,69,61,Married,12,301.00,High school degree,37,No,Male,2,Yes,Yes,Yes,Yes,26.05,36.75,41.85,16.25,38.45,"1,738.15","2,589.30","2,768.85","1,110.00","2,590.20",Yes,Yes,No,No,Yes,Yes,Yes,No,5.71,Plus service,No
+Zone 1,32,34,Married,7,32.00,High school degree,15,No,Male,4,No,No,No,No,9.25,0.00,0.00,0.00,0.00,285.75,0.00,0.00,0.00,0.00,No,No,No,No,No,No,Yes,No,3.47,Basic service,No
+Zone 1,29,29,Unmarried,9,41.00,High school degree,9,No,Male,2,Yes,Yes,No,No,4.75,23.00,37.45,0.00,0.00,112.00,626.60,"1,010.10",0.00,0.00,Yes,No,No,No,No,Yes,Yes,Yes,3.71,E-service,No
+Zone 3,55,52,Unmarried,22,127.00,Did not complete high school,28,No,Female,3,No,No,Yes,No,7.05,0.00,0.00,20.25,0.00,400.55,0.00,0.00,"1,150.00",0.00,Yes,Yes,No,No,No,No,No,Yes,4.84,E-service,No
+Zone 3,72,60,Married,36,271.00,Did not complete high school,43,No,Female,2,No,No,Yes,No,21.70,0.00,0.00,52.25,0.00,"1,580.40",0.00,0.00,"3,665.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,5.60,Plus service,No
+Zone 3,29,26,Unmarried,1,32.00,Some college,2,No,Female,1,No,No,Yes,No,3.40,0.00,0.00,15.75,0.00,111.50,0.00,0.00,440.00,0.00,No,Yes,No,No,No,No,Yes,No,3.47,Basic service,Yes
+Zone 2,50,25,Married,1,36.00,College degree,2,No,Female,5,No,Yes,Yes,Yes,13.05,0.00,40.60,10.25,40.85,682.20,0.00,"1,928.20",545.00,"1,964.20",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3.58,Total service,No
+Zone 3,35,50,Married,11,293.00,Some college,21,No,Male,2,No,Yes,No,No,12.25,0.00,23.90,0.00,0.00,416.40,0.00,793.40,0.00,0.00,No,No,No,No,No,No,No,Yes,5.68,Basic service,Yes
+Zone 3,11,63,Unmarried,9,41.00,Some college,3,No,Male,1,No,Yes,No,No,4.15,0.00,29.90,0.00,0.00,46.35,0.00,299.65,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.71,Basic service,Yes
+Zone 1,9,29,Unmarried,9,39.00,Some college,5,No,Female,1,No,No,No,No,4.20,0.00,0.00,0.00,0.00,22.00,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,3.66,Basic service,No
+Zone 2,51,48,Unmarried,27,58.00,Did not complete high school,18,No,Male,1,Yes,No,Yes,No,19.20,25.75,0.00,9.25,0.00,964.85,"1,320.05",0.00,390.00,0.00,No,No,No,No,No,Yes,Yes,No,4.06,Plus service,Yes
+Zone 1,33,34,Married,2,28.00,Did not complete high school,3,No,Female,3,No,No,No,No,13.40,0.00,0.00,0.00,0.00,438.90,0.00,0.00,0.00,0.00,Yes,No,No,Yes,No,No,No,No,3.33,E-service,No
+Zone 1,25,20,Unmarried,0,15.00,High school degree,0,No,Male,2,Yes,No,Yes,No,10.70,23.00,0.00,18.75,0.00,296.75,572.25,0.00,405.00,0.00,No,No,No,No,Yes,Yes,Yes,No,2.71,Plus service,No
+Zone 3,31,34,Unmarried,9,105.00,College degree,7,No,Female,4,No,No,Yes,No,6.45,0.00,0.00,5.75,0.00,182.35,0.00,0.00,170.00,0.00,No,No,No,No,Yes,No,Yes,No,4.65,Plus service,No
+Zone 2,67,40,Married,10,80.00,College degree,8,No,Female,2,Yes,Yes,Yes,Yes,33.05,21.75,53.55,18.75,48.05,"2,225.15","1,391.60","3,532.10","1,215.00","3,185.35",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.38,Total service,No
+Zone 3,55,45,Unmarried,8,36.00,High school degree,9,No,Male,3,Yes,No,Yes,No,25.65,41.75,0.00,11.75,0.00,"1,423.00","2,294.75",0.00,630.00,0.00,Yes,Yes,No,No,Yes,Yes,Yes,No,3.58,Plus service,No
+Zone 3,19,50,Unmarried,7,112.00,College degree,3,No,Female,1,No,Yes,Yes,Yes,7.15,0.00,44.80,14.25,46.55,160.20,0.00,817.25,265.00,893.75,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4.72,Total service,No
+Zone 1,39,34,Married,11,55.00,College degree,10,No,Female,4,Yes,Yes,Yes,Yes,18.45,33.75,56.95,35.50,47.85,742.50,"1,307.80","2,171.65","1,385.00","1,867.50",No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.01,Total service,No
+Zone 2,52,35,Married,8,40.00,College degree,1,No,Male,2,Yes,Yes,Yes,Yes,10.75,33.50,35.30,11.00,44.60,546.65,"1,772.35","1,726.45",615.00,"2,407.15",Yes,Yes,No,No,Yes,Yes,Yes,No,3.69,Plus service,No
+Zone 3,55,37,Married,15,23.00,High school degree,0,No,Female,5,Yes,No,Yes,No,12.95,32.50,0.00,26.25,0.00,716.25,"1,783.55",0.00,"1,355.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,3.14,Plus service,No
+Zone 2,25,62,Unmarried,27,28.00,College degree,33,Yes,Female,1,Yes,Yes,Yes,Yes,8.30,14.75,52.00,18.00,47.00,160.40,359.25,"1,183.65",430.00,"1,117.55",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3.33,Total service,Yes
+Zone 3,33,58,Unmarried,12,21.00,High school degree,23,Yes,Female,1,No,No,Yes,No,8.80,0.00,0.00,20.75,0.00,264.05,0.00,0.00,690.00,0.00,No,No,No,No,No,No,No,No,3.04,Basic service,No
+Zone 2,48,35,Unmarried,5,63.00,College degree,12,No,Male,2,No,No,Yes,No,13.40,0.00,0.00,27.50,0.00,560.55,0.00,0.00,"1,315.00",0.00,Yes,No,Yes,No,Yes,Yes,Yes,No,4.14,Plus service,Yes
+Zone 2,48,31,Married,12,52.00,College degree,3,No,Male,3,Yes,Yes,Yes,Yes,8.15,26.50,50.95,31.75,55.55,364.80,"1,323.50","2,289.70","1,410.00","2,725.30",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.95,Total service,No
+Zone 2,49,57,Unmarried,3,189.00,Did not complete high school,31,No,Female,3,No,No,Yes,No,11.00,0.00,0.00,8.75,0.00,476.15,0.00,0.00,405.00,0.00,No,No,No,No,No,No,No,No,5.24,Basic service,No
+Zone 3,54,32,Married,0,50.00,Did not complete high school,15,No,Male,3,Yes,Yes,Yes,No,18.15,46.25,49.20,21.25,0.00,958.70,"2,530.90","2,610.60","1,105.00",0.00,No,No,No,No,Yes,Yes,Yes,No,3.91,Plus service,Yes
+Zone 1,45,32,Married,9,23.00,Did not complete high school,15,No,Male,4,No,No,No,No,9.85,0.00,0.00,0.00,0.00,469.10,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.14,Basic service,No
+Zone 3,4,37,Married,1,33.00,High school degree,15,No,Female,5,No,Yes,No,No,2.45,0.00,21.90,0.00,0.00,19.25,0.00,65.10,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.50,Basic service,Yes
+Zone 3,49,27,Married,3,29.00,Some college,6,No,Female,3,No,Yes,No,No,10.40,0.00,44.00,0.00,0.00,476.45,0.00,"2,096.75",0.00,0.00,Yes,Yes,No,Yes,No,No,No,Yes,3.37,E-service,Yes
+Zone 2,23,35,Unmarried,2,96.00,Some college,4,No,Male,1,No,Yes,Yes,Yes,6.40,0.00,37.60,22.75,46.20,160.30,0.00,788.40,450.00,979.25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.56,Total service,Yes
+Zone 2,31,44,Unmarried,23,80.00,Post-undergraduate degree,15,No,Male,1,Yes,Yes,No,No,14.05,9.25,30.35,0.00,0.00,465.20,306.05,916.50,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.38,E-service,Yes
+Zone 2,55,44,Married,2,68.00,High school degree,15,No,Male,5,Yes,No,Yes,No,6.60,43.50,0.00,29.50,0.00,350.85,"2,423.30",0.00,"1,685.00",0.00,No,No,No,No,Yes,Yes,Yes,No,4.22,Plus service,No
+Zone 1,9,28,Unmarried,7,30.00,Did not complete high school,4,No,Female,6,No,No,No,No,4.20,0.00,0.00,0.00,0.00,47.45,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.40,Basic service,No
+Zone 2,55,57,Married,25,34.00,High school degree,12,No,Male,3,No,No,Yes,No,14.60,0.00,0.00,29.50,0.00,785.40,0.00,0.00,"1,600.00",0.00,No,No,No,No,No,No,No,No,3.53,Basic service,No
+Zone 1,34,30,Unmarried,3,35.00,High school degree,2,No,Female,3,Yes,No,Yes,No,9.05,21.50,0.00,8.00,0.00,333.00,695.95,0.00,275.00,0.00,No,Yes,No,No,Yes,Yes,Yes,Yes,3.56,Plus service,No
+Zone 1,10,23,Unmarried,4,36.00,High school degree,1,No,Male,3,Yes,No,Yes,No,8.55,14.75,0.00,22.00,0.00,86.05,142.05,0.00,200.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.58,Plus service,No
+Zone 2,62,76,Unmarried,20,35.00,Some college,18,Yes,Female,1,No,No,Yes,No,17.25,0.00,0.00,17.75,0.00,"1,045.70",0.00,0.00,"1,085.00",0.00,Yes,No,No,No,No,No,No,Yes,3.56,E-service,No
+Zone 2,51,36,Unmarried,13,62.00,Some college,9,No,Male,2,Yes,No,Yes,Yes,5.65,36.25,0.00,19.75,40.40,305.75,"1,872.75",0.00,995.00,"2,005.45",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.13,Total service,No
+Zone 1,65,48,Unmarried,28,94.00,Did not complete high school,25,No,Male,1,No,No,Yes,No,10.40,0.00,0.00,22.50,0.00,664.65,0.00,0.00,"1,470.00",0.00,Yes,No,No,No,No,No,No,No,4.54,E-service,No
+Zone 3,53,33,Unmarried,1,60.00,Did not complete high school,6,No,Male,2,Yes,No,Yes,Yes,17.65,28.50,0.00,41.00,28.55,950.70,"1,502.20",0.00,"2,170.00","1,524.60",No,Yes,Yes,No,Yes,Yes,Yes,No,4.09,Total service,No
+Zone 1,23,35,Unmarried,4,118.00,High school degree,11,No,Male,1,No,Yes,No,No,7.90,0.00,30.15,0.00,0.00,196.95,0.00,672.40,0.00,0.00,No,Yes,No,Yes,No,No,No,Yes,4.77,Basic service,Yes
+Zone 3,1,30,Unmarried,3,135.00,College degree,3,No,Male,3,Yes,Yes,Yes,No,1.10,5.75,22.80,2.75,0.00,1.10,5.75,22.80,2.75,0.00,No,No,No,Yes,No,No,No,Yes,4.91,Basic service,Yes
+Zone 3,66,55,Unmarried,20,80.00,High school degree,24,No,Female,1,Yes,No,Yes,No,14.00,30.75,0.00,14.75,0.00,938.35,"2,128.20",0.00,965.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,4.38,Plus service,No
+Zone 3,8,27,Married,0,21.00,Some college,3,No,Female,2,No,Yes,No,No,3.65,0.00,36.45,0.00,0.00,38.05,0.00,235.75,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.04,E-service,No
+Zone 3,18,28,Married,3,22.00,Did not complete high school,2,No,Female,5,No,No,Yes,No,3.15,173.00,0.00,9.50,0.00,55.55,0.00,0.00,175.00,0.00,No,No,No,No,No,No,No,No,3.09,Basic service,No
+Zone 3,36,32,Married,3,63.00,College degree,7,No,Male,4,No,Yes,Yes,No,6.20,0.00,29.55,12.75,0.00,229.50,0.00,991.35,415.00,0.00,Yes,No,No,Yes,No,No,Yes,No,4.14,E-service,No
+Zone 1,13,40,Unmarried,16,142.00,High school degree,18,No,Female,1,No,No,No,No,8.45,0.00,0.00,0.00,0.00,109.85,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.96,Basic service,Yes
+Zone 3,4,44,Unmarried,15,32.00,Some college,0,No,Female,1,Yes,Yes,Yes,No,2.10,13.75,25.95,8.75,0.00,6.90,44.95,82.25,25.00,0.00,No,Yes,No,Yes,No,Yes,Yes,No,3.47,Plus service,Yes
+Zone 3,20,32,Unmarried,10,19.00,Some college,5,No,Male,1,No,Yes,No,No,6.85,0.00,36.05,0.00,0.00,106.50,0.00,701.50,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,2.94,E-service,No
+Zone 1,66,39,Married,12,60.00,College degree,10,No,Male,3,Yes,Yes,Yes,Yes,20.15,39.25,46.30,17.25,36.40,"1,443.75","2,490.65","2,895.25","1,055.00","2,322.20",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.09,Total service,No
+Zone 3,67,47,Married,7,97.00,Did not complete high school,23,No,Male,4,No,No,Yes,No,22.40,0.00,0.00,18.50,0.00,"1,464.90",0.00,0.00,"1,225.00",0.00,No,No,No,No,Yes,Yes,Yes,No,4.57,Plus service,No
+Zone 1,11,24,Married,0,31.00,High school degree,3,No,Female,4,Yes,Yes,Yes,Yes,5.40,16.00,39.20,13.75,33.55,83.15,189.45,422.80,140.00,331.65,No,Yes,Yes,Yes,Yes,Yes,No,Yes,3.43,Total service,Yes
+Zone 1,6,26,Unmarried,7,30.00,Some college,1,No,Female,2,No,Yes,No,No,6.35,0.00,19.75,0.00,0.00,30.80,0.00,109.25,0.00,0.00,No,No,No,Yes,No,No,No,No,3.40,Basic service,Yes
+Zone 2,13,23,Married,4,31.00,Did not complete high school,5,No,Female,4,No,Yes,No,Yes,4.60,0.00,35.45,0.00,27.70,54.85,0.00,398.95,0.00,339.75,No,Yes,Yes,Yes,No,No,No,Yes,3.43,Basic service,No
+Zone 2,2,29,Married,3,44.00,High school degree,9,No,Female,6,Yes,Yes,Yes,Yes,2.10,16.25,43.20,12.25,33.60,5.10,31.30,47.05,5.00,24.20,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.78,Total service,Yes
+Zone 1,4,40,Unmarried,12,38.00,High school degree,5,No,Male,1,No,No,Yes,No,8.15,0.00,0.00,12.00,0.00,32.25,0.00,0.00,25.00,0.00,No,No,No,No,No,No,No,No,3.64,Basic service,No
+Zone 1,34,63,Married,10,23.00,High school degree,0,No,Female,2,Yes,Yes,Yes,Yes,14.30,19.50,39.60,15.25,28.95,459.05,616.50,"1,396.30",495.00,984.10,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.14,Total service,No
+Zone 1,13,34,Married,6,37.00,Some college,6,No,Male,4,No,No,No,No,6.85,0.00,0.00,0.00,0.00,102.50,0.00,0.00,0.00,0.00,No,No,No,No,Yes,No,Yes,No,3.61,Plus service,No
+Zone 2,37,40,Married,14,26.00,High school degree,0,No,Male,5,No,No,Yes,No,18.90,0.00,0.00,12.00,0.00,653.15,0.00,0.00,470.00,0.00,Yes,No,No,No,No,No,No,Yes,3.26,E-service,No
+Zone 1,45,30,Married,8,38.00,High school degree,5,No,Male,6,No,No,Yes,No,12.75,0.00,0.00,23.75,0.00,622.15,0.00,0.00,"1,015.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,3.64,Plus service,No
+Zone 2,71,70,Unmarried,30,153.00,Some college,34,Yes,Female,1,Yes,No,Yes,Yes,30.55,46.25,0.00,26.25,46.70,"2,291.10","3,114.95",0.00,"1,805.00","3,292.65",Yes,No,No,No,Yes,Yes,Yes,No,5.03,Plus service,No
+Zone 1,35,40,Unmarried,5,49.00,Did not complete high school,20,No,Female,1,No,No,No,No,3.40,0.00,0.00,0.00,0.00,107.85,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.89,Basic service,No
+Zone 3,44,41,Unmarried,21,51.00,Some college,7,No,Male,1,No,Yes,Yes,No,4.95,0.00,31.55,10.75,0.00,203.65,0.00,"1,301.85",460.00,0.00,No,No,No,Yes,No,No,No,Yes,3.93,Basic service,No
+Zone 3,44,45,Married,19,88.00,Did not complete high school,21,No,Male,2,Yes,No,Yes,No,11.90,25.25,0.00,8.25,0.00,524.25,"1,108.40",0.00,305.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,4.48,Plus service,No
+Zone 1,26,41,Married,20,19.00,Did not complete high school,0,No,Female,6,No,No,No,No,5.45,0.00,0.00,0.00,0.00,165.40,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,2.94,Basic service,No
+Zone 2,42,46,Married,9,31.00,Did not complete high school,12,No,Female,3,No,No,Yes,No,5.90,0.00,0.00,23.00,0.00,277.65,0.00,0.00,945.00,0.00,No,No,No,No,No,No,Yes,No,3.43,Basic service,No
+Zone 2,41,47,Married,6,90.00,High school degree,19,No,Male,3,No,Yes,Yes,No,6.70,0.00,20.20,31.25,0.00,251.35,0.00,825.15,"1,240.00",0.00,No,No,No,Yes,No,No,No,No,4.50,Basic service,Yes
+Zone 1,31,24,Married,3,14.00,Did not complete high school,0,No,Male,4,No,No,No,No,7.20,0.00,0.00,0.00,0.00,231.75,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,2.64,Basic service,No
+Zone 3,62,63,Unmarried,43,341.00,High school degree,30,No,Male,1,No,No,Yes,No,14.60,0.00,0.00,14.25,0.00,912.40,0.00,0.00,845.00,0.00,No,Yes,No,Yes,Yes,No,Yes,No,5.83,Plus service,Yes
+Zone 1,12,23,Married,2,24.00,College degree,0,No,Female,8,Yes,No,Yes,Yes,3.20,41.00,0.00,15.75,35.40,35.50,502.00,0.00,210.00,373.00,No,Yes,Yes,Yes,Yes,Yes,Yes,No,3.18,Total service,No
+Zone 2,45,49,Married,27,81.00,High school degree,7,No,Female,4,Yes,No,Yes,No,13.85,50.50,0.00,21.00,0.00,583.10,"2,284.25",0.00,935.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.39,Plus service,No
+Zone 1,47,34,Married,4,63.00,High school degree,13,No,Female,4,No,No,Yes,No,18.95,0.00,0.00,30.50,0.00,880.75,0.00,0.00,"1,395.00",0.00,No,No,No,No,No,No,No,No,4.14,Basic service,No
+Zone 2,23,22,Married,1,27.00,Did not complete high school,4,No,Male,5,Yes,No,Yes,No,7.90,23.00,0.00,15.75,0.00,210.85,515.80,0.00,345.00,0.00,Yes,No,No,No,Yes,Yes,No,No,3.30,Plus service,No
+Zone 3,39,34,Unmarried,4,20.00,Post-undergraduate degree,3,No,Female,1,Yes,Yes,Yes,Yes,9.55,21.25,59.20,10.00,79.20,375.40,872.50,"2,361.90",385.00,"2,973.00",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.00,Total service,No
+Zone 2,19,26,Unmarried,2,48.00,Some college,0,No,Male,2,No,No,Yes,No,7.55,0.00,0.00,6.50,0.00,156.15,0.00,0.00,105.00,0.00,No,Yes,No,No,Yes,Yes,No,No,3.87,Plus service,No
+Zone 1,13,54,Unmarried,12,121.00,College degree,23,No,Male,1,No,No,No,No,7.30,0.00,0.00,0.00,0.00,102.40,0.00,0.00,0.00,0.00,No,No,No,No,No,Yes,Yes,No,4.80,Plus service,No
+Zone 2,5,33,Unmarried,6,39.00,Some college,4,No,Male,3,Yes,Yes,No,No,2.10,19.50,27.45,0.00,0.00,5.20,81.15,103.45,0.00,0.00,Yes,No,Yes,No,Yes,Yes,Yes,Yes,3.66,Total service,Yes
+Zone 2,11,19,Unmarried,0,21.00,High school degree,0,No,Male,1,No,No,No,No,3.60,0.00,0.00,0.00,0.00,35.40,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,3.04,Basic service,Yes
+Zone 3,4,32,Unmarried,2,53.00,College degree,5,No,Male,1,Yes,Yes,No,No,7.00,11.00,26.25,0.00,0.00,29.20,56.45,90.75,0.00,0.00,No,No,Yes,No,No,No,No,Yes,3.97,Basic service,Yes
+Zone 3,17,42,Unmarried,8,58.00,Did not complete high school,23,No,Male,1,No,Yes,No,No,5.05,0.00,28.65,0.00,0.00,85.05,0.00,523.05,0.00,0.00,Yes,Yes,No,Yes,Yes,No,No,No,4.06,E-service,Yes
+Zone 2,7,27,Unmarried,3,39.00,Some college,2,No,Male,1,No,No,No,No,3.55,0.00,0.00,0.00,0.00,19.70,0.00,0.00,0.00,0.00,No,No,No,No,No,Yes,No,No,3.66,Basic service,Yes
+Zone 1,19,65,Unmarried,3,108.00,Did not complete high school,33,No,Male,3,Yes,No,Yes,No,5.95,21.50,0.00,11.25,0.00,117.55,423.60,0.00,190.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.68,Plus service,No
+Zone 2,32,34,Married,0,38.00,Did not complete high school,10,No,Male,4,No,No,Yes,No,7.35,0.00,0.00,19.25,0.00,217.45,0.00,0.00,600.00,0.00,Yes,No,No,No,No,No,No,Yes,3.64,E-service,No
+Zone 2,53,51,Unmarried,31,245.00,College degree,0,No,Male,1,Yes,No,Yes,No,18.45,28.25,0.00,11.00,0.00,961.75,"1,535.25",0.00,570.00,0.00,Yes,No,No,No,No,No,Yes,No,5.50,E-service,No
+Zone 1,51,38,Unmarried,19,51.00,Did not complete high school,18,No,Female,1,Yes,No,Yes,No,11.70,26.00,0.00,23.25,0.00,577.10,"1,267.20",0.00,"1,195.00",0.00,No,Yes,No,No,Yes,Yes,Yes,No,3.93,Plus service,No
+Zone 1,35,34,Unmarried,7,78.00,College degree,10,No,Female,1,No,No,Yes,No,13.90,0.00,0.00,4.50,0.00,556.20,0.00,0.00,135.00,0.00,No,No,No,No,No,No,No,No,4.36,Basic service,No
+Zone 1,3,31,Married,4,23.00,College degree,4,No,Male,5,Yes,Yes,Yes,Yes,2.80,16.50,36.00,37.75,21.70,8.20,74.45,44.40,70.00,47.90,No,Yes,Yes,No,Yes,Yes,Yes,Yes,3.14,Total service,Yes
+Zone 1,22,48,Unmarried,7,88.00,College degree,12,No,Male,1,No,Yes,No,No,4.50,0.00,31.85,0.00,0.00,92.65,0.00,646.05,0.00,0.00,No,No,No,Yes,No,No,No,No,4.48,Basic service,Yes
+Zone 3,17,21,Married,0,25.00,High school degree,1,No,Female,3,No,No,No,No,6.10,0.00,0.00,0.00,0.00,89.60,0.00,0.00,0.00,0.00,Yes,No,No,No,No,Yes,Yes,Yes,3.22,Plus service,No
+Zone 2,68,39,Unmarried,20,73.00,High school degree,16,No,Female,1,Yes,No,Yes,No,44.95,15.75,0.00,20.00,0.00,"3,002.20","1,089.05",0.00,"1,295.00",0.00,Yes,No,No,No,No,No,No,No,4.29,E-service,No
+Zone 2,27,41,Married,7,62.00,College degree,15,No,Female,2,Yes,No,Yes,No,13.70,16.25,0.00,6.75,0.00,371.35,450.00,0.00,165.00,0.00,No,No,No,No,No,No,Yes,No,4.13,Plus service,No
+Zone 3,68,52,Married,8,456.00,Some college,30,No,Female,4,Yes,No,Yes,Yes,22.25,27.50,0.00,26.75,29.75,"1,549.95","1,782.10",0.00,"1,885.00","2,096.55",Yes,No,No,No,Yes,Yes,Yes,No,6.12,Plus service,No
+Zone 3,56,42,Married,10,24.00,High school degree,5,No,Male,2,No,No,No,No,33.65,0.00,0.00,0.00,0.00,"1,871.20",0.00,0.00,0.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.18,Plus service,No
+Zone 3,11,32,Unmarried,8,23.00,High school degree,0,No,Female,1,No,Yes,Yes,No,6.20,0.00,28.40,7.25,0.00,82.60,0.00,242.90,95.00,0.00,No,No,No,Yes,No,No,No,Yes,3.14,Basic service,No
+Zone 3,5,47,Unmarried,7,46.00,Did not complete high school,6,No,Female,1,No,No,Yes,No,2.95,0.00,0.00,7.25,0.00,21.55,0.00,0.00,35.00,0.00,No,No,No,No,No,Yes,No,No,3.83,Basic service,Yes
+Zone 3,16,50,Unmarried,5,263.00,High school degree,29,No,Female,3,Yes,Yes,No,Yes,3.75,17.00,31.95,0.00,21.90,59.75,253.35,463.25,0.00,309.05,No,No,No,No,Yes,Yes,Yes,Yes,5.57,Plus service,No
+Zone 2,59,30,Unmarried,2,34.00,College degree,2,No,Female,1,No,Yes,Yes,No,16.70,0.00,32.25,11.75,0.00,"1,020.35",0.00,"1,939.15",680.00,0.00,Yes,Yes,No,No,No,No,No,No,3.53,E-service,No
+Zone 1,60,64,Unmarried,14,33.00,High school degree,13,Yes,Male,1,Yes,No,Yes,Yes,30.75,22.25,0.00,12.25,47.40,"1,829.40","1,391.00",0.00,670.00,"2,962.10",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3.50,Total service,No
+Zone 3,55,47,Unmarried,11,37.00,Did not complete high school,11,No,Male,1,Yes,No,Yes,No,14.75,20.25,0.00,10.75,0.00,786.20,"1,170.75",0.00,570.00,0.00,No,No,No,No,No,No,Yes,No,3.61,Plus service,No
+Zone 1,18,56,Unmarried,22,296.00,High school degree,25,No,Male,1,No,No,Yes,No,3.40,0.00,0.00,8.25,0.00,49.70,0.00,0.00,160.00,0.00,No,No,No,No,No,No,No,No,5.69,Basic service,No
+Zone 2,16,22,Unmarried,0,26.00,Some college,0,No,Female,3,No,Yes,No,No,4.10,0.00,29.35,0.00,0.00,64.95,0.00,514.15,0.00,0.00,Yes,No,No,No,No,No,No,Yes,3.26,E-service,Yes
+Zone 1,35,57,Married,32,47.00,College degree,12,No,Male,2,No,Yes,Yes,No,7.25,0.00,33.70,18.75,0.00,263.55,0.00,"1,153.35",630.00,0.00,Yes,No,No,Yes,No,No,No,No,3.85,E-service,No
+Zone 3,31,23,Married,1,31.00,Some college,1,No,Female,2,Yes,Yes,Yes,Yes,16.60,19.00,58.70,16.50,51.35,520.40,537.40,"1,712.50",450.00,"1,533.90",No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.43,Total service,Yes
+Zone 2,20,49,Married,5,264.00,High school degree,29,No,Female,2,No,No,No,No,9.60,0.00,0.00,0.00,0.00,159.20,0.00,0.00,0.00,0.00,No,No,No,No,Yes,No,No,No,5.58,Basic service,No
+Zone 2,16,27,Unmarried,5,41.00,College degree,2,No,Female,1,Yes,Yes,Yes,Yes,6.90,15.75,42.75,17.25,30.95,100.90,278.50,615.40,255.00,450.45,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.71,Total service,Yes
+Zone 2,69,48,Married,27,55.00,High school degree,4,No,Male,2,Yes,Yes,Yes,No,19.60,35.75,34.25,62.00,0.00,"1,411.70","2,396.70","2,440.55","4,125.00",0.00,Yes,No,No,No,Yes,Yes,No,No,4.01,Plus service,No
+Zone 3,69,66,Married,31,49.00,High school degree,15,No,Male,2,Yes,No,Yes,No,23.10,29.25,0.00,25.50,0.00,"1,566.80","2,063.45",0.00,"1,750.00",0.00,No,No,No,No,No,No,No,No,3.89,Basic service,No
+Zone 2,27,24,Married,3,26.00,Did not complete high school,7,No,Female,4,No,No,No,No,6.05,0.00,0.00,0.00,0.00,137.70,0.00,0.00,0.00,0.00,No,No,Yes,No,No,No,No,No,3.26,Basic service,Yes
+Zone 3,48,39,Unmarried,20,110.00,College degree,9,No,Male,1,Yes,No,Yes,Yes,18.05,30.25,0.00,8.75,30.40,812.65,"1,472.70",0.00,475.00,"1,503.95",Yes,No,Yes,No,Yes,Yes,Yes,No,4.70,Plus service,No
+Zone 1,18,52,Married,20,66.00,Did not complete high school,19,No,Female,2,Yes,No,Yes,No,12.80,27.75,0.00,10.50,0.00,204.95,520.60,0.00,170.00,0.00,No,No,No,Yes,No,Yes,No,No,4.19,Basic service,No
+Zone 2,24,40,Married,4,39.00,Some college,5,No,Female,2,Yes,No,Yes,Yes,4.05,25.75,0.00,27.50,22.50,117.05,628.05,0.00,570.00,529.10,No,No,Yes,No,Yes,Yes,Yes,No,3.66,Plus service,No
+Zone 2,17,42,Unmarried,6,31.00,High school degree,2,No,Male,1,Yes,No,No,Yes,8.25,24.50,0.00,0.00,26.40,140.85,404.80,0.00,0.00,447.95,Yes,Yes,No,No,Yes,No,Yes,Yes,3.43,Total service,Yes
+Zone 2,9,24,Married,3,26.00,College degree,1,No,Female,3,No,Yes,No,No,7.65,0.00,23.25,0.00,0.00,75.25,0.00,169.75,0.00,0.00,No,No,No,No,No,Yes,No,No,3.26,Basic service,No
+Zone 2,15,46,Unmarried,5,232.00,College degree,15,No,Female,2,Yes,Yes,Yes,Yes,4.30,23.00,45.15,22.75,31.30,41.35,357.50,582.00,305.00,474.50,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.45,Total service,Yes
+Zone 1,62,37,Married,10,43.00,College degree,1,No,Female,3,No,Yes,Yes,No,9.20,0.00,37.20,18.75,0.00,539.65,0.00,"2,302.40","1,160.00",0.00,Yes,No,No,No,No,No,No,No,3.76,E-service,No
+Zone 1,9,41,Unmarried,12,39.00,College degree,3,No,Male,1,No,Yes,No,Yes,4.70,0.00,39.65,0.00,20.80,26.30,0.00,318.25,0.00,135.95,No,Yes,Yes,Yes,No,No,No,Yes,3.66,Basic service,Yes
+Zone 2,71,41,Married,10,73.00,High school degree,23,No,Female,2,No,No,Yes,No,32.65,0.00,0.00,41.75,0.00,"2,412.60",0.00,0.00,"3,085.00",0.00,Yes,No,No,No,Yes,Yes,No,No,4.29,Plus service,No
+Zone 2,62,59,Married,37,74.00,Did not complete high school,20,No,Male,2,Yes,No,Yes,No,16.10,36.00,0.00,11.00,0.00,972.00,"2,245.35",0.00,645.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.30,Plus service,No
+Zone 2,20,38,Unmarried,19,237.00,College degree,13,No,Male,1,Yes,Yes,Yes,Yes,6.00,21.25,34.40,9.75,26.90,164.20,473.40,711.40,215.00,491.10,No,No,Yes,Yes,Yes,Yes,No,No,5.47,Total service,No
+Zone 1,19,33,Married,11,22.00,Did not complete high school,3,No,Male,5,No,No,Yes,No,3.95,0.00,0.00,36.25,0.00,79.60,0.00,0.00,685.00,0.00,Yes,No,No,No,Yes,No,Yes,No,3.09,Plus service,No
+Zone 2,49,61,Married,28,21.00,Did not complete high school,8,No,Male,2,Yes,No,Yes,No,15.85,24.75,0.00,8.75,0.00,757.40,"1,228.85",0.00,395.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.04,Plus service,No
+Zone 3,3,64,Unmarried,3,9.00,High school degree,6,Yes,Male,1,No,No,No,No,4.95,0.00,0.00,0.00,0.00,14.80,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,2.20,Basic service,Yes
+Zone 1,33,36,Unmarried,2,41.00,Post-undergraduate degree,10,No,Male,1,No,Yes,No,Yes,4.15,0.00,39.10,0.00,27.05,93.25,0.00,"1,225.35",0.00,841.95,No,Yes,No,Yes,No,No,No,Yes,3.71,Basic service,Yes
+Zone 2,38,44,Unmarried,1,50.00,College degree,7,No,Female,1,No,Yes,Yes,No,7.15,0.00,24.60,10.00,0.00,277.50,0.00,891.80,355.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.91,E-service,Yes
+Zone 3,42,48,Married,14,27.00,Some college,5,No,Female,3,Yes,Yes,Yes,Yes,16.50,36.00,54.20,22.75,28.40,692.20,"1,540.15","2,100.25",910.00,"1,199.95",Yes,Yes,No,No,Yes,Yes,Yes,Yes,3.30,Total service,No
+Zone 1,11,26,Unmarried,2,53.00,Some college,3,No,Male,1,Yes,Yes,Yes,Yes,4.15,21.50,43.70,11.75,38.80,34.70,188.35,431.30,110.00,415.80,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3.97,Total service,Yes
+Zone 3,27,28,Married,0,58.00,Some college,0,No,Male,2,Yes,No,No,No,5.80,22.50,0.00,0.00,0.00,163.65,566.15,0.00,0.00,0.00,No,No,No,No,Yes,No,Yes,No,4.06,Plus service,No
+Zone 3,23,50,Unmarried,1,151.00,College degree,8,No,Female,1,Yes,No,No,No,8.25,21.75,0.00,0.00,0.00,186.50,438.40,0.00,0.00,0.00,No,No,No,No,No,No,No,No,5.02,Basic service,No
+Zone 2,4,38,Married,13,54.00,High school degree,4,No,Male,2,Yes,No,Yes,Yes,4.75,26.25,0.00,48.50,24.45,21.75,115.00,0.00,140.00,50.45,No,Yes,No,No,Yes,Yes,Yes,No,3.99,Plus service,No
+Zone 3,36,42,Unmarried,5,31.00,Did not complete high school,4,No,Female,1,No,No,No,No,10.05,0.00,0.00,0.00,0.00,373.75,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.43,Basic service,Yes
+Zone 2,37,42,Unmarried,10,115.00,Did not complete high school,22,No,Female,1,No,No,Yes,No,15.10,0.00,0.00,18.50,0.00,494.45,0.00,0.00,665.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.74,Plus service,No
+Zone 3,24,58,Married,30,24.00,Did not complete high school,5,No,Male,2,Yes,No,No,No,7.65,16.00,0.00,0.00,0.00,177.40,420.65,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.18,Basic service,No
+Zone 3,4,24,Unmarried,1,17.00,High school degree,2,No,Male,3,No,No,No,No,3.20,0.00,0.00,0.00,0.00,9.90,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,2.83,Basic service,Yes
+Zone 3,54,33,Unmarried,5,47.00,High school degree,13,No,Female,2,Yes,No,Yes,No,13.90,32.00,0.00,20.25,0.00,732.20,"1,671.90",0.00,"1,125.00",0.00,No,No,No,No,Yes,No,Yes,No,3.85,Plus service,No
+Zone 3,7,49,Unmarried,8,36.00,Did not complete high school,0,No,Female,1,Yes,No,Yes,No,8.85,19.50,0.00,53.25,0.00,77.00,123.30,0.00,325.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.58,Plus service,Yes
+Zone 1,10,28,Unmarried,9,75.00,College degree,1,No,Male,1,Yes,Yes,Yes,Yes,6.20,27.50,42.40,40.00,36.30,45.95,225.85,373.15,340.00,290.65,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.32,Total service,Yes
+Zone 3,24,35,Married,10,41.00,Post-undergraduate degree,6,No,Female,2,No,Yes,No,No,3.30,0.00,30.30,0.00,0.00,88.65,0.00,711.20,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.71,E-service,No
+Zone 3,12,31,Unmarried,8,18.00,College degree,4,No,Male,1,No,Yes,No,No,3.70,0.00,24.30,0.00,0.00,48.55,0.00,243.40,0.00,0.00,No,No,No,Yes,No,No,No,Yes,2.89,Basic service,Yes
+Zone 2,45,54,Unmarried,25,171.00,Some college,33,No,Female,1,Yes,No,Yes,No,9.05,18.50,0.00,8.75,0.00,385.20,845.65,0.00,365.00,0.00,No,No,No,No,Yes,Yes,Yes,No,5.14,Plus service,No
+Zone 3,59,55,Married,29,42.00,Some college,21,No,Female,2,No,No,Yes,No,8.95,0.00,0.00,15.25,0.00,492.35,0.00,0.00,855.00,0.00,Yes,No,No,No,No,No,No,No,3.74,E-service,No
+Zone 1,3,21,Married,1,36.00,Some college,0,No,Female,4,No,No,No,No,3.20,0.00,0.00,0.00,0.00,13.55,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.58,Basic service,No
+Zone 3,8,35,Unmarried,6,31.00,Post-undergraduate degree,7,No,Male,1,Yes,Yes,No,Yes,4.40,17.25,35.65,0.00,42.05,34.65,155.15,237.80,0.00,288.25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.43,Total service,Yes
+Zone 1,16,59,Unmarried,5,207.00,High school degree,37,No,Female,2,Yes,No,Yes,No,7.45,15.50,0.00,11.75,0.00,112.80,280.85,0.00,150.00,0.00,No,No,Yes,No,Yes,Yes,Yes,Yes,5.33,Total service,No
+Zone 3,32,33,Unmarried,1,38.00,Did not complete high school,12,No,Female,1,No,No,Yes,No,7.30,0.00,0.00,33.75,0.00,231.45,0.00,0.00,"1,050.00",0.00,No,No,No,No,No,No,No,No,3.64,Basic service,No
+Zone 1,8,49,Unmarried,14,134.00,College degree,9,No,Female,1,Yes,Yes,Yes,Yes,3.00,30.50,59.30,23.50,60.30,36.20,226.30,459.15,155.00,444.65,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.90,Total service,Yes
+Zone 1,9,28,Married,8,28.00,Some college,4,No,Male,3,No,Yes,No,No,4.50,0.00,28.50,0.00,0.00,36.45,0.00,230.30,0.00,0.00,Yes,No,No,Yes,No,No,Yes,Yes,3.33,E-service,Yes
+Zone 2,12,19,Married,0,15.00,High school degree,0,No,Female,4,No,Yes,No,No,5.85,0.00,22.15,0.00,0.00,102.45,0.00,274.70,0.00,0.00,Yes,No,No,No,No,No,No,No,2.71,E-service,No
+Zone 2,24,43,Married,15,48.00,College degree,4,No,Male,6,Yes,Yes,Yes,Yes,14.40,25.75,37.20,57.75,36.95,339.55,591.20,870.05,"1,415.00",901.60,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.87,Total service,No
+Zone 3,72,75,Unmarried,48,14.00,High school degree,6,Yes,Female,1,No,No,Yes,No,37.30,0.00,0.00,109.25,0.00,"2,686.25",0.00,0.00,"7,515.00",0.00,Yes,No,No,No,No,No,No,No,2.64,E-service,No
+Zone 3,58,61,Unmarried,42,101.00,College degree,18,No,Female,1,No,No,Yes,No,16.35,0.00,0.00,17.00,0.00,956.85,0.00,0.00,925.00,0.00,Yes,No,No,Yes,No,No,No,No,4.62,E-service,No
+Zone 1,70,44,Married,24,87.00,High school degree,18,No,Male,3,Yes,No,Yes,No,18.90,47.50,0.00,25.00,0.00,"1,399.30","3,310.40",0.00,"1,735.00",0.00,Yes,Yes,No,No,Yes,Yes,Yes,No,4.47,Plus service,No
+Zone 3,9,25,Unmarried,3,27.00,Did not complete high school,4,No,Female,1,No,No,No,No,12.20,0.00,0.00,0.00,0.00,121.75,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.30,Basic service,Yes
+Zone 1,49,25,Unmarried,1,27.00,Post-undergraduate degree,0,No,Female,1,No,Yes,Yes,Yes,9.90,0.00,43.15,5.50,26.90,496.95,0.00,"2,054.95",270.00,"1,252.85",Yes,Yes,Yes,Yes,No,No,No,Yes,3.30,E-service,No
+Zone 3,52,54,Unmarried,7,59.00,Some college,22,No,Male,1,Yes,No,Yes,Yes,15.25,32.50,0.00,21.75,39.30,800.25,"1,644.05",0.00,"1,055.00","1,991.75",Yes,No,No,No,Yes,No,Yes,No,4.08,Plus service,No
+Zone 1,10,42,Married,10,294.00,College degree,9,No,Female,6,Yes,Yes,Yes,Yes,4.85,27.50,44.35,23.50,36.85,32.75,285.35,427.75,185.00,330.55,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.68,Total service,Yes
+Zone 1,14,52,Married,2,44.00,Some college,5,No,Male,2,No,No,Yes,Yes,4.85,0.00,0.00,14.25,14.90,68.95,0.00,0.00,185.00,212.25,No,Yes,No,No,Yes,No,No,No,3.78,Plus service,No
+Zone 1,19,27,Married,3,35.00,High school degree,4,No,Male,6,Yes,No,Yes,No,5.40,20.50,0.00,23.00,0.00,116.20,398.15,0.00,415.00,0.00,No,Yes,Yes,No,Yes,Yes,Yes,No,3.56,Total service,No
+Zone 3,12,36,Married,4,205.00,College degree,10,No,Female,4,No,Yes,No,Yes,5.95,0.00,38.30,0.00,32.00,53.75,0.00,433.05,0.00,397.30,Yes,Yes,Yes,Yes,No,No,No,Yes,5.32,E-service,Yes
+Zone 1,65,59,Unmarried,27,732.00,Some college,31,No,Female,1,No,No,Yes,No,10.15,0.00,0.00,13.25,0.00,600.50,0.00,0.00,820.00,0.00,Yes,Yes,No,No,No,Yes,Yes,Yes,6.60,E-service,No
+Zone 1,67,40,Married,14,59.00,Some college,11,No,Male,2,Yes,No,Yes,No,27.00,30.00,0.00,19.75,0.00,"1,722.50","1,959.95",0.00,"1,245.00",0.00,No,No,No,No,Yes,Yes,Yes,No,4.08,Plus service,No
+Zone 2,29,24,Married,3,23.00,Did not complete high school,7,No,Male,2,Yes,No,Yes,No,10.20,32.25,0.00,17.50,0.00,319.65,885.15,0.00,500.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.14,Plus service,No
+Zone 3,55,46,Unmarried,8,87.00,High school degree,19,No,Female,1,No,Yes,Yes,No,17.90,0.00,28.00,15.25,0.00,982.90,0.00,"1,449.60",785.00,0.00,No,No,No,Yes,No,Yes,Yes,Yes,4.47,Basic service,No
+Zone 3,71,67,Married,25,110.00,Did not complete high school,23,No,Female,2,Yes,No,Yes,No,33.85,21.75,0.00,18.25,0.00,"2,255.65","1,487.70",0.00,"1,175.00",0.00,No,No,No,No,Yes,Yes,Yes,No,4.70,Plus service,No
+Zone 3,5,44,Married,2,83.00,Some college,14,No,Female,3,Yes,No,Yes,Yes,4.00,26.25,0.00,20.25,21.95,32.00,131.95,0.00,50.00,80.35,No,Yes,No,Yes,Yes,Yes,Yes,No,4.42,Plus service,Yes
+Zone 3,60,58,Unmarried,0,63.00,College degree,21,No,Female,3,Yes,Yes,Yes,No,16.35,28.00,23.85,13.25,0.00,"1,012.55","1,581.70","1,395.10",805.00,0.00,Yes,No,No,No,No,No,No,Yes,4.14,E-service,No
+Zone 2,10,40,Unmarried,6,22.00,Some college,6,No,Female,1,No,No,No,No,5.05,0.00,0.00,0.00,0.00,59.95,0.00,0.00,0.00,0.00,No,No,No,Yes,No,No,No,No,3.09,Basic service,Yes
+Zone 3,52,64,Unmarried,44,43.00,Some college,7,No,Male,1,Yes,Yes,Yes,Yes,12.85,28.50,48.75,24.00,37.15,647.95,"1,542.25","2,570.65","1,210.00","1,846.50",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3.76,Total service,No
+Zone 2,61,43,Married,22,35.00,High school degree,11,No,Male,3,Yes,No,Yes,No,21.05,15.50,0.00,17.25,0.00,"1,264.00",933.80,0.00,"1,065.00",0.00,Yes,No,No,Yes,No,No,No,Yes,3.56,E-service,No
+Zone 1,61,29,Married,5,48.00,High school degree,11,No,Male,4,No,No,Yes,No,17.55,0.00,0.00,37.00,0.00,"1,035.95",0.00,0.00,"2,165.00",0.00,Yes,No,No,No,No,No,Yes,No,3.87,E-service,No
+Zone 2,67,47,Married,19,69.00,Some college,12,No,Male,3,Yes,No,Yes,No,49.35,27.00,0.00,10.25,0.00,"3,235.55","1,838.20",0.00,690.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,4.23,Plus service,No
+Zone 3,41,42,Married,12,26.00,College degree,5,No,Male,4,No,No,No,No,10.95,0.00,0.00,0.00,0.00,482.40,0.00,0.00,0.00,0.00,Yes,No,No,Yes,No,Yes,No,No,3.26,E-service,No
+Zone 1,30,28,Unmarried,1,20.00,Did not complete high school,8,No,Female,1,No,No,No,No,12.40,0.00,0.00,0.00,0.00,369.45,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.00,Basic service,Yes
+Zone 1,24,46,Unmarried,12,43.00,High school degree,6,No,Male,1,Yes,No,Yes,Yes,12.05,48.25,0.00,33.00,28.15,307.75,"1,079.05",0.00,820.00,662.20,No,Yes,Yes,No,Yes,Yes,Yes,Yes,3.76,Total service,No
+Zone 1,72,75,Unmarried,37,33.00,Did not complete high school,44,Yes,Female,1,Yes,No,Yes,No,49.30,31.75,0.00,26.00,0.00,"3,417.40","2,254.15",0.00,"1,835.00",0.00,Yes,No,No,No,No,No,Yes,No,3.50,E-service,No
+Zone 2,17,35,Unmarried,7,66.00,High school degree,11,No,Male,1,No,Yes,Yes,Yes,5.15,0.00,29.15,11.25,28.05,79.05,0.00,501.05,155.00,484.20,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4.19,Total service,Yes
+Zone 2,65,72,Unmarried,46,12.00,High school degree,0,Yes,Male,1,No,No,Yes,No,29.60,0.00,0.00,18.00,0.00,"1,872.80",0.00,0.00,"1,160.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,2.48,Plus service,No
+Zone 1,15,30,Married,8,90.00,High school degree,11,No,Male,5,Yes,No,Yes,Yes,7.35,18.50,0.00,9.75,23.00,125.80,265.55,0.00,150.00,375.90,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4.50,Total service,No
+Zone 1,34,33,Unmarried,8,35.00,Some college,2,No,Female,1,No,No,No,No,7.50,0.00,0.00,0.00,0.00,258.40,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,No,3.56,E-service,Yes
+Zone 1,26,43,Unmarried,23,51.00,Post-undergraduate degree,4,No,Female,1,No,Yes,No,No,7.90,0.00,21.95,0.00,0.00,267.60,0.00,597.65,0.00,0.00,Yes,No,No,Yes,No,No,No,No,3.93,E-service,Yes
+Zone 2,36,45,Unmarried,22,117.00,Some college,15,No,Female,1,No,No,No,No,10.50,0.00,0.00,0.00,0.00,429.10,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,Yes,4.76,E-service,No
+Zone 1,60,48,Unmarried,29,100.00,High school degree,26,No,Female,1,Yes,No,Yes,No,24.40,42.25,0.00,13.50,0.00,"1,567.60","2,481.25",0.00,745.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.61,Plus service,No
+Zone 1,16,54,Unmarried,20,147.00,Did not complete high school,29,No,Male,4,Yes,No,Yes,No,6.95,23.25,0.00,6.50,0.00,98.50,357.95,0.00,90.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.99,Plus service,No
+Zone 2,1,33,Unmarried,5,53.00,College degree,6,No,Female,1,No,No,No,No,1.95,0.00,0.00,0.00,0.00,1.95,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.97,Basic service,Yes
+Zone 3,56,30,Married,9,57.00,Post-undergraduate degree,2,No,Male,4,No,Yes,Yes,No,16.85,0.00,36.70,6.50,0.00,948.30,0.00,"1,984.15",365.00,0.00,Yes,Yes,No,Yes,No,No,No,Yes,4.04,E-service,No
+Zone 2,6,50,Unmarried,5,37.00,High school degree,0,No,Male,1,No,Yes,No,No,5.35,0.00,23.55,0.00,0.00,38.40,0.00,131.20,0.00,0.00,Yes,No,No,No,No,No,No,Yes,3.61,E-service,No
+Zone 2,48,34,Unmarried,7,42.00,Some college,2,No,Female,1,No,No,Yes,No,14.15,0.00,0.00,8.00,0.00,678.30,0.00,0.00,355.00,0.00,Yes,No,No,No,Yes,No,No,No,3.74,E-service,No
+Zone 2,34,36,Married,17,50.00,Did not complete high school,4,No,Male,2,Yes,No,Yes,No,10.20,24.50,0.00,13.75,0.00,326.80,824.25,0.00,405.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.91,Plus service,No
+Zone 2,54,42,Married,0,55.00,College degree,2,No,Male,5,Yes,Yes,Yes,Yes,14.30,55.50,62.15,19.25,83.70,695.20,"3,086.35","3,277.85","1,050.00","4,138.55",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.01,Total service,Yes
+Zone 3,38,31,Married,2,42.00,High school degree,7,No,Female,4,Yes,No,Yes,No,10.80,22.25,0.00,9.25,0.00,407.55,772.50,0.00,335.00,0.00,No,Yes,Yes,No,Yes,Yes,Yes,No,3.74,Total service,No
+Zone 2,25,55,Unmarried,15,37.00,Did not complete high school,7,No,Female,1,No,No,No,No,10.95,0.00,0.00,0.00,0.00,302.80,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.61,Basic service,Yes
+Zone 1,47,69,Married,17,228.00,Some college,39,No,Female,4,Yes,Yes,Yes,Yes,10.80,35.50,37.50,21.00,50.90,464.35,"1,670.95","1,766.90","1,025.00","2,404.80",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.43,Total service,Yes
+Zone 1,72,62,Married,35,163.00,Post-undergraduate degree,31,No,Male,2,Yes,Yes,Yes,Yes,28.35,32.75,45.15,39.75,56.55,"2,017.60","2,276.30","3,225.45","2,845.00","4,109.90",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,5.09,Total service,No
+Zone 2,6,35,Married,6,28.00,College degree,3,No,Female,3,Yes,Yes,Yes,Yes,3.25,23.00,39.35,18.50,30.30,9.35,103.30,190.30,95.00,154.55,No,No,Yes,Yes,Yes,Yes,Yes,No,3.33,Total service,No
+Zone 1,30,51,Married,9,118.00,Post-undergraduate degree,21,No,Female,2,No,No,No,No,6.40,0.00,0.00,0.00,0.00,201.40,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,4.77,Basic service,No
+Zone 1,65,70,Married,9,115.00,High school degree,39,Yes,Female,2,Yes,No,Yes,Yes,26.85,26.00,0.00,43.00,33.75,"1,749.60","1,629.65",0.00,"2,865.00","2,213.65",Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.74,Total service,No
+Zone 1,22,44,Married,19,37.00,College degree,1,No,Male,2,Yes,No,Yes,No,14.30,35.25,0.00,18.50,0.00,332.90,702.05,0.00,370.00,0.00,Yes,Yes,No,No,Yes,Yes,Yes,No,3.61,Plus service,No
+Zone 1,60,53,Unmarried,32,93.00,Did not complete high school,28,No,Male,1,Yes,No,Yes,No,13.35,39.50,0.00,21.00,0.00,806.35,"2,493.90",0.00,"1,260.00",0.00,No,No,No,No,Yes,Yes,Yes,No,4.53,Plus service,No
+Zone 2,19,32,Unmarried,12,71.00,College degree,5,No,Female,1,Yes,Yes,Yes,Yes,5.25,21.50,62.40,17.00,47.80,97.40,419.25,"1,142.55",275.00,928.45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.26,Total service,Yes
+Zone 3,18,25,Unmarried,4,26.00,High school degree,7,No,Female,3,Yes,No,Yes,No,3.30,27.50,0.00,31.00,0.00,50.35,531.10,0.00,540.00,0.00,No,No,No,No,No,No,Yes,No,3.26,Basic service,No
+Zone 1,9,37,Married,10,14.00,College degree,5,No,Female,6,No,Yes,No,No,2.40,0.00,25.25,0.00,0.00,22.60,0.00,183.25,0.00,0.00,No,No,No,No,No,No,No,No,2.64,Basic service,Yes
+Zone 1,1,34,Married,6,18.00,Did not complete high school,0,No,Female,2,No,No,No,No,1.60,0.00,0.00,0.00,0.00,1.60,0.00,0.00,0.00,0.00,No,No,No,Yes,No,No,No,No,2.89,Basic service,Yes
+Zone 3,10,28,Married,2,36.00,College degree,0,No,Female,3,Yes,Yes,No,Yes,6.30,19.75,27.35,0.00,22.65,67.50,175.15,239.40,0.00,205.15,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.58,Total service,No
+Zone 3,45,34,Married,14,43.00,College degree,0,No,Male,4,No,Yes,No,No,6.55,0.00,32.35,0.00,0.00,315.20,0.00,"1,446.45",0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.76,E-service,Yes
+Zone 1,25,28,Married,6,41.00,College degree,4,No,Female,4,Yes,Yes,Yes,Yes,5.80,14.25,33.85,31.50,26.60,138.85,363.75,849.85,775.00,616.55,No,Yes,No,No,Yes,Yes,Yes,Yes,3.71,Plus service,Yes
+Zone 3,66,39,Unmarried,1,66.00,High school degree,15,No,Female,1,No,No,Yes,No,11.60,0.00,0.00,11.50,0.00,785.70,0.00,0.00,785.00,0.00,Yes,No,No,No,No,No,No,No,4.19,E-service,No
+Zone 1,27,67,Unmarried,1,33.00,College degree,19,Yes,Female,1,Yes,Yes,Yes,No,3.60,17.75,32.35,12.00,0.00,136.90,481.70,807.75,320.00,0.00,Yes,Yes,No,No,Yes,Yes,Yes,No,3.50,Plus service,Yes
+Zone 1,19,41,Unmarried,5,53.00,College degree,6,No,Male,1,No,No,No,No,6.45,0.00,0.00,0.00,0.00,157.30,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.97,Basic service,No
+Zone 2,17,41,Married,9,28.00,College degree,3,No,Male,6,No,No,Yes,No,1.80,0.00,0.00,10.00,0.00,27.10,0.00,0.00,140.00,0.00,No,No,No,No,Yes,No,No,No,3.33,Basic service,No
+Zone 2,16,36,Unmarried,13,58.00,College degree,4,No,Male,1,Yes,Yes,No,No,4.85,18.00,31.75,0.00,0.00,89.95,286.40,477.80,0.00,0.00,No,No,No,No,Yes,Yes,No,Yes,4.06,Basic service,No
+Zone 1,8,42,Married,2,129.00,College degree,17,No,Female,3,No,No,No,No,6.10,0.00,0.00,0.00,0.00,63.80,0.00,0.00,0.00,0.00,No,No,No,Yes,No,No,Yes,Yes,4.86,Basic service,No
+Zone 1,3,25,Unmarried,0,65.00,College degree,0,No,Female,1,No,Yes,Yes,No,3.30,0.00,34.25,11.25,0.00,5.90,0.00,47.65,5.00,0.00,No,Yes,No,Yes,Yes,No,Yes,Yes,4.17,Total service,Yes
+Zone 3,59,57,Unmarried,26,311.00,Some college,36,No,Female,1,No,No,Yes,No,28.75,0.00,0.00,7.50,0.00,"1,719.20",0.00,0.00,415.00,0.00,No,No,No,No,No,No,No,No,5.74,Basic service,No
+Zone 2,45,37,Unmarried,2,57.00,Some college,14,No,Female,1,No,Yes,No,No,10.80,0.00,25.00,0.00,0.00,508.80,0.00,"1,064.75",0.00,0.00,Yes,No,No,No,No,No,No,Yes,4.04,E-service,No
+Zone 1,66,62,Unmarried,31,47.00,High school degree,4,No,Female,1,Yes,No,Yes,No,34.25,21.00,0.00,20.00,0.00,"2,298.25","1,425.35",0.00,"1,355.00",0.00,Yes,No,No,No,No,No,No,No,3.85,E-service,No
+Zone 3,28,50,Married,7,25.00,Did not complete high school,3,No,Male,2,No,No,Yes,No,14.85,0.00,0.00,13.00,0.00,378.85,0.00,0.00,345.00,0.00,No,No,No,No,No,Yes,No,No,3.22,Basic service,No
+Zone 1,15,38,Married,11,46.00,Post-undergraduate degree,11,No,Male,3,No,No,No,No,3.85,0.00,0.00,0.00,0.00,56.30,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.83,Basic service,Yes
+Zone 3,39,34,Married,10,51.00,Some college,13,No,Female,4,Yes,No,Yes,Yes,7.90,78.75,0.00,35.00,38.80,304.45,"3,104.50",0.00,"1,390.00","1,407.85",No,Yes,Yes,No,Yes,Yes,Yes,No,3.93,Total service,No
+Zone 3,38,33,Unmarried,4,19.00,High school degree,5,No,Female,2,Yes,No,No,No,8.50,14.25,0.00,0.00,0.00,323.85,590.45,0.00,0.00,0.00,No,No,No,No,Yes,No,No,No,2.94,Plus service,No
+Zone 3,34,29,Unmarried,5,26.00,Some college,4,No,Female,2,No,Yes,No,No,6.75,0.00,25.80,0.00,0.00,195.20,0.00,780.85,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.26,E-service,No
+Zone 3,60,57,Married,18,72.00,Post-undergraduate degree,30,Yes,Male,2,Yes,Yes,Yes,Yes,20.35,29.00,50.25,20.50,55.90,"1,263.90","1,806.85","3,005.20","1,140.00","3,353.50",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.28,Total service,No
+Zone 3,72,65,Married,33,71.00,Did not complete high school,41,Yes,Female,4,Yes,No,Yes,No,53.65,22.50,0.00,66.25,0.00,"4,036.90","1,717.45",0.00,"4,585.00",0.00,Yes,No,No,No,Yes,Yes,No,No,4.26,Plus service,No
+Zone 1,42,42,Married,9,41.00,High school degree,13,No,Male,8,Yes,No,No,No,15.00,29.25,0.00,0.00,0.00,597.20,"1,250.10",0.00,0.00,0.00,No,Yes,No,No,Yes,Yes,No,No,3.71,Plus service,No
+Zone 3,32,37,Unmarried,9,44.00,High school degree,7,No,Male,1,No,No,No,No,11.25,0.00,0.00,0.00,0.00,359.35,0.00,0.00,0.00,0.00,No,No,No,No,No,No,Yes,Yes,3.78,Basic service,No
+Zone 3,48,50,Married,4,208.00,College degree,19,No,Female,2,Yes,Yes,Yes,Yes,12.90,22.75,43.20,12.00,41.25,652.90,"1,108.90","1,913.55",570.00,"1,905.85",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5.34,Total service,Yes
+Zone 3,63,37,Married,1,45.00,College degree,9,No,Female,6,No,Yes,Yes,No,14.95,0.00,39.25,13.50,0.00,974.15,0.00,"2,383.10",820.00,0.00,Yes,Yes,No,Yes,No,No,No,Yes,3.81,E-service,No
+Zone 3,45,27,Married,3,39.00,Some college,2,No,Male,4,No,No,No,No,13.45,0.00,0.00,0.00,0.00,583.90,0.00,0.00,0.00,0.00,Yes,No,No,No,No,Yes,No,No,3.66,E-service,No
+Zone 2,68,42,Unmarried,16,89.00,College degree,12,No,Male,1,No,Yes,Yes,No,25.60,0.00,33.00,16.00,0.00,"1,759.60",0.00,"2,200.15","1,020.00",0.00,Yes,No,No,Yes,No,No,No,Yes,4.49,E-service,No
+Zone 1,6,29,Married,4,19.00,High school degree,5,No,Female,2,No,No,No,No,4.20,0.00,0.00,0.00,0.00,25.25,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,2.94,Basic service,No
+Zone 1,68,57,Married,33,15.00,High school degree,0,No,Female,2,Yes,No,Yes,Yes,16.10,49.00,0.00,18.75,50.60,"1,120.35","3,330.85",0.00,"1,320.00","3,229.20",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2.71,Total service,Yes
+Zone 3,72,68,Married,26,59.00,High school degree,36,Yes,Female,2,Yes,Yes,Yes,Yes,58.65,24.00,38.20,20.25,48.85,"4,219.10","1,818.00","2,706.60","1,335.00","3,401.60",Yes,Yes,No,Yes,Yes,Yes,Yes,No,4.08,Total service,No
+Zone 3,53,38,Married,15,20.00,Some college,6,No,Female,4,No,No,Yes,Yes,12.05,0.00,0.00,10.75,20.25,547.05,0.00,0.00,545.00,"1,048.40",Yes,No,No,Yes,Yes,Yes,No,Yes,3.00,E-service,No
+Zone 3,20,51,Married,11,27.00,College degree,6,No,Male,3,Yes,No,Yes,No,9.05,24.75,0.00,11.50,0.00,182.95,490.25,0.00,215.00,0.00,No,No,No,No,Yes,Yes,Yes,Yes,3.30,Plus service,No
+Zone 2,70,35,Married,4,48.00,High school degree,9,No,Male,3,No,No,Yes,No,43.60,0.00,0.00,30.00,0.00,"3,040.80",0.00,0.00,"2,020.00",0.00,Yes,No,No,No,No,No,Yes,No,3.87,E-service,No
+Zone 3,32,47,Unmarried,25,135.00,High school degree,6,No,Female,1,No,No,No,No,10.50,0.00,0.00,0.00,0.00,353.00,0.00,0.00,0.00,0.00,No,No,No,Yes,No,No,No,No,4.91,Basic service,No
+Zone 2,61,52,Married,23,19.00,Did not complete high school,0,No,Male,2,Yes,Yes,Yes,No,18.20,24.75,29.95,9.25,0.00,"1,037.65","1,568.40","1,758.40",570.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,2.94,Plus service,Yes
+Zone 1,24,25,Married,3,28.00,College degree,0,No,Male,3,No,Yes,Yes,Yes,10.60,0.00,40.40,25.25,23.40,267.30,0.00,920.15,530.00,533.85,Yes,No,Yes,Yes,No,No,No,Yes,3.33,E-service,No
+Zone 2,56,61,Married,14,12.00,Did not complete high school,16,Yes,Female,2,No,No,Yes,No,16.85,0.00,0.00,11.25,0.00,881.65,0.00,0.00,595.00,0.00,No,No,No,No,No,No,No,No,2.48,Basic service,No
+Zone 3,54,59,Unmarried,28,28.00,High school degree,15,No,Male,1,No,Yes,Yes,Yes,10.70,0.00,31.65,5.25,19.05,638.55,0.00,"1,717.70",290.00,894.10,Yes,No,No,Yes,No,No,Yes,No,3.33,E-service,No
+Zone 3,43,38,Married,7,18.00,Some college,8,No,Female,3,No,Yes,No,Yes,9.40,0.00,39.55,0.00,29.40,411.15,0.00,"1,758.70",0.00,"1,159.30",Yes,Yes,Yes,Yes,Yes,No,No,No,2.89,Total service,No
+Zone 1,19,35,Unmarried,7,58.00,Some college,5,No,Female,1,Yes,Yes,Yes,Yes,3.65,37.00,40.30,21.25,43.05,65.15,690.85,742.95,385.00,741.65,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.06,Total service,Yes
+Zone 3,5,43,Unmarried,16,72.00,Some college,17,No,Female,1,Yes,No,Yes,No,5.55,15.75,0.00,6.50,0.00,23.90,62.25,0.00,25.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.28,Plus service,No
+Zone 1,24,61,Married,6,112.00,College degree,3,No,Female,4,No,No,Yes,No,8.20,0.00,0.00,11.00,0.00,210.25,0.00,0.00,265.00,0.00,No,No,No,Yes,No,No,No,Yes,4.72,Basic service,Yes
+Zone 3,62,35,Married,2,28.00,High school degree,8,No,Female,2,No,No,Yes,No,18.45,0.00,0.00,19.00,0.00,"1,152.70",0.00,0.00,"1,150.00",0.00,Yes,No,No,No,No,No,No,No,3.33,E-service,No
+Zone 2,14,40,Unmarried,13,398.00,Post-undergraduate degree,11,No,Female,1,Yes,Yes,Yes,Yes,6.40,18.00,43.10,23.75,47.70,71.00,259.00,597.80,295.00,644.35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.99,Total service,Yes
+Zone 3,60,48,Married,22,106.00,Some college,21,No,Female,3,Yes,No,Yes,Yes,13.05,44.25,0.00,17.00,69.55,760.95,"2,601.85",0.00,"1,050.00","4,154.55",Yes,Yes,Yes,No,Yes,Yes,Yes,No,4.66,Total service,No
+Zone 2,30,74,Married,12,10.00,Did not complete high school,3,Yes,Female,2,Yes,No,Yes,No,7.25,30.25,0.00,17.25,0.00,225.30,906.00,0.00,585.00,0.00,No,No,No,No,Yes,Yes,Yes,No,2.30,Plus service,No
+Zone 1,40,42,Married,16,108.00,Some college,17,No,Male,4,No,Yes,No,No,4.95,0.00,29.70,0.00,0.00,205.65,0.00,"1,151.35",0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,4.68,E-service,Yes
+Zone 2,42,50,Married,17,85.00,High school degree,15,No,Female,4,No,No,Yes,No,14.30,0.00,0.00,11.50,0.00,567.95,0.00,0.00,485.00,0.00,No,No,No,No,No,No,No,No,4.44,Basic service,No
+Zone 1,20,34,Unmarried,14,51.00,Some college,9,No,Female,1,No,No,No,No,5.65,0.00,0.00,0.00,0.00,126.40,0.00,0.00,0.00,0.00,Yes,No,No,Yes,No,No,No,No,3.93,E-service,Yes
+Zone 1,4,22,Married,1,22.00,High school degree,2,No,Female,3,No,No,Yes,No,2.25,0.00,0.00,23.50,0.00,8.00,0.00,0.00,85.00,0.00,No,No,No,No,No,Yes,Yes,No,3.09,Plus service,No
+Zone 2,44,49,Married,2,66.00,High school degree,8,No,Female,4,Yes,No,Yes,Yes,4.25,43.25,0.00,38.75,39.55,184.90,"1,980.05",0.00,"1,655.00","1,655.90",Yes,Yes,Yes,No,Yes,Yes,Yes,No,4.19,Total service,No
+Zone 3,49,63,Unmarried,18,10.00,High school degree,2,Yes,Male,1,Yes,No,Yes,No,13.90,33.25,0.00,12.75,0.00,668.95,"1,624.60",0.00,615.00,0.00,No,No,No,No,Yes,Yes,Yes,No,2.30,Plus service,No
+Zone 3,5,36,Married,2,34.00,Did not complete high school,4,No,Female,2,Yes,No,No,No,3.50,19.50,0.00,0.00,0.00,14.20,105.90,0.00,0.00,0.00,No,No,No,No,No,Yes,Yes,No,3.53,Plus service,Yes
+Zone 3,70,50,Married,29,67.00,Did not complete high school,22,No,Male,4,No,No,Yes,No,51.90,0.00,0.00,15.75,0.00,"3,438.40",0.00,0.00,"1,075.00",0.00,Yes,No,No,No,No,No,No,No,4.20,E-service,No
+Zone 1,30,57,Married,16,19.00,Did not complete high school,1,No,Male,4,No,No,Yes,No,7.25,0.00,0.00,8.50,0.00,200.10,0.00,0.00,285.00,0.00,No,No,No,No,No,No,No,No,2.94,Basic service,Yes
+Zone 2,28,48,Unmarried,20,128.00,College degree,4,No,Female,1,Yes,Yes,Yes,Yes,10.00,20.75,53.60,26.50,55.30,313.05,590.90,"1,481.35",710.00,"1,424.20",No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.85,Total service,Yes
+Zone 1,5,28,Married,3,39.00,Post-undergraduate degree,1,No,Male,6,Yes,Yes,Yes,Yes,4.70,24.25,44.65,16.50,32.50,30.75,131.90,184.25,60.00,106.20,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3.66,Total service,No
+Zone 2,27,35,Unmarried,12,56.00,Did not complete high school,3,No,Female,1,Yes,Yes,Yes,Yes,8.25,32.50,35.65,11.00,33.85,202.55,897.95,903.25,205.00,805.95,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.03,Total service,No
+Zone 2,17,39,Unmarried,12,45.00,College degree,10,No,Female,1,No,Yes,No,No,8.65,0.00,28.95,0.00,0.00,133.10,0.00,450.20,0.00,0.00,No,No,No,No,No,No,No,Yes,3.81,Basic service,Yes
+Zone 1,4,37,Married,8,25.00,Did not complete high school,1,No,Female,5,No,No,No,No,2.50,0.00,0.00,0.00,0.00,9.15,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.22,Basic service,No
+Zone 1,30,23,Married,0,24.00,High school degree,1,No,Female,4,Yes,No,No,No,13.35,22.50,0.00,0.00,0.00,397.40,636.35,0.00,0.00,0.00,No,No,No,Yes,Yes,No,Yes,No,3.18,Plus service,No
+Zone 3,71,40,Married,19,53.00,College degree,14,No,Female,2,Yes,No,Yes,Yes,10.15,40.00,0.00,27.75,38.35,781.70,"2,912.30",0.00,"2,030.00","2,590.65",Yes,No,Yes,Yes,Yes,Yes,Yes,No,3.97,Total service,No
+Zone 3,67,77,Unmarried,55,49.00,Did not complete high school,45,Yes,Female,1,No,No,Yes,No,25.35,0.00,0.00,26.75,0.00,"1,692.00",0.00,0.00,"1,755.00",0.00,No,No,No,No,Yes,No,No,No,3.89,Basic service,No
+Zone 3,24,48,Married,3,38.00,Did not complete high school,16,No,Female,2,No,No,Yes,No,5.55,0.00,0.00,11.25,0.00,133.40,0.00,0.00,265.00,0.00,No,No,No,No,No,No,No,No,3.64,Basic service,No
+Zone 1,24,54,Married,7,84.00,Some college,10,No,Female,2,No,Yes,Yes,No,11.45,0.00,28.70,10.50,0.00,288.05,0.00,675.40,220.00,0.00,No,No,No,Yes,No,No,No,Yes,4.43,Basic service,Yes
+Zone 2,59,54,Unmarried,32,126.00,Did not complete high school,22,No,Female,1,Yes,No,Yes,No,13.60,28.75,0.00,11.75,0.00,796.40,"1,625.10",0.00,660.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.84,Plus service,No
+Zone 3,59,32,Unmarried,9,73.00,College degree,5,No,Male,1,Yes,No,Yes,No,29.20,21.50,0.00,12.75,0.00,"1,726.60","1,231.90",0.00,655.00,0.00,Yes,No,No,No,Yes,No,No,Yes,4.29,E-service,Yes
+Zone 3,44,37,Married,1,41.00,College degree,8,No,Female,6,No,No,No,No,9.15,0.00,0.00,0.00,0.00,387.95,0.00,0.00,0.00,0.00,Yes,Yes,No,Yes,No,No,No,Yes,3.71,E-service,No
+Zone 1,19,31,Married,0,22.00,College degree,2,No,Male,3,No,No,No,No,4.85,0.00,0.00,0.00,0.00,88.90,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,No,3.09,E-service,Yes
+Zone 2,58,46,Married,23,23.00,Did not complete high school,2,No,Female,2,No,Yes,Yes,No,11.10,0.00,25.60,10.50,0.00,620.75,0.00,"1,471.40",625.00,0.00,No,No,No,Yes,No,No,No,No,3.14,Basic service,No
+Zone 1,41,53,Married,22,94.00,High school degree,25,No,Male,2,No,No,Yes,No,12.65,0.00,0.00,11.75,0.00,488.15,0.00,0.00,500.00,0.00,Yes,No,No,No,No,No,Yes,No,4.54,E-service,No
+Zone 2,16,33,Unmarried,1,30.00,Some college,7,No,Male,4,Yes,Yes,Yes,Yes,9.25,21.00,41.40,17.75,41.00,138.50,282.30,634.10,265.00,595.30,No,Yes,No,No,Yes,Yes,Yes,No,3.40,Plus service,Yes
+Zone 3,13,36,Unmarried,11,31.00,High school degree,0,No,Male,1,No,No,No,No,2.30,0.00,0.00,0.00,0.00,30.50,0.00,0.00,0.00,0.00,No,No,No,No,No,No,Yes,No,3.43,Basic service,Yes
+Zone 1,60,53,Unmarried,22,171.00,Did not complete high school,37,No,Female,1,Yes,No,Yes,No,9.90,31.75,0.00,18.00,0.00,608.65,"1,972.10",0.00,"1,070.00",0.00,No,No,No,No,Yes,Yes,Yes,No,5.14,Plus service,No
+Zone 2,72,49,Married,23,102.00,Did not complete high school,27,No,Female,6,No,No,Yes,No,41.15,0.00,0.00,33.25,0.00,"3,098.55",0.00,0.00,"2,345.00",0.00,Yes,No,No,No,No,No,No,No,4.62,E-service,No
+Zone 2,33,39,Unmarried,17,27.00,College degree,3,No,Female,1,Yes,Yes,Yes,Yes,9.70,21.75,41.75,8.50,61.60,294.80,680.30,"1,342.05",255.00,"2,019.75",Yes,Yes,Yes,Yes,Yes,No,No,Yes,3.30,Total service,No
+Zone 2,72,45,Married,25,98.00,College degree,20,No,Female,2,No,No,Yes,Yes,30.25,0.00,0.00,13.25,42.85,"2,182.65",0.00,0.00,900.00,"2,940.35",Yes,Yes,Yes,No,Yes,Yes,Yes,No,4.58,Total service,No
+Zone 1,66,54,Married,8,591.00,College degree,25,No,Female,2,Yes,Yes,Yes,Yes,25.00,34.25,45.00,16.00,53.00,"1,636.25","2,242.55","2,816.25","1,005.00","3,538.50",Yes,Yes,Yes,No,Yes,Yes,Yes,No,6.38,Total service,No
+Zone 3,53,37,Married,7,25.00,Did not complete high school,2,No,Female,6,Yes,No,Yes,No,5.40,52.00,0.00,34.00,0.00,291.50,"2,794.95",0.00,"1,660.00",0.00,No,No,No,No,Yes,Yes,Yes,No,3.22,Plus service,No
+Zone 2,22,28,Married,0,36.00,College degree,0,No,Male,4,Yes,Yes,Yes,Yes,9.70,21.50,39.90,9.50,42.90,220.75,480.10,857.20,175.00,883.20,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3.58,Total service,No
+Zone 2,14,26,Married,1,25.00,High school degree,0,No,Female,3,No,No,No,No,4.40,0.00,0.00,0.00,0.00,71.20,0.00,0.00,0.00,0.00,No,No,No,No,No,Yes,No,No,3.22,Plus service,No
+Zone 1,52,49,Unmarried,18,69.00,High school degree,13,No,Female,2,No,No,Yes,Yes,18.35,0.00,0.00,19.00,34.50,893.25,0.00,0.00,935.00,"1,711.70",No,No,No,No,Yes,Yes,Yes,No,4.23,Plus service,No
+Zone 3,33,30,Married,5,22.00,Did not complete high school,0,No,Male,2,Yes,No,Yes,Yes,5.55,33.75,0.00,37.25,30.00,211.05,"1,129.25",0.00,"1,215.00",946.80,No,No,Yes,No,Yes,Yes,Yes,No,3.09,Plus service,No
+Zone 3,72,66,Unmarried,26,67.00,High school degree,37,Yes,Female,1,Yes,No,Yes,No,39.10,65.00,0.00,39.75,0.00,"2,743.65","4,748.45",0.00,"2,830.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,4.20,Plus service,No
+Zone 1,40,40,Married,3,73.00,College degree,12,No,Female,4,No,No,Yes,Yes,10.00,0.00,0.00,14.00,27.15,376.60,0.00,0.00,555.00,"1,035.50",Yes,Yes,No,No,Yes,Yes,Yes,No,4.29,Plus service,Yes
+Zone 2,29,26,Unmarried,1,22.00,College degree,2,No,Female,1,No,Yes,Yes,Yes,6.10,0.00,47.00,24.25,35.55,175.30,0.00,"1,265.65",710.00,965.90,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,3.09,Total service,Yes
+Zone 3,63,67,Unmarried,22,9.00,High school degree,12,Yes,Male,1,No,No,Yes,No,18.05,0.00,0.00,19.00,0.00,"1,140.20",0.00,0.00,"1,135.00",0.00,No,No,No,No,Yes,Yes,Yes,No,2.20,Plus service,No
+Zone 2,56,54,Unmarried,25,147.00,Some college,31,No,Female,1,Yes,Yes,Yes,Yes,12.70,24.50,39.05,24.25,34.20,763.10,"1,348.15","2,108.10","1,310.00","1,848.85",Yes,No,Yes,Yes,No,No,No,Yes,4.99,E-service,No
+Zone 3,60,50,Married,26,239.00,High school degree,19,No,Female,2,Yes,No,Yes,Yes,21.50,77.75,0.00,10.25,64.20,"1,377.00","4,628.50",0.00,570.00,"3,756.15",No,Yes,Yes,No,Yes,Yes,Yes,No,5.48,Total service,No
+Zone 3,28,22,Married,3,23.00,Some college,1,No,Male,5,No,No,No,No,10.95,0.00,0.00,0.00,0.00,263.95,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,3.14,Basic service,No
+Zone 2,39,39,Unmarried,19,29.00,College degree,6,No,Male,1,No,No,Yes,No,5.95,0.00,0.00,21.25,0.00,227.85,0.00,0.00,835.00,0.00,Yes,No,No,Yes,No,No,Yes,No,3.37,E-service,No
+Zone 3,65,39,Married,18,32.00,High school degree,15,No,Male,4,No,No,Yes,No,21.10,0.00,0.00,9.75,0.00,"1,432.80",0.00,0.00,585.00,0.00,No,No,No,No,No,Yes,No,No,3.47,Plus service,No
+Zone 3,29,31,Unmarried,7,30.00,Some college,7,No,Female,1,Yes,No,Yes,No,7.60,33.75,0.00,14.50,0.00,240.85,937.85,0.00,395.00,0.00,No,No,Yes,No,Yes,Yes,Yes,No,3.40,Plus service,No
+Zone 3,28,36,Unmarried,8,57.00,High school degree,13,No,Female,2,Yes,No,Yes,No,9.60,21.75,0.00,17.25,0.00,272.85,607.95,0.00,435.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.04,Plus service,No
+Zone 1,2,18,Unmarried,0,20.00,High school degree,0,No,Male,1,Yes,No,Yes,Yes,3.75,22.25,0.00,23.50,27.10,4.45,44.65,0.00,15.00,25.65,No,No,Yes,No,Yes,Yes,Yes,No,3.00,Plus service,Yes
+Zone 3,67,52,Unmarried,13,248.00,High school degree,20,No,Female,3,Yes,Yes,Yes,No,35.85,39.75,34.30,22.25,0.00,"2,368.90","2,522.75","2,170.85","1,435.00",0.00,Yes,No,No,No,No,Yes,Yes,No,5.51,Plus service,No
+Zone 3,5,35,Married,9,59.00,Some college,8,No,Female,5,Yes,Yes,Yes,Yes,3.10,18.50,37.90,22.75,26.40,21.45,114.80,140.35,120.00,109.60,No,No,Yes,Yes,Yes,No,No,Yes,4.08,Total service,No
+Zone 3,48,35,Unmarried,10,24.00,High school degree,6,No,Male,1,Yes,No,Yes,No,16.95,43.00,0.00,28.50,0.00,874.45,"2,007.40",0.00,"1,270.00",0.00,No,No,No,No,No,Yes,Yes,No,3.18,Plus service,No
+Zone 2,10,26,Married,4,25.00,Did not complete high school,4,No,Female,3,No,No,No,No,3.70,0.00,0.00,0.00,0.00,38.20,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.22,Basic service,No
+Zone 2,17,28,Unmarried,3,37.00,Some college,2,No,Female,1,No,No,No,No,5.50,0.00,0.00,0.00,0.00,84.25,0.00,0.00,0.00,0.00,Yes,No,No,No,No,Yes,Yes,No,3.61,Plus service,Yes
+Zone 1,21,24,Married,0,30.00,College degree,0,No,Female,5,Yes,Yes,Yes,Yes,17.80,23.75,36.30,10.50,31.75,374.05,513.65,738.90,205.00,642.20,Yes,Yes,No,Yes,Yes,Yes,No,Yes,3.40,Total service,No
+Zone 2,25,51,Unmarried,9,66.00,College degree,13,No,Male,2,Yes,Yes,Yes,Yes,6.45,16.25,48.15,31.00,34.55,140.85,415.55,"1,202.65",790.00,828.25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.19,Total service,No
+Zone 3,44,31,Unmarried,8,16.00,Did not complete high school,3,No,Male,1,No,No,Yes,No,14.40,0.00,0.00,12.00,0.00,632.95,0.00,0.00,490.00,0.00,No,No,No,No,No,No,No,No,2.77,Basic service,Yes
+Zone 2,59,49,Unmarried,28,429.00,College degree,23,No,Female,2,Yes,Yes,Yes,Yes,10.20,24.25,42.85,16.00,43.35,592.20,"1,524.80","2,444.70",885.00,"2,450.90",Yes,No,Yes,No,No,Yes,Yes,Yes,6.06,Total service,Yes
+Zone 2,11,26,Unmarried,7,20.00,High school degree,4,No,Male,1,No,No,No,No,6.95,0.00,0.00,0.00,0.00,84.05,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.00,Basic service,No
+Zone 2,50,68,Married,32,262.00,Some college,28,No,Male,2,Yes,Yes,Yes,Yes,12.40,20.50,40.80,18.25,25.15,601.10,993.65,"2,025.25",870.00,"1,217.35",No,No,No,Yes,No,Yes,Yes,Yes,5.57,Plus service,No
+Zone 3,23,25,Married,2,28.00,Some college,1,No,Female,5,No,No,No,No,4.15,0.00,0.00,0.00,0.00,94.25,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,No,3.33,E-service,No
+Zone 1,17,19,Unmarried,0,18.00,High school degree,0,No,Female,2,No,Yes,No,No,7.10,0.00,24.95,0.00,0.00,120.35,0.00,401.80,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,2.89,E-service,Yes
+Zone 1,15,62,Married,3,144.00,Some college,21,No,Male,2,Yes,No,Yes,Yes,5.25,15.50,0.00,31.75,33.95,81.05,237.90,0.00,490.00,446.10,No,Yes,No,No,Yes,Yes,Yes,No,4.97,Plus service,No
+Zone 2,68,57,Married,38,33.00,Did not complete high school,9,No,Female,2,No,No,Yes,No,13.50,0.00,0.00,19.00,0.00,901.00,0.00,0.00,"1,240.00",0.00,Yes,No,No,No,No,No,No,No,3.50,E-service,No
+Zone 1,69,42,Married,23,19.00,Some college,0,No,Female,2,No,Yes,Yes,No,25.95,0.00,36.90,18.75,0.00,"1,812.15",0.00,"2,630.50","1,270.00",0.00,No,No,No,Yes,No,No,No,Yes,2.94,Basic service,No
+Zone 1,30,24,Married,3,30.00,Did not complete high school,7,No,Female,5,No,No,No,No,6.75,0.00,0.00,0.00,0.00,171.75,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.40,Basic service,Yes
+Zone 3,22,30,Unmarried,8,41.00,High school degree,8,No,Male,1,Yes,No,Yes,Yes,6.10,22.75,0.00,13.25,21.35,119.95,441.25,0.00,290.00,467.05,No,Yes,No,No,Yes,No,Yes,No,3.71,Plus service,No
+Zone 2,10,20,Married,1,20.00,High school degree,0,No,Female,4,No,No,No,No,5.90,0.00,0.00,0.00,0.00,48.95,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.00,Basic service,Yes
+Zone 1,72,59,Married,12,65.00,Some college,21,No,Female,6,No,Yes,Yes,No,34.65,0.00,36.45,40.75,0.00,"2,519.30",0.00,"2,583.90","2,910.00",0.00,Yes,No,No,No,No,No,No,No,4.17,E-service,No
+Zone 2,34,24,Married,5,17.00,College degree,0,No,Female,2,No,No,Yes,No,15.25,0.00,0.00,4.75,0.00,522.45,0.00,0.00,150.00,0.00,No,No,No,No,No,No,Yes,No,2.83,Plus service,No
+Zone 2,43,49,Married,18,66.00,Did not complete high school,22,No,Male,4,No,No,Yes,No,8.60,0.00,0.00,20.75,0.00,376.70,0.00,0.00,875.00,0.00,Yes,No,No,No,Yes,No,Yes,No,4.19,Plus service,No
+Zone 3,31,37,Married,15,18.00,College degree,5,No,Male,3,Yes,Yes,Yes,Yes,5.20,19.50,47.25,15.75,39.80,151.70,611.10,"1,457.95",460.00,"1,170.30",No,Yes,Yes,Yes,No,Yes,No,Yes,2.89,Total service,No
+Zone 2,6,27,Married,5,26.00,College degree,2,No,Male,5,Yes,No,No,No,5.60,12.00,0.00,0.00,0.00,30.35,72.50,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.26,Basic service,Yes
+Zone 2,48,42,Unmarried,21,46.00,College degree,4,No,Male,1,No,No,Yes,No,14.45,0.00,0.00,41.50,0.00,618.10,0.00,0.00,"1,935.00",0.00,No,No,No,No,Yes,Yes,No,No,3.83,Plus service,No
+Zone 2,50,25,Unmarried,6,19.00,Did not complete high school,5,No,Male,3,No,No,Yes,No,7.25,0.00,0.00,7.50,0.00,356.15,0.00,0.00,375.00,0.00,No,No,No,No,No,No,No,No,2.94,Basic service,No
+Zone 3,20,41,Married,19,58.00,High school degree,6,No,Female,2,No,No,No,No,5.25,0.00,0.00,0.00,0.00,98.20,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,No,4.06,E-service,No
+Zone 3,61,73,Unmarried,10,25.00,Did not complete high school,21,Yes,Male,1,No,No,Yes,No,16.65,0.00,0.00,71.00,0.00,965.60,0.00,0.00,"4,350.00",0.00,No,No,No,No,No,No,No,No,3.22,Basic service,No
+Zone 2,6,21,Unmarried,0,15.00,High school degree,1,No,Female,1,No,No,No,No,3.65,0.00,0.00,0.00,0.00,19.40,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,2.71,Basic service,No
+Zone 2,1,22,Unmarried,2,35.00,High school degree,2,No,Male,1,No,No,No,No,1.65,0.00,0.00,0.00,0.00,1.65,0.00,0.00,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.56,Basic service,Yes
+Zone 1,21,43,Unmarried,13,41.00,High school degree,1,No,Female,1,Yes,Yes,Yes,Yes,6.15,23.75,45.40,12.25,37.25,118.15,497.15,878.60,195.00,763.50,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.71,Total service,Yes
+Zone 3,7,32,Unmarried,1,71.00,College degree,3,No,Male,2,Yes,Yes,No,Yes,3.60,15.25,41.00,0.00,28.05,19.10,122.10,245.65,0.00,157.15,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,4.26,Total service,No
+Zone 3,65,56,Married,19,608.00,Some college,34,No,Female,2,Yes,No,Yes,Yes,14.55,69.50,0.00,20.25,68.30,964.85,"4,584.80",0.00,"1,300.00","4,325.60",No,Yes,Yes,No,Yes,Yes,Yes,No,6.41,Total service,No
+Zone 1,64,37,Unmarried,10,44.00,College degree,9,No,Female,1,No,Yes,Yes,No,16.15,0.00,35.05,22.00,0.00,965.30,0.00,"2,337.25","1,350.00",0.00,Yes,Yes,No,No,No,Yes,No,Yes,3.78,E-service,No
+Zone 3,4,30,Unmarried,0,41.00,High school degree,0,No,Male,2,No,No,No,No,2.00,0.00,0.00,0.00,0.00,9.90,0.00,0.00,0.00,0.00,No,No,No,No,Yes,Yes,No,No,3.71,Plus service,Yes
+Zone 1,67,45,Married,22,83.00,Some college,11,No,Female,2,No,No,Yes,No,27.00,0.00,0.00,10.75,0.00,"1,724.80",0.00,0.00,640.00,0.00,Yes,No,No,No,No,Yes,No,Yes,4.42,E-service,No
+Zone 2,22,35,Unmarried,12,28.00,High school degree,3,No,Male,2,No,No,No,No,6.60,0.00,0.00,0.00,0.00,180.55,0.00,0.00,0.00,0.00,Yes,No,Yes,Yes,No,No,No,No,3.33,E-service,Yes
+Zone 3,51,37,Married,17,101.00,High school degree,10,No,Female,2,No,No,Yes,No,14.95,0.00,0.00,9.50,0.00,736.85,0.00,0.00,480.00,0.00,Yes,No,No,No,Yes,Yes,No,No,4.62,Plus service,No
+Zone 1,50,28,Unmarried,6,28.00,Did not complete high school,10,No,Female,1,Yes,Yes,Yes,Yes,6.40,17.25,36.85,12.75,22.00,330.95,851.70,"1,869.40",600.00,997.00,Yes,No,No,No,Yes,Yes,Yes,No,3.33,Plus service,No
+Zone 1,31,47,Married,18,35.00,High school degree,0,No,Male,2,No,No,No,No,11.95,0.00,0.00,0.00,0.00,390.60,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.56,Basic service,No
+Zone 3,4,28,Unmarried,0,39.00,High school degree,3,No,Female,1,Yes,No,Yes,No,7.10,15.00,0.00,12.75,0.00,23.80,70.45,0.00,25.00,0.00,No,No,No,No,Yes,Yes,No,No,3.66,Plus service,Yes
+Zone 3,60,56,Unmarried,19,51.00,College degree,11,No,Male,1,No,Yes,Yes,Yes,15.25,0.00,57.45,28.50,67.00,873.70,0.00,"3,404.10","1,630.00","4,046.25",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.93,Total service,No
+Zone 3,7,31,Married,12,31.00,High school degree,7,No,Female,6,No,No,No,No,5.05,0.00,0.00,0.00,0.00,38.05,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,3.43,Basic service,Yes
+Zone 3,20,40,Unmarried,2,209.00,College degree,15,No,Female,1,No,No,Yes,No,7.20,0.00,0.00,4.75,0.00,172.10,0.00,0.00,80.00,0.00,Yes,No,No,No,No,No,No,Yes,5.34,E-service,No
+Zone 2,19,23,Married,4,37.00,Some college,1,No,Female,4,Yes,Yes,No,No,8.40,17.50,24.80,0.00,0.00,136.05,302.50,446.00,0.00,0.00,No,No,No,No,Yes,No,Yes,No,3.61,Plus service,Yes
+Zone 3,58,37,Married,5,64.00,College degree,8,No,Female,2,Yes,Yes,Yes,Yes,10.80,58.75,63.25,37.75,109.70,634.75,"3,525.55","3,521.45","2,305.00","6,444.95",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.16,Total service,Yes
+Zone 3,65,64,Unmarried,20,88.00,Some college,26,No,Female,1,Yes,Yes,Yes,Yes,15.10,36.25,39.90,24.00,48.80,"1,017.90","2,202.45","2,534.25","1,620.00","3,242.75",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.48,Total service,Yes
+Zone 3,72,61,Married,34,61.00,Did not complete high school,8,No,Male,3,No,No,Yes,No,27.35,0.00,0.00,13.25,0.00,"1,980.15",0.00,0.00,895.00,0.00,Yes,No,No,No,No,No,No,No,4.11,E-service,No
+Zone 3,8,42,Unmarried,3,66.00,Some college,10,No,Male,1,No,No,Yes,Yes,1.95,0.00,0.00,27.50,21.50,16.85,0.00,0.00,185.00,157.55,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.19,Total service,No
+Zone 2,33,40,Married,14,19.00,Some college,5,No,Male,2,No,No,Yes,No,5.05,0.00,0.00,8.50,0.00,178.90,0.00,0.00,315.00,0.00,No,No,No,No,No,No,No,No,2.94,Basic service,No
+Zone 3,18,34,Married,4,42.00,High school degree,14,No,Female,5,Yes,No,Yes,No,6.45,19.00,0.00,17.00,0.00,104.05,318.75,0.00,240.00,0.00,No,Yes,Yes,No,Yes,Yes,Yes,No,3.74,Total service,No
+Zone 2,24,31,Married,6,41.00,High school degree,13,No,Male,5,Yes,No,Yes,No,8.50,20.00,0.00,13.00,0.00,196.80,480.70,0.00,275.00,0.00,No,No,No,No,Yes,Yes,No,No,3.71,Plus service,No
+Zone 3,70,36,Unmarried,8,50.00,Did not complete high school,15,No,Female,1,No,No,Yes,No,20.55,0.00,0.00,20.75,0.00,"1,407.15",0.00,0.00,"1,370.00",0.00,Yes,No,No,No,No,No,No,No,3.91,E-service,No
+Zone 1,7,38,Unmarried,4,70.00,College degree,4,No,Male,1,Yes,Yes,Yes,Yes,3.85,19.25,38.35,7.00,17.70,26.65,127.50,250.30,40.00,129.55,Yes,Yes,Yes,Yes,Yes,No,No,Yes,4.25,Total service,Yes
+Zone 3,70,59,Unmarried,27,85.00,Did not complete high school,19,No,Female,1,Yes,No,Yes,No,38.90,62.50,0.00,62.00,0.00,"2,711.00","4,387.30",0.00,"4,220.00",0.00,No,No,No,No,Yes,Yes,Yes,No,4.44,Plus service,No
+Zone 2,20,48,Married,21,45.00,Some college,2,No,Female,2,Yes,No,Yes,Yes,10.70,33.00,0.00,27.50,29.40,192.15,645.65,0.00,480.00,528.30,Yes,Yes,No,No,Yes,Yes,Yes,No,3.81,Plus service,Yes
+Zone 3,54,32,Married,12,27.00,Did not complete high school,9,No,Male,2,No,No,Yes,No,33.95,0.00,0.00,24.25,0.00,"1,801.30",0.00,0.00,"1,300.00",0.00,Yes,No,No,No,No,No,No,No,3.30,E-service,No
+Zone 3,36,48,Unmarried,28,29.00,Did not complete high school,2,No,Male,1,No,No,No,No,6.00,0.00,0.00,0.00,0.00,222.80,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.37,Basic service,No
+Zone 3,71,53,Married,29,48.00,College degree,0,No,Female,2,Yes,No,Yes,No,34.95,28.75,0.00,36.00,0.00,"2,506.05","2,074.75",0.00,"2,560.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,3.87,Plus service,No
+Zone 1,17,41,Unmarried,4,32.00,High school degree,3,No,Male,1,Yes,No,Yes,No,12.60,9.50,0.00,6.75,0.00,208.00,168.00,0.00,100.00,0.00,No,No,No,No,No,Yes,No,No,3.47,Plus service,No
+Zone 1,18,45,Married,17,43.00,Did not complete high school,9,No,Male,3,Yes,No,Yes,No,4.45,17.00,0.00,13.75,0.00,78.65,287.30,0.00,245.00,0.00,No,No,No,No,Yes,Yes,No,No,3.76,Plus service,No
+Zone 1,16,27,Unmarried,8,16.00,Post-undergraduate degree,0,No,Female,1,Yes,Yes,Yes,Yes,5.45,17.75,44.85,13.50,33.90,102.75,282.20,675.65,235.00,524.20,No,No,Yes,No,Yes,Yes,Yes,Yes,2.77,Total service,Yes
+Zone 3,38,30,Married,6,22.00,High school degree,3,No,Female,2,No,No,Yes,No,5.60,0.00,0.00,12.25,0.00,215.05,0.00,0.00,455.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.09,E-service,No
+Zone 1,52,45,Married,19,40.00,Some college,9,No,Female,3,No,Yes,Yes,Yes,8.45,0.00,34.35,14.50,34.10,512.65,0.00,"1,793.90",705.00,"1,740.70",Yes,Yes,No,Yes,No,Yes,Yes,Yes,3.69,Total service,No
+Zone 1,46,48,Married,12,256.00,Some college,25,No,Male,6,Yes,Yes,Yes,Yes,13.80,31.75,43.65,18.75,66.00,612.55,"1,449.00","1,961.75",835.00,"3,064.75",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,5.55,Total service,No
+Zone 2,31,46,Unmarried,23,144.00,College degree,13,No,Male,1,Yes,No,Yes,No,7.60,15.25,0.00,9.75,0.00,271.55,501.15,0.00,290.00,0.00,No,No,No,Yes,Yes,Yes,No,Yes,4.97,Plus service,No
+Zone 2,23,31,Unmarried,10,45.00,College degree,0,No,Male,2,Yes,No,No,No,5.00,11.75,0.00,0.00,0.00,119.50,275.05,0.00,0.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.81,E-service,No
+Zone 2,38,56,Married,34,34.00,High school degree,0,No,Female,3,No,No,No,Yes,7.80,0.00,0.00,0.00,24.65,272.75,0.00,0.00,0.00,888.45,Yes,No,No,Yes,Yes,Yes,Yes,No,3.53,Plus service,No
+Zone 2,50,54,Unmarried,15,248.00,Some college,28,No,Female,1,Yes,No,Yes,Yes,11.05,17.25,0.00,5.50,29.15,497.90,833.85,0.00,270.00,"1,453.85",Yes,No,No,No,Yes,Yes,No,No,5.51,Plus service,No
+Zone 2,16,49,Unmarried,17,41.00,High school degree,5,No,Male,1,Yes,Yes,No,Yes,4.10,14.00,39.15,0.00,31.80,62.45,260.05,620.00,0.00,521.35,No,Yes,Yes,Yes,No,Yes,No,No,3.71,Total service,No
+Zone 2,14,34,Married,4,27.00,College degree,1,No,Female,2,Yes,Yes,Yes,Yes,6.05,23.50,36.25,20.50,37.85,90.20,313.80,454.45,260.00,474.00,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3.30,Total service,No
+Zone 2,30,52,Unmarried,23,17.00,Some college,3,No,Female,1,No,Yes,Yes,No,10.30,0.00,37.60,15.25,0.00,367.40,0.00,"1,106.40",420.00,0.00,Yes,No,No,Yes,No,No,No,No,2.83,E-service,Yes
+Zone 3,22,47,Married,0,44.00,College degree,11,No,Female,3,Yes,Yes,Yes,Yes,9.00,21.25,50.75,57.25,57.00,194.55,466.90,"1,053.10","1,220.00","1,264.05",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.78,Total service,Yes
+Zone 1,38,55,Married,12,135.00,High school degree,24,No,Male,4,Yes,No,Yes,No,12.15,31.75,0.00,16.25,0.00,467.75,"1,167.65",0.00,595.00,0.00,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.91,Total service,No
+Zone 3,59,26,Married,3,41.00,College degree,1,No,Female,3,No,Yes,Yes,Yes,12.65,0.00,35.10,46.75,29.15,804.00,0.00,"2,099.25","2,710.00","1,707.10",Yes,No,No,Yes,No,No,No,No,3.71,E-service,Yes
+Zone 2,54,55,Unmarried,1,587.00,Some college,33,No,Male,1,No,No,No,No,13.00,0.00,0.00,0.00,0.00,650.85,0.00,0.00,0.00,0.00,No,Yes,No,No,Yes,Yes,Yes,No,6.38,Plus service,No
+Zone 3,9,40,Unmarried,13,38.00,College degree,7,No,Female,1,Yes,Yes,Yes,Yes,3.35,21.00,42.40,17.50,59.55,37.70,179.80,329.05,125.00,482.10,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.64,Total service,Yes
+Zone 1,67,67,Married,38,49.00,High school degree,10,No,Female,2,No,Yes,Yes,No,14.30,0.00,29.25,25.25,0.00,924.55,0.00,"1,963.25","1,675.00",0.00,Yes,No,No,Yes,No,No,No,Yes,3.89,E-service,No
+Zone 2,24,44,Unmarried,19,33.00,Some college,0,No,Female,2,No,Yes,No,No,4.65,0.00,26.65,0.00,0.00,100.95,0.00,568.20,0.00,0.00,No,No,No,No,No,No,Yes,Yes,3.50,Basic service,No
+Zone 2,12,55,Married,13,36.00,Did not complete high school,5,No,Female,2,No,Yes,No,No,5.95,0.00,26.55,0.00,0.00,73.35,0.00,300.75,0.00,0.00,Yes,No,No,Yes,No,No,No,No,3.58,E-service,Yes
+Zone 1,26,47,Unmarried,13,54.00,Some college,0,No,Male,1,Yes,Yes,Yes,Yes,7.10,16.00,38.50,18.00,23.50,205.40,484.90,946.85,435.00,547.75,Yes,Yes,No,Yes,No,No,Yes,Yes,3.99,E-service,No
+Zone 2,3,32,Unmarried,4,58.00,High school degree,11,No,Male,4,Yes,Yes,Yes,Yes,2.75,15.75,29.50,9.25,28.55,5.70,49.65,50.50,15.00,67.70,Yes,Yes,Yes,No,No,Yes,No,Yes,4.06,Total service,Yes
+Zone 2,20,46,Unmarried,2,23.00,Post-undergraduate degree,4,No,Female,2,No,No,No,No,4.75,0.00,0.00,0.00,0.00,82.30,0.00,0.00,0.00,0.00,Yes,Yes,No,Yes,Yes,Yes,No,Yes,3.14,Total service,No
+Zone 3,5,52,Married,0,97.00,Post-undergraduate degree,9,No,Male,2,Yes,Yes,Yes,Yes,3.10,16.50,35.25,25.50,40.30,12.90,83.00,127.35,115.00,162.75,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.57,Total service,Yes
+Zone 3,58,53,Unmarried,19,207.00,Some college,12,No,Female,1,Yes,Yes,Yes,Yes,7.30,29.50,51.20,22.00,62.80,447.15,"1,653.90","2,986.65","1,250.00","3,613.30",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.33,Total service,Yes
+Zone 1,54,28,Married,2,21.00,Some college,3,No,Male,4,No,No,Yes,No,10.40,0.00,0.00,25.75,0.00,567.55,0.00,0.00,"1,395.00",0.00,No,No,No,No,No,No,No,No,3.04,Basic service,No
+Zone 2,52,39,Unmarried,6,119.00,Some college,18,No,Female,1,Yes,No,Yes,No,10.50,25.00,0.00,8.25,0.00,556.50,"1,280.90",0.00,450.00,0.00,No,No,Yes,No,No,No,No,Yes,4.78,Basic service,No
+Zone 2,38,30,Married,10,25.00,Did not complete high school,5,No,Female,4,No,No,Yes,No,3.95,0.00,0.00,12.00,0.00,179.75,0.00,0.00,430.00,0.00,No,No,No,No,No,No,No,No,3.22,Basic service,No
+Zone 2,19,46,Unmarried,5,59.00,Some college,17,No,Male,1,Yes,No,No,No,5.60,9.00,0.00,0.00,0.00,97.25,191.25,0.00,0.00,0.00,No,No,No,No,No,No,Yes,No,4.08,Basic service,No
+Zone 2,22,33,Married,2,24.00,Did not complete high school,3,No,Male,4,No,No,No,No,7.10,0.00,0.00,0.00,0.00,153.40,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,3.18,Basic service,No
+Zone 1,49,35,Married,15,113.00,College degree,4,No,Male,5,No,No,No,No,16.10,0.00,0.00,0.00,0.00,818.45,0.00,0.00,0.00,0.00,Yes,No,No,No,No,No,No,Yes,4.73,E-service,No
+Zone 3,5,39,Unmarried,0,22.00,Did not complete high school,0,No,Female,2,Yes,No,Yes,No,4.70,19.00,0.00,9.25,0.00,32.95,106.85,0.00,30.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.09,Plus service,No
+Zone 2,18,69,Unmarried,28,11.00,Did not complete high school,17,Yes,Male,1,No,No,No,No,3.85,0.00,0.00,0.00,0.00,62.75,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,2.40,Basic service,No
+Zone 3,43,29,Unmarried,4,33.00,Did not complete high school,13,No,Female,4,Yes,No,Yes,Yes,22.05,18.75,0.00,7.50,24.95,"1,042.95",830.75,0.00,345.00,"1,124.25",Yes,No,No,No,Yes,Yes,Yes,No,3.50,Plus service,No
+Zone 3,17,50,Unmarried,2,205.00,Post-undergraduate degree,19,No,Male,1,Yes,Yes,No,Yes,6.95,21.25,37.95,0.00,36.65,121.45,371.20,523.75,0.00,620.30,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5.32,Total service,Yes
+Zone 2,37,33,Unmarried,4,41.00,Some college,8,No,Female,3,No,Yes,No,No,9.20,0.00,30.45,0.00,0.00,347.10,0.00,"1,158.90",0.00,0.00,Yes,No,No,No,No,No,No,Yes,3.71,E-service,Yes
+Zone 2,8,39,Unmarried,0,39.00,Did not complete high school,7,No,Female,1,Yes,No,No,No,3.15,10.75,0.00,0.00,0.00,29.05,83.55,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.66,Basic service,No
+Zone 2,51,46,Married,8,107.00,High school degree,21,No,Female,6,Yes,No,Yes,Yes,17.30,25.75,0.00,23.00,37.40,840.00,"1,396.75",0.00,"1,155.00","1,832.25",Yes,No,Yes,No,Yes,Yes,Yes,No,4.67,Plus service,No
+Zone 1,71,55,Married,11,198.00,Did not complete high school,31,No,Female,3,Yes,No,Yes,No,17.80,44.25,0.00,32.00,0.00,"1,218.00","3,058.50",0.00,"2,305.00",0.00,Yes,Yes,No,No,Yes,Yes,Yes,No,5.29,Plus service,No
+Zone 1,56,53,Married,23,100.00,Post-undergraduate degree,14,No,Female,2,No,Yes,Yes,No,14.15,0.00,34.20,9.50,0.00,752.90,0.00,"1,988.65",560.00,0.00,Yes,Yes,No,Yes,No,No,No,Yes,4.61,E-service,No
+Zone 3,70,68,Unmarried,21,"1,131.00",High school degree,45,No,Male,1,Yes,No,Yes,Yes,14.85,57.50,0.00,15.00,39.50,"1,104.40","3,926.65",0.00,990.00,"2,798.25",Yes,No,Yes,No,Yes,Yes,Yes,No,7.03,Plus service,No
+Zone 1,62,53,Unmarried,14,360.00,Some college,26,No,Female,2,Yes,No,Yes,No,31.90,53.25,0.00,16.50,0.00,"1,892.85","3,232.05",0.00,890.00,0.00,Yes,No,No,No,Yes,Yes,Yes,No,5.89,Plus service,No
+Zone 1,50,52,Married,22,162.00,High school degree,27,No,Female,2,Yes,Yes,Yes,Yes,12.85,24.25,49.20,14.25,42.85,599.05,"1,238.20","2,498.35",725.00,"2,032.30",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,5.09,Total service,No
+Zone 3,1,31,Unmarried,3,29.00,Post-undergraduate degree,2,No,Female,3,No,Yes,No,No,1.45,0.00,25.25,0.00,0.00,1.45,0.00,25.25,0.00,0.00,No,No,No,Yes,No,No,No,Yes,3.37,Basic service,Yes
+Zone 3,15,26,Unmarried,1,38.00,College degree,1,No,Male,2,No,Yes,No,No,7.40,0.00,35.40,0.00,0.00,91.70,0.00,483.50,0.00,0.00,Yes,Yes,No,Yes,No,Yes,No,Yes,3.64,Total service,Yes
+Zone 3,72,55,Married,24,82.00,Some college,25,No,Female,2,No,Yes,Yes,No,62.30,0.00,35.65,65.25,0.00,"4,333.00",0.00,"2,477.10","4,915.00",0.00,Yes,No,No,No,Yes,No,No,Yes,4.41,E-service,No
+Zone 2,69,47,Married,10,159.00,High school degree,24,No,Male,4,No,No,Yes,No,25.20,0.00,0.00,36.25,0.00,"1,714.70",0.00,0.00,"2,470.00",0.00,No,No,No,No,No,Yes,No,No,5.07,Plus service,Yes
+Zone 2,32,44,Unmarried,10,201.00,High school degree,24,No,Male,1,Yes,No,Yes,No,7.65,28.00,0.00,18.50,0.00,237.85,895.05,0.00,595.00,0.00,No,No,Yes,No,Yes,Yes,Yes,No,5.30,Plus service,No
+Zone 1,19,25,Married,6,27.00,College degree,0,No,Female,2,Yes,No,Yes,No,9.55,20.50,0.00,34.75,0.00,172.55,398.95,0.00,620.00,0.00,No,Yes,No,No,Yes,Yes,Yes,No,3.30,Plus service,Yes
+Zone 2,42,54,Unmarried,19,57.00,Some college,10,No,Female,1,No,Yes,Yes,Yes,8.70,0.00,47.15,11.75,47.50,356.45,0.00,"1,872.70",415.00,"1,932.35",Yes,Yes,No,Yes,No,No,Yes,Yes,4.04,Total service,No
+Zone 3,51,49,Unmarried,29,45.00,Did not complete high school,16,No,Male,1,No,No,Yes,No,15.70,0.00,0.00,8.50,0.00,815.05,0.00,0.00,400.00,0.00,No,No,No,No,Yes,No,No,No,3.81,Basic service,No
+Zone 2,32,22,Married,2,17.00,High school degree,2,No,Female,4,Yes,No,Yes,No,4.80,28.00,0.00,19.00,0.00,157.25,952.90,0.00,600.00,0.00,No,Yes,No,No,Yes,Yes,Yes,No,2.83,Plus service,Yes
+Zone 3,26,55,Married,13,61.00,Did not complete high school,26,No,Male,2,Yes,No,Yes,No,4.25,29.00,0.00,12.00,0.00,102.45,729.15,0.00,300.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.11,Plus service,No
+Zone 2,39,44,Married,14,418.00,College degree,18,No,Male,2,Yes,No,Yes,No,7.05,27.50,0.00,17.50,0.00,269.00,"1,046.20",0.00,640.00,0.00,No,Yes,Yes,No,Yes,Yes,Yes,No,6.04,Total service,No
+Zone 2,72,53,Unmarried,12,152.00,High school degree,32,No,Female,1,Yes,No,Yes,Yes,43.25,50.50,0.00,19.25,44.90,"3,115.00","3,669.00",0.00,"1,315.00","3,120.35",Yes,No,Yes,Yes,Yes,Yes,No,No,5.02,Total service,No
+Zone 2,4,39,Unmarried,11,38.00,College degree,1,No,Male,2,Yes,No,Yes,Yes,2.80,22.75,0.00,13.75,30.20,9.35,103.45,0.00,40.00,76.90,No,Yes,Yes,Yes,Yes,Yes,Yes,No,3.64,Total service,Yes
+Zone 2,54,50,Married,5,151.00,College degree,20,No,Male,3,Yes,No,Yes,Yes,21.95,40.25,0.00,25.75,21.80,"1,248.25","2,030.20",0.00,"1,355.00","1,121.05",Yes,No,No,No,Yes,Yes,Yes,No,5.02,Plus service,No
+Zone 1,34,40,Married,21,23.00,College degree,9,No,Female,3,Yes,Yes,Yes,Yes,5.95,25.75,45.40,16.75,37.70,207.70,805.85,"1,498.85",540.00,"1,257.70",Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3.14,Total service,No
+Zone 1,20,25,Married,4,33.00,College degree,0,No,Female,3,Yes,No,Yes,Yes,4.55,16.00,0.00,19.25,27.05,115.65,288.75,0.00,365.00,511.25,No,No,No,Yes,No,Yes,No,Yes,3.50,Basic service,No
+Zone 3,14,49,Unmarried,4,26.00,Did not complete high school,8,No,Male,1,No,No,Yes,No,6.50,0.00,0.00,14.50,0.00,86.70,0.00,0.00,180.00,0.00,No,No,No,No,No,No,No,No,3.26,Basic service,No
+Zone 1,61,59,Unmarried,26,89.00,Did not complete high school,40,Yes,Female,1,Yes,No,Yes,No,17.35,35.00,0.00,29.25,0.00,988.80,"2,166.80",0.00,"1,805.00",0.00,No,No,No,No,Yes,No,Yes,No,4.49,Plus service,No
+Zone 2,4,24,Unmarried,2,25.00,College degree,0,No,Male,1,No,No,Yes,No,3.75,0.00,0.00,15.75,0.00,12.40,0.00,0.00,35.00,0.00,No,Yes,No,Yes,Yes,No,No,No,3.22,Basic service,Yes
+Zone 3,16,48,Unmarried,25,59.00,High school degree,13,No,Male,2,Yes,No,Yes,No,7.85,20.25,0.00,14.00,0.00,104.90,349.40,0.00,180.00,0.00,No,No,No,No,Yes,Yes,Yes,No,4.08,Plus service,Yes
+Zone 1,13,41,Unmarried,9,55.00,High school degree,12,No,Female,3,No,No,No,No,4.85,0.00,0.00,0.00,0.00,55.65,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,Yes,4.01,Basic service,No
+Zone 2,53,37,Married,18,25.00,Some college,6,No,Female,2,No,Yes,Yes,No,9.95,0.00,28.65,23.50,0.00,558.15,0.00,"1,533.10","1,170.00",0.00,Yes,No,No,Yes,No,No,No,Yes,3.22,E-service,Yes
+Zone 2,58,36,Married,13,39.00,High school degree,8,No,Female,7,Yes,No,Yes,Yes,16.40,38.25,0.00,55.50,57.05,933.10,"2,355.40",0.00,"3,145.00","3,247.95",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.66,Total service,Yes
+Zone 2,25,38,Married,19,56.00,Did not complete high school,19,No,Female,2,No,Yes,Yes,Yes,10.55,0.00,31.95,32.75,23.65,290.25,0.00,732.95,770.00,578.45,No,Yes,No,No,No,No,Yes,No,4.03,Plus service,No
+Zone 1,71,61,Married,19,155.00,Some college,30,No,Male,2,Yes,No,Yes,No,23.90,27.50,0.00,15.00,0.00,"1,684.05","1,935.15",0.00,"1,030.00",0.00,Yes,No,No,No,Yes,Yes,Yes,No,5.04,Plus service,No
+Zone 1,22,33,Married,13,119.00,Post-undergraduate degree,0,No,Female,4,Yes,Yes,No,Yes,4.30,23.25,51.60,0.00,60.35,88.50,520.45,"1,013.30",0.00,"1,230.70",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4.78,Total service,Yes
+Zone 1,46,48,Married,15,64.00,Some college,20,No,Male,2,Yes,Yes,Yes,Yes,10.20,26.50,40.20,11.50,23.20,393.55,"1,316.70","1,832.00",510.00,948.75,No,No,No,No,Yes,Yes,Yes,Yes,4.16,Plus service,No
+Zone 3,66,50,Married,2,333.00,Post-undergraduate degree,24,No,Male,2,No,No,Yes,No,10.30,0.00,0.00,14.25,0.00,659.55,0.00,0.00,975.00,0.00,Yes,No,Yes,Yes,No,No,No,No,5.81,E-service,No
+Zone 1,69,58,Married,29,26.00,High school degree,7,No,Female,3,Yes,Yes,Yes,Yes,32.65,33.00,54.00,29.25,50.65,"2,321.80","2,378.20","3,649.60","2,055.00","3,475.45",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3.26,Total service,No
+Zone 2,38,49,Married,3,33.00,College degree,11,No,Male,4,No,Yes,No,Yes,6.85,0.00,42.10,0.00,25.15,285.55,0.00,"1,642.15",0.00,954.00,Yes,No,No,Yes,Yes,No,Yes,Yes,3.50,E-service,No
+Zone 3,16,35,Unmarried,7,46.00,Some college,3,No,Male,1,No,Yes,No,No,5.10,0.00,27.15,0.00,0.00,74.10,0.00,434.15,0.00,0.00,No,No,No,No,No,No,No,Yes,3.83,Basic service,No
+Zone 3,44,39,Married,8,41.00,High school degree,8,No,Male,4,Yes,No,Yes,No,7.55,16.25,0.00,10.25,0.00,353.30,638.25,0.00,490.00,0.00,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.71,Total service,No
+Zone 1,50,50,Unmarried,24,31.00,Did not complete high school,8,No,Male,1,No,No,Yes,No,11.95,0.00,0.00,28.25,0.00,540.50,0.00,0.00,"1,355.00",0.00,No,No,No,No,No,Yes,Yes,No,3.43,Plus service,No
+Zone 3,10,23,Unmarried,1,29.00,College degree,0,No,Female,1,Yes,Yes,Yes,Yes,4.95,32.00,53.25,35.75,50.45,62.10,323.80,420.55,285.00,416.00,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.37,Total service,No
+Zone 2,7,41,Unmarried,6,94.00,High school degree,16,No,Male,1,Yes,Yes,Yes,Yes,3.85,28.00,37.65,9.00,41.40,27.95,218.90,256.30,65.00,237.25,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.54,Total service,No
+Zone 3,71,48,Unmarried,25,288.00,Some college,19,No,Male,1,No,No,Yes,No,30.90,0.00,0.00,19.75,0.00,"2,123.60",0.00,0.00,"1,305.00",0.00,No,No,No,No,No,Yes,No,No,5.66,Basic service,No
+Zone 3,16,39,Married,5,31.00,Did not complete high school,4,No,Female,5,No,No,No,No,5.00,0.00,0.00,0.00,0.00,69.60,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.43,Basic service,No
+Zone 3,6,20,Unmarried,0,25.00,High school degree,0,No,Female,2,Yes,No,Yes,No,1.90,20.75,0.00,15.50,0.00,19.30,114.40,0.00,95.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.22,Plus service,No
+Zone 2,46,55,Unmarried,24,269.00,High school degree,35,No,Male,1,Yes,No,Yes,No,10.10,39.00,0.00,18.00,0.00,449.70,"1,829.75",0.00,775.00,0.00,No,No,Yes,No,Yes,Yes,Yes,No,5.59,Plus service,No
+Zone 3,51,49,Married,13,203.00,Some college,27,No,Male,4,Yes,No,Yes,No,17.60,22.00,0.00,21.75,0.00,961.90,"1,125.25",0.00,"1,075.00",0.00,No,Yes,No,No,Yes,Yes,Yes,No,5.31,Plus service,No
+Zone 3,5,34,Unmarried,12,22.00,High school degree,2,No,Male,2,Yes,Yes,No,Yes,3.60,12.50,28.50,0.00,19.30,16.10,46.70,143.65,0.00,86.15,No,Yes,No,No,Yes,Yes,No,Yes,3.09,Basic service,Yes
+Zone 2,49,54,Married,23,25.00,High school degree,1,No,Female,4,No,No,Yes,No,14.65,0.00,0.00,41.25,0.00,719.50,0.00,0.00,"1,980.00",0.00,No,No,No,No,No,No,No,No,3.22,Basic service,No
+Zone 3,49,51,Married,14,222.00,Post-undergraduate degree,16,No,Male,2,No,No,No,No,12.25,0.00,0.00,0.00,0.00,575.60,0.00,0.00,0.00,0.00,Yes,No,No,Yes,Yes,No,No,Yes,5.40,E-service,No
+Zone 1,26,30,Married,4,76.00,Some college,7,No,Male,2,No,Yes,No,No,9.45,0.00,29.20,0.00,0.00,214.70,0.00,697.05,0.00,0.00,No,No,Yes,No,No,No,No,Yes,4.33,Basic service,No
+Zone 3,22,39,Unmarried,4,55.00,High school degree,17,No,Female,1,Yes,No,Yes,Yes,5.40,38.75,0.00,17.75,50.20,81.55,908.35,0.00,290.00,"1,147.40",No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.01,Total service,Yes
+Zone 3,51,45,Married,4,46.00,Some college,6,No,Male,2,Yes,Yes,Yes,Yes,20.70,34.75,48.65,32.25,48.65,"1,082.40","1,711.75","2,496.35","1,600.00","2,353.35",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3.83,Total service,No
+Zone 1,19,27,Married,7,56.00,College degree,1,No,Male,4,No,Yes,Yes,Yes,4.75,0.00,46.30,21.75,37.70,97.85,0.00,804.35,445.00,692.95,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.03,Total service,Yes
+Zone 1,9,36,Unmarried,1,79.00,Some college,11,No,Female,5,Yes,Yes,Yes,Yes,5.80,27.75,33.75,30.75,25.90,44.55,246.00,246.85,230.00,186.80,No,Yes,No,No,Yes,Yes,Yes,No,4.37,Plus service,Yes
+Zone 3,15,25,Married,0,51.00,Some college,2,No,Female,2,No,No,No,No,3.15,0.00,0.00,0.00,0.00,45.35,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.93,Basic service,No
+Zone 2,57,63,Unmarried,19,61.00,Did not complete high school,27,No,Male,1,Yes,No,Yes,No,12.70,38.25,0.00,33.75,0.00,767.75,"2,239.70",0.00,"1,880.00",0.00,No,No,No,No,Yes,Yes,Yes,No,4.11,Plus service,No
+Zone 3,48,45,Unmarried,15,41.00,Did not complete high school,10,No,Female,2,No,No,No,No,10.20,0.00,0.00,0.00,0.00,445.70,0.00,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.71,Basic service,No
+Zone 2,9,53,Married,20,50.00,High school degree,13,No,Female,2,No,Yes,No,No,3.10,0.00,21.35,0.00,0.00,22.00,0.00,196.15,0.00,0.00,No,No,No,No,No,No,No,Yes,3.91,Basic service,Yes
+Zone 1,61,52,Unmarried,21,82.00,Did not complete high school,18,No,Male,1,No,No,Yes,No,12.10,0.00,0.00,15.75,0.00,751.75,0.00,0.00,910.00,0.00,No,No,No,No,No,Yes,Yes,No,4.41,Plus service,No
+Zone 3,72,53,Unmarried,34,108.00,Did not complete high school,23,No,Male,1,Yes,No,Yes,Yes,32.55,35.50,0.00,14.75,40.75,"2,361.35","2,535.40",0.00,"1,060.00","2,886.05",Yes,No,No,No,Yes,Yes,Yes,No,4.68,Plus service,No
+Zone 3,57,60,Unmarried,20,14.00,High school degree,27,Yes,Female,1,Yes,No,Yes,No,16.10,14.00,0.00,11.75,0.00,938.65,822.35,0.00,630.00,0.00,No,No,No,No,Yes,Yes,Yes,No,2.64,Plus service,No
+Zone 2,57,51,Unmarried,10,46.00,Did not complete high school,13,No,Male,1,No,No,Yes,No,15.10,0.00,0.00,7.50,0.00,901.05,0.00,0.00,395.00,0.00,Yes,No,No,Yes,No,No,Yes,No,3.83,E-service,No
+Zone 1,37,60,Married,0,46.00,Did not complete high school,20,No,Male,3,Yes,No,Yes,No,8.80,37.75,0.00,22.00,0.00,293.65,"1,377.85",0.00,785.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.83,Plus service,No
+Zone 3,45,51,Unmarried,13,146.00,College degree,16,No,Male,2,No,No,Yes,No,20.25,0.00,0.00,37.75,0.00,869.75,0.00,0.00,"1,640.00",0.00,No,No,No,No,No,No,No,Yes,4.98,Basic service,No
+Zone 3,45,39,Married,15,36.00,Did not complete high school,11,No,Female,5,No,No,Yes,No,15.20,0.00,0.00,14.25,0.00,736.75,0.00,0.00,615.00,0.00,No,No,No,Yes,No,No,No,No,3.58,Basic service,No
+Zone 2,55,44,Unmarried,24,83.00,Did not complete high school,23,No,Female,1,Yes,No,Yes,No,17.35,24.50,0.00,14.25,0.00,973.10,"1,343.50",0.00,720.00,0.00,No,No,No,No,No,Yes,Yes,No,4.42,Plus service,No
+Zone 2,24,27,Unmarried,2,17.00,Some college,3,No,Male,5,Yes,No,No,No,5.20,18.50,0.00,0.00,0.00,89.00,462.25,0.00,0.00,0.00,Yes,Yes,No,No,Yes,No,No,No,2.83,E-service,Yes
+Zone 3,1,20,Unmarried,1,18.00,Some college,0,No,Male,1,No,Yes,No,Yes,4.20,0.00,34.05,0.00,16.85,4.20,0.00,34.05,0.00,16.85,No,Yes,No,Yes,No,No,Yes,Yes,2.89,Basic service,Yes
+Zone 2,34,23,Married,3,24.00,Did not complete high school,7,No,Female,4,Yes,No,Yes,No,6.00,28.00,0.00,12.75,0.00,203.25,959.40,0.00,435.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.18,Plus service,No
+Zone 3,14,37,Married,5,48.00,Some college,1,No,Female,4,Yes,No,No,No,4.90,14.50,0.00,0.00,0.00,78.20,230.35,0.00,0.00,0.00,No,No,No,No,No,No,No,No,3.87,Basic service,No
+Zone 3,6,32,Unmarried,10,47.00,Did not complete high school,10,No,Male,1,Yes,No,Yes,No,3.85,23.75,0.00,12.50,0.00,29.90,128.45,0.00,80.00,0.00,No,No,No,No,Yes,Yes,Yes,No,3.85,Plus service,No
+Zone 3,24,30,Unmarried,0,25.00,College degree,5,No,Male,2,Yes,No,Yes,Yes,8.70,47.75,0.00,32.75,64.00,186.60,"1,152.90",0.00,780.00,"1,542.90",No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.22,Total service,Yes
+Zone 2,3,26,Married,6,59.00,College degree,0,No,Female,3,Yes,Yes,Yes,Yes,2.55,23.50,29.60,10.75,19.20,2.70,80.50,66.55,10.00,29.70,No,Yes,Yes,No,No,Yes,Yes,No,4.08,Total service,Yes
+Zone 1,4,30,Unmarried,1,45.00,College degree,6,No,Male,3,No,Yes,Yes,No,3.65,0.00,34.20,29.00,0.00,8.85,0.00,116.20,80.00,0.00,No,Yes,No,Yes,No,Yes,Yes,Yes,3.81,Total service,Yes
+Zone 1,72,40,Married,19,163.00,College degree,15,No,Male,2,Yes,No,Yes,No,39.00,31.25,0.00,14.75,0.00,"2,914.00","2,176.85",0.00,"1,070.00",0.00,Yes,No,No,No,No,No,Yes,Yes,5.09,E-service,No
+Zone 1,44,56,Unmarried,4,63.00,High school degree,6,No,Female,1,Yes,No,No,No,7.50,20.25,0.00,0.00,0.00,342.20,861.95,0.00,0.00,0.00,Yes,No,No,No,Yes,No,No,No,4.14,Plus service,Yes
+Zone 1,50,43,Unmarried,6,27.00,Some college,4,No,Male,1,Yes,No,Yes,No,15.00,45.25,0.00,52.75,0.00,817.85,"2,320.25",0.00,"2,645.00",0.00,No,No,No,No,Yes,Yes,Yes,No,3.30,Plus service,No
+Zone 2,61,50,Married,16,190.00,High school degree,22,No,Female,2,No,Yes,Yes,Yes,16.85,0.00,42.55,26.50,44.10,"1,063.15",0.00,"2,544.35","1,600.00","2,540.20",Yes,No,No,Yes,No,Yes,No,Yes,5.25,E-service,No
+Zone 1,34,52,Married,2,106.00,High school degree,19,No,Male,2,Yes,No,Yes,No,4.95,19.00,0.00,13.50,0.00,153.50,649.35,0.00,430.00,0.00,No,No,No,Yes,No,Yes,Yes,No,4.66,Plus service,No
+Zone 3,26,54,Married,30,26.00,Some college,1,No,Female,2,Yes,No,Yes,Yes,5.20,23.50,0.00,23.75,39.25,149.20,670.10,0.00,610.00,"1,004.35",No,No,Yes,No,Yes,Yes,Yes,Yes,3.26,Total service,Yes
+Zone 1,15,46,Married,17,63.00,Post-undergraduate degree,1,No,Male,2,Yes,Yes,No,Yes,3.70,16.50,42.50,0.00,33.10,40.55,207.35,547.95,0.00,475.30,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4.14,Total service,Yes
+Zone 3,10,39,Unmarried,0,27.00,Some college,0,No,Female,3,No,Yes,No,No,3.00,0.00,29.05,0.00,0.00,32.25,0.00,265.95,0.00,0.00,No,No,No,No,No,No,No,Yes,3.30,Basic service,No
+Zone 1,7,34,Unmarried,2,22.00,Post-undergraduate degree,5,No,Female,1,No,Yes,No,No,4.65,0.00,25.60,0.00,0.00,29.35,0.00,179.10,0.00,0.00,No,No,No,No,No,No,No,No,3.09,Basic service,No
+Zone 3,67,59,Unmarried,40,944.00,Post-undergraduate degree,33,No,Female,1,Yes,Yes,Yes,Yes,26.75,32.00,54.55,35.75,65.80,"1,837.55","2,117.65","3,636.60","2,360.00","4,392.85",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6.85,Total service,No
+Zone 3,70,49,Unmarried,18,87.00,High school degree,22,No,Female,1,Yes,No,Yes,No,25.60,33.50,0.00,25.25,0.00,"1,841.85","2,368.20",0.00,"1,705.00",0.00,No,Yes,No,No,Yes,Yes,Yes,No,4.47,Plus service,No
+Zone 3,50,36,Married,7,39.00,Some college,3,No,Female,3,No,Yes,Yes,No,13.15,0.00,33.60,16.25,0.00,665.40,0.00,"1,651.90",745.00,0.00,Yes,No,No,Yes,No,No,No,Yes,3.66,E-service,Yes
